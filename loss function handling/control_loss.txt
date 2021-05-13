@@ -1,0 +1,2272 @@
+errD0: 2.39 errD1: 2.24 errD2: 2.34 
+g_loss0: 7.83 g_loss1: 10.15 g_loss2: 6.15 w_loss: 19.10 s_loss: 19.47 perceptual_loss: 4.13 kl_loss: 0.01 
+errD0: 2.42 errD1: 2.35 errD2: 2.21 
+g_loss0: 5.11 g_loss1: 5.53 g_loss2: 8.10 w_loss: 10.63 s_loss: 15.67 perceptual_loss: 3.98 kl_loss: 0.01 
+errD0: 2.56 errD1: 2.17 errD2: 2.10 
+g_loss0: 5.74 g_loss1: 8.91 g_loss2: 12.77 w_loss: 9.62 s_loss: 16.33 perceptual_loss: 3.78 kl_loss: 0.01 
+errD0: 2.32 errD1: 2.22 errD2: 2.10 
+g_loss0: 7.52 g_loss1: 7.72 g_loss2: 12.60 w_loss: 6.42 s_loss: 16.94 perceptual_loss: 4.08 kl_loss: 0.01 
+errD0: 2.08 errD1: 4.27 errD2: 2.18 
+g_loss0: 8.71 g_loss1: 18.77 g_loss2: 9.35 w_loss: 7.50 s_loss: 11.59 perceptual_loss: 4.03 kl_loss: 0.01 
+errD0: 2.13 errD1: 2.40 errD2: 1.98 
+g_loss0: 10.75 g_loss1: 6.62 g_loss2: 14.16 w_loss: 9.43 s_loss: 16.17 perceptual_loss: 3.45 kl_loss: 0.01 
+errD0: 2.04 errD1: 2.19 errD2: 2.04 
+g_loss0: 13.70 g_loss1: 7.71 g_loss2: 16.63 w_loss: 12.70 s_loss: 16.31 perceptual_loss: 4.02 kl_loss: 0.02 
+errD0: 2.24 errD1: 2.12 errD2: 2.17 
+g_loss0: 6.03 g_loss1: 14.26 g_loss2: 11.45 w_loss: 7.08 s_loss: 14.68 perceptual_loss: 4.25 kl_loss: 0.02 
+errD0: 2.30 errD1: 2.29 errD2: 2.20 
+g_loss0: 10.69 g_loss1: 9.48 g_loss2: 11.32 w_loss: 13.78 s_loss: 16.50 perceptual_loss: 4.25 kl_loss: 0.02 
+errD0: 2.18 errD1: 2.48 errD2: 2.10 
+g_loss0: 12.90 g_loss1: 18.59 g_loss2: 10.41 w_loss: 12.16 s_loss: 13.71 perceptual_loss: 4.34 kl_loss: 0.01 
+errD0: 2.24 errD1: 2.17 errD2: 2.11 
+g_loss0: 5.76 g_loss1: 8.64 g_loss2: 12.91 w_loss: 7.06 s_loss: 10.36 perceptual_loss: 3.80 kl_loss: 0.02 
+[0/200][1106]
+                  Loss_D: 7.02 Loss_G: 56.09 Time: 829.49s
+Save G/Ds models.
+errD0: 2.07 errD1: 2.18 errD2: 2.08 
+g_loss0: 9.20 g_loss1: 9.50 g_loss2: 11.93 w_loss: 7.94 s_loss: 13.70 perceptual_loss: 4.14 kl_loss: 0.02 
+errD0: 2.26 errD1: 2.09 errD2: 2.19 
+g_loss0: 10.70 g_loss1: 11.07 g_loss2: 11.78 w_loss: 4.86 s_loss: 13.84 perceptual_loss: 4.28 kl_loss: 0.02 
+errD0: 2.25 errD1: 2.22 errD2: 1.99 
+g_loss0: 4.16 g_loss1: 7.97 g_loss2: 10.13 w_loss: 3.55 s_loss: 9.97 perceptual_loss: 4.35 kl_loss: 0.02 
+errD0: 2.09 errD1: 2.23 errD2: 2.10 
+g_loss0: 16.84 g_loss1: 13.84 g_loss2: 12.40 w_loss: 6.12 s_loss: 12.17 perceptual_loss: 3.50 kl_loss: 0.02 
+errD0: 2.45 errD1: 2.17 errD2: 2.14 
+g_loss0: 6.05 g_loss1: 8.83 g_loss2: 7.44 w_loss: 12.49 s_loss: 17.69 perceptual_loss: 4.13 kl_loss: 0.02 
+errD0: 2.30 errD1: 2.25 errD2: 2.08 
+g_loss0: 10.97 g_loss1: 5.94 g_loss2: 17.34 w_loss: 7.94 s_loss: 10.32 perceptual_loss: 4.42 kl_loss: 0.02 
+errD0: 1.74 errD1: 2.01 errD2: 2.05 
+g_loss0: 8.52 g_loss1: 7.32 g_loss2: 8.86 w_loss: 7.80 s_loss: 10.96 perceptual_loss: 3.70 kl_loss: 0.02 
+errD0: 2.05 errD1: 3.12 errD2: 2.25 
+g_loss0: 19.53 g_loss1: 7.54 g_loss2: 6.52 w_loss: 7.37 s_loss: 12.70 perceptual_loss: 3.67 kl_loss: 0.04 
+errD0: 2.19 errD1: 2.10 errD2: 1.95 
+g_loss0: 11.37 g_loss1: 10.97 g_loss2: 17.54 w_loss: 7.97 s_loss: 12.52 perceptual_loss: 4.06 kl_loss: 0.03 
+errD0: 2.21 errD1: 2.90 errD2: 2.17 
+g_loss0: 9.50 g_loss1: 4.31 g_loss2: 14.84 w_loss: 7.50 s_loss: 11.44 perceptual_loss: 4.59 kl_loss: 0.03 
+errD0: 1.98 errD1: 2.04 errD2: 2.13 
+g_loss0: 7.43 g_loss1: 10.55 g_loss2: 8.91 w_loss: 7.45 s_loss: 11.46 perceptual_loss: 3.99 kl_loss: 0.03 
+[1/200][1106]
+                  Loss_D: 6.55 Loss_G: 65.74 Time: 728.61s
+errD0: 2.13 errD1: 2.04 errD2: 2.35 
+g_loss0: 11.39 g_loss1: 12.35 g_loss2: 9.55 w_loss: 11.20 s_loss: 15.04 perceptual_loss: 4.55 kl_loss: 0.03 
+errD0: 2.23 errD1: 2.13 errD2: 3.33 
+g_loss0: 9.69 g_loss1: 7.10 g_loss2: 22.27 w_loss: 11.67 s_loss: 13.89 perceptual_loss: 4.55 kl_loss: 0.02 
+errD0: 1.99 errD1: 1.98 errD2: 2.01 
+g_loss0: 10.60 g_loss1: 10.38 g_loss2: 8.86 w_loss: 10.39 s_loss: 11.00 perceptual_loss: 4.60 kl_loss: 0.05 
+errD0: 2.23 errD1: 2.40 errD2: 1.62 
+g_loss0: 4.50 g_loss1: 7.52 g_loss2: 7.02 w_loss: 17.02 s_loss: 15.75 perceptual_loss: 4.18 kl_loss: 0.05 
+errD0: 2.38 errD1: 2.10 errD2: 2.18 
+g_loss0: 16.83 g_loss1: 9.92 g_loss2: 9.31 w_loss: 7.57 s_loss: 11.03 perceptual_loss: 4.24 kl_loss: 0.03 
+errD0: 2.14 errD1: 2.31 errD2: 2.17 
+g_loss0: 10.14 g_loss1: 3.41 g_loss2: 9.67 w_loss: 11.98 s_loss: 16.48 perceptual_loss: 4.24 kl_loss: 0.06 
+errD0: 1.97 errD1: 3.42 errD2: 2.05 
+g_loss0: 6.31 g_loss1: 0.46 g_loss2: 6.11 w_loss: 15.93 s_loss: 16.44 perceptual_loss: 4.19 kl_loss: 0.04 
+errD0: 2.16 errD1: 2.29 errD2: 1.79 
+g_loss0: 9.95 g_loss1: 5.54 g_loss2: 15.41 w_loss: 5.68 s_loss: 9.17 perceptual_loss: 3.91 kl_loss: 0.07 
+errD0: 2.10 errD1: 2.19 errD2: 2.52 
+g_loss0: 13.91 g_loss1: 12.21 g_loss2: 11.61 w_loss: 7.19 s_loss: 13.58 perceptual_loss: 3.73 kl_loss: 0.05 
+errD0: 2.09 errD1: 2.16 errD2: 1.89 
+g_loss0: 10.53 g_loss1: 8.10 g_loss2: 12.83 w_loss: 7.55 s_loss: 11.38 perceptual_loss: 4.04 kl_loss: 0.08 
+errD0: 2.64 errD1: 2.16 errD2: 1.95 
+g_loss0: 20.29 g_loss1: 13.38 g_loss2: 12.74 w_loss: 9.41 s_loss: 13.90 perceptual_loss: 3.65 kl_loss: 0.06 
+[2/200][1106]
+                  Loss_D: 5.89 Loss_G: 47.61 Time: 728.50s
+errD0: 2.16 errD1: 1.92 errD2: 1.94 
+g_loss0: 9.47 g_loss1: 11.16 g_loss2: 8.13 w_loss: 12.18 s_loss: 15.57 perceptual_loss: 3.57 kl_loss: 0.09 
+errD0: 1.82 errD1: 2.09 errD2: 1.88 
+g_loss0: 9.83 g_loss1: 6.37 g_loss2: 11.24 w_loss: 3.47 s_loss: 11.39 perceptual_loss: 3.69 kl_loss: 0.06 
+errD0: 1.93 errD1: 2.22 errD2: 2.20 
+g_loss0: 10.38 g_loss1: 9.91 g_loss2: 9.59 w_loss: 12.74 s_loss: 13.40 perceptual_loss: 3.96 kl_loss: 0.09 
+errD0: 1.99 errD1: 2.39 errD2: 2.37 
+g_loss0: 10.19 g_loss1: 7.05 g_loss2: 24.12 w_loss: 10.98 s_loss: 14.55 perceptual_loss: 4.03 kl_loss: 0.08 
+errD0: 2.20 errD1: 3.21 errD2: 2.04 
+g_loss0: 6.07 g_loss1: 7.57 g_loss2: 9.67 w_loss: 7.32 s_loss: 9.89 perceptual_loss: 4.09 kl_loss: 0.07 
+errD0: 2.14 errD1: 2.41 errD2: 1.87 
+g_loss0: 7.87 g_loss1: 7.70 g_loss2: 11.86 w_loss: 15.68 s_loss: 17.59 perceptual_loss: 4.00 kl_loss: 0.09 
+errD0: 2.16 errD1: 2.24 errD2: 3.34 
+g_loss0: 8.66 g_loss1: 3.47 g_loss2: 12.99 w_loss: 16.33 s_loss: 18.25 perceptual_loss: 4.38 kl_loss: 0.08 
+errD0: 2.11 errD1: 1.99 errD2: 1.86 
+g_loss0: 10.96 g_loss1: 5.52 g_loss2: 11.10 w_loss: 14.60 s_loss: 11.72 perceptual_loss: 4.15 kl_loss: 0.06 
+errD0: 2.24 errD1: 2.20 errD2: 2.15 
+g_loss0: 8.06 g_loss1: 3.47 g_loss2: 12.18 w_loss: 14.02 s_loss: 15.04 perceptual_loss: 3.80 kl_loss: 0.16 
+errD0: 2.61 errD1: 2.23 errD2: 2.69 
+g_loss0: 12.27 g_loss1: 6.80 g_loss2: 13.60 w_loss: 7.97 s_loss: 10.37 perceptual_loss: 4.92 kl_loss: 0.04 
+errD0: 2.19 errD1: 2.36 errD2: 1.88 
+g_loss0: 10.30 g_loss1: 5.72 g_loss2: 13.08 w_loss: 11.91 s_loss: 15.07 perceptual_loss: 4.18 kl_loss: 0.09 
+[3/200][1106]
+                  Loss_D: 7.68 Loss_G: 38.86 Time: 728.98s
+errD0: 2.06 errD1: 2.02 errD2: 2.13 
+g_loss0: 9.16 g_loss1: 7.87 g_loss2: 14.20 w_loss: 6.22 s_loss: 11.85 perceptual_loss: 4.04 kl_loss: 0.16 
+errD0: 2.04 errD1: 2.17 errD2: 1.78 
+g_loss0: 12.69 g_loss1: 10.71 g_loss2: 13.47 w_loss: 10.87 s_loss: 10.58 perceptual_loss: 3.76 kl_loss: 0.06 
+errD0: 2.05 errD1: 1.70 errD2: 1.99 
+g_loss0: 5.52 g_loss1: 9.58 g_loss2: 15.84 w_loss: 13.03 s_loss: 12.45 perceptual_loss: 4.29 kl_loss: 0.08 
+errD0: 2.11 errD1: 1.95 errD2: 2.21 
+g_loss0: 8.40 g_loss1: 9.19 g_loss2: 11.58 w_loss: 6.69 s_loss: 8.72 perceptual_loss: 3.92 kl_loss: 0.06 
+errD0: 2.03 errD1: 1.95 errD2: 2.66 
+g_loss0: 10.78 g_loss1: 7.03 g_loss2: 7.30 w_loss: 10.53 s_loss: 13.33 perceptual_loss: 4.17 kl_loss: 0.12 
+errD0: 2.31 errD1: 2.09 errD2: 2.11 
+g_loss0: 10.69 g_loss1: 7.49 g_loss2: 8.27 w_loss: 6.70 s_loss: 11.92 perceptual_loss: 3.55 kl_loss: 0.13 
+errD0: 2.04 errD1: 2.03 errD2: 3.39 
+g_loss0: 6.96 g_loss1: 7.19 g_loss2: 19.80 w_loss: 9.33 s_loss: 10.49 perceptual_loss: 4.08 kl_loss: 0.07 
+errD0: 2.01 errD1: 1.74 errD2: 2.53 
+g_loss0: 6.56 g_loss1: 11.53 g_loss2: 19.77 w_loss: 5.01 s_loss: 11.72 perceptual_loss: 4.12 kl_loss: 0.11 
+errD0: 1.99 errD1: 2.00 errD2: 1.88 
+g_loss0: 6.73 g_loss1: 7.32 g_loss2: 7.46 w_loss: 9.21 s_loss: 14.92 perceptual_loss: 3.84 kl_loss: 0.05 
+errD0: 2.28 errD1: 1.98 errD2: 1.91 
+g_loss0: 10.15 g_loss1: 8.80 g_loss2: 6.01 w_loss: 11.43 s_loss: 13.75 perceptual_loss: 3.65 kl_loss: 0.07 
+errD0: 1.70 errD1: 2.57 errD2: 1.60 
+g_loss0: 8.30 g_loss1: 11.87 g_loss2: 14.13 w_loss: 8.53 s_loss: 13.51 perceptual_loss: 4.51 kl_loss: 0.09 
+[4/200][1106]
+                  Loss_D: 7.45 Loss_G: 40.71 Time: 727.42s
+errD0: 2.35 errD1: 2.16 errD2: 1.78 
+g_loss0: 3.17 g_loss1: 1.97 g_loss2: 11.07 w_loss: 10.89 s_loss: 11.52 perceptual_loss: 3.86 kl_loss: 0.09 
+errD0: 1.75 errD1: 1.82 errD2: 2.16 
+g_loss0: 9.40 g_loss1: 14.31 g_loss2: 9.23 w_loss: 10.25 s_loss: 15.69 perceptual_loss: 3.75 kl_loss: 0.12 
+errD0: 1.89 errD1: 1.85 errD2: 2.55 
+g_loss0: 13.04 g_loss1: 7.90 g_loss2: 8.98 w_loss: 8.24 s_loss: 10.81 perceptual_loss: 3.51 kl_loss: 0.09 
+errD0: 2.10 errD1: 1.79 errD2: 1.62 
+g_loss0: 7.62 g_loss1: 5.70 g_loss2: 11.92 w_loss: 12.94 s_loss: 12.46 perceptual_loss: 3.98 kl_loss: 0.19 
+errD0: 2.13 errD1: 1.70 errD2: 1.94 
+g_loss0: 8.42 g_loss1: 12.30 g_loss2: 10.06 w_loss: 6.99 s_loss: 14.77 perceptual_loss: 4.12 kl_loss: 0.14 
+errD0: 1.99 errD1: 2.79 errD2: 2.17 
+g_loss0: 8.16 g_loss1: 1.37 g_loss2: 6.16 w_loss: 11.62 s_loss: 13.66 perceptual_loss: 4.49 kl_loss: 0.08 
+errD0: 2.03 errD1: 1.98 errD2: 2.46 
+g_loss0: 8.21 g_loss1: 5.77 g_loss2: 11.79 w_loss: 6.13 s_loss: 11.50 perceptual_loss: 4.17 kl_loss: 0.09 
+errD0: 2.03 errD1: 1.83 errD2: 1.87 
+g_loss0: 10.62 g_loss1: 7.80 g_loss2: 8.83 w_loss: 6.93 s_loss: 12.63 perceptual_loss: 3.85 kl_loss: 0.10 
+errD0: 2.29 errD1: 2.13 errD2: 2.99 
+g_loss0: 9.58 g_loss1: 3.18 g_loss2: 1.44 w_loss: 8.68 s_loss: 11.22 perceptual_loss: 3.79 kl_loss: 0.07 
+errD0: 1.98 errD1: 2.13 errD2: 2.43 
+g_loss0: 7.12 g_loss1: 4.63 g_loss2: 7.20 w_loss: 4.85 s_loss: 9.67 perceptual_loss: 3.95 kl_loss: 0.10 
+errD0: 2.22 errD1: 2.17 errD2: 2.27 
+g_loss0: 5.07 g_loss1: 9.49 g_loss2: 8.99 w_loss: 11.05 s_loss: 12.66 perceptual_loss: 4.47 kl_loss: 0.11 
+[5/200][1106]
+                  Loss_D: 5.63 Loss_G: 49.90 Time: 728.27s
+errD0: 1.76 errD1: 2.26 errD2: 1.90 
+g_loss0: 12.15 g_loss1: 9.31 g_loss2: 11.58 w_loss: 6.54 s_loss: 14.49 perceptual_loss: 4.19 kl_loss: 0.13 
+errD0: 1.72 errD1: 1.80 errD2: 1.86 
+g_loss0: 6.87 g_loss1: 7.51 g_loss2: 10.45 w_loss: 9.63 s_loss: 9.10 perceptual_loss: 4.58 kl_loss: 0.06 
+errD0: 2.02 errD1: 1.87 errD2: 1.63 
+g_loss0: 5.44 g_loss1: 8.67 g_loss2: 8.02 w_loss: 7.89 s_loss: 14.27 perceptual_loss: 4.14 kl_loss: 0.12 
+errD0: 1.90 errD1: 2.14 errD2: 1.77 
+g_loss0: 10.27 g_loss1: 7.75 g_loss2: 7.24 w_loss: 13.26 s_loss: 15.46 perceptual_loss: 4.19 kl_loss: 0.07 
+errD0: 2.16 errD1: 1.96 errD2: 2.17 
+g_loss0: 8.94 g_loss1: 15.31 g_loss2: 9.84 w_loss: 7.99 s_loss: 15.31 perceptual_loss: 3.32 kl_loss: 0.13 
+errD0: 2.67 errD1: 1.82 errD2: 2.01 
+g_loss0: 8.00 g_loss1: 5.75 g_loss2: 11.58 w_loss: 14.29 s_loss: 12.55 perceptual_loss: 3.70 kl_loss: 0.09 
+errD0: 2.06 errD1: 1.71 errD2: 2.23 
+g_loss0: 10.05 g_loss1: 10.30 g_loss2: 16.48 w_loss: 13.71 s_loss: 13.18 perceptual_loss: 3.65 kl_loss: 0.23 
+errD0: 1.95 errD1: 1.83 errD2: 1.87 
+g_loss0: 10.07 g_loss1: 7.31 g_loss2: 10.12 w_loss: 4.78 s_loss: 14.26 perceptual_loss: 3.98 kl_loss: 0.12 
+errD0: 1.86 errD1: 2.00 errD2: 1.97 
+g_loss0: 10.85 g_loss1: 8.35 g_loss2: 13.31 w_loss: 10.94 s_loss: 12.27 perceptual_loss: 3.90 kl_loss: 0.23 
+errD0: 1.66 errD1: 2.37 errD2: 1.96 
+g_loss0: 10.44 g_loss1: 8.02 g_loss2: 4.09 w_loss: 7.09 s_loss: 12.11 perceptual_loss: 3.33 kl_loss: 0.17 
+errD0: 1.83 errD1: 2.22 errD2: 1.60 
+g_loss0: 10.86 g_loss1: 12.52 g_loss2: 7.58 w_loss: 5.27 s_loss: 11.30 perceptual_loss: 3.77 kl_loss: 0.11 
+[6/200][1106]
+                  Loss_D: 6.21 Loss_G: 47.54 Time: 727.52s
+errD0: 1.78 errD1: 2.22 errD2: 1.95 
+g_loss0: 9.65 g_loss1: 6.90 g_loss2: 1.51 w_loss: 5.17 s_loss: 11.60 perceptual_loss: 3.50 kl_loss: 0.15 
+errD0: 1.87 errD1: 2.37 errD2: 1.68 
+g_loss0: 9.63 g_loss1: 3.65 g_loss2: 6.99 w_loss: 8.40 s_loss: 12.45 perceptual_loss: 4.22 kl_loss: 0.22 
+errD0: 1.93 errD1: 1.93 errD2: 1.64 
+g_loss0: 9.19 g_loss1: 8.74 g_loss2: 6.07 w_loss: 3.49 s_loss: 9.16 perceptual_loss: 4.04 kl_loss: 0.19 
+errD0: 2.03 errD1: 1.88 errD2: 1.65 
+g_loss0: 9.35 g_loss1: 9.69 g_loss2: 15.09 w_loss: 8.32 s_loss: 11.14 perceptual_loss: 4.12 kl_loss: 0.09 
+errD0: 3.13 errD1: 2.03 errD2: 1.93 
+g_loss0: 1.73 g_loss1: 6.73 g_loss2: 18.55 w_loss: 7.92 s_loss: 12.78 perceptual_loss: 4.22 kl_loss: 0.15 
+errD0: 2.74 errD1: 2.21 errD2: 5.84 
+g_loss0: 10.39 g_loss1: 4.93 g_loss2: 0.03 w_loss: 6.90 s_loss: 8.51 perceptual_loss: 3.55 kl_loss: 0.11 
+errD0: 2.54 errD1: 1.65 errD2: 1.77 
+g_loss0: 5.36 g_loss1: 7.47 g_loss2: 9.46 w_loss: 8.77 s_loss: 11.37 perceptual_loss: 4.12 kl_loss: 0.20 
+errD0: 1.80 errD1: 2.25 errD2: 1.73 
+g_loss0: 7.06 g_loss1: 8.60 g_loss2: 8.01 w_loss: 2.85 s_loss: 6.12 perceptual_loss: 3.91 kl_loss: 0.12 
+errD0: 2.11 errD1: 2.69 errD2: 1.72 
+g_loss0: 7.02 g_loss1: 4.99 g_loss2: 7.90 w_loss: 16.22 s_loss: 12.53 perceptual_loss: 4.27 kl_loss: 0.08 
+errD0: 2.26 errD1: 2.26 errD2: 2.84 
+g_loss0: 6.19 g_loss1: 5.11 g_loss2: 0.18 w_loss: 3.91 s_loss: 10.00 perceptual_loss: 3.85 kl_loss: 0.13 
+errD0: 2.10 errD1: 2.02 errD2: 2.32 
+g_loss0: 5.86 g_loss1: 7.82 g_loss2: 8.87 w_loss: 6.76 s_loss: 13.55 perceptual_loss: 3.58 kl_loss: 0.12 
+[7/200][1106]
+                  Loss_D: 5.64 Loss_G: 57.73 Time: 729.04s
+errD0: 1.90 errD1: 1.87 errD2: 2.17 
+g_loss0: 13.62 g_loss1: 10.37 g_loss2: 9.65 w_loss: 2.91 s_loss: 8.55 perceptual_loss: 3.69 kl_loss: 0.13 
+errD0: 1.94 errD1: 2.04 errD2: 2.05 
+g_loss0: 5.16 g_loss1: 3.95 g_loss2: 6.61 w_loss: 13.66 s_loss: 12.25 perceptual_loss: 4.11 kl_loss: 0.10 
+errD0: 2.11 errD1: 1.88 errD2: 1.76 
+g_loss0: 6.43 g_loss1: 11.11 g_loss2: 8.66 w_loss: 6.98 s_loss: 11.11 perceptual_loss: 4.71 kl_loss: 0.20 
+errD0: 2.13 errD1: 1.88 errD2: 1.68 
+g_loss0: 10.94 g_loss1: 11.19 g_loss2: 8.73 w_loss: 7.99 s_loss: 11.07 perceptual_loss: 3.60 kl_loss: 0.21 
+errD0: 1.74 errD1: 2.45 errD2: 1.81 
+g_loss0: 8.91 g_loss1: 16.31 g_loss2: 8.07 w_loss: 4.31 s_loss: 11.69 perceptual_loss: 3.55 kl_loss: 0.16 
+errD0: 2.15 errD1: 1.73 errD2: 2.01 
+g_loss0: 3.46 g_loss1: 14.27 g_loss2: 8.80 w_loss: 12.70 s_loss: 9.33 perceptual_loss: 3.82 kl_loss: 0.13 
+errD0: 1.75 errD1: 1.76 errD2: 2.07 
+g_loss0: 8.79 g_loss1: 13.69 g_loss2: 12.98 w_loss: 6.61 s_loss: 16.62 perceptual_loss: 4.31 kl_loss: 0.17 
+errD0: 1.87 errD1: 1.80 errD2: 2.30 
+g_loss0: 10.61 g_loss1: 9.45 g_loss2: 0.75 w_loss: 9.91 s_loss: 8.79 perceptual_loss: 4.07 kl_loss: 0.14 
+errD0: 1.64 errD1: 1.73 errD2: 1.68 
+g_loss0: 11.88 g_loss1: 8.22 g_loss2: 9.90 w_loss: 10.28 s_loss: 14.88 perceptual_loss: 3.61 kl_loss: 0.12 
+errD0: 2.09 errD1: 2.95 errD2: 1.77 
+g_loss0: 6.09 g_loss1: 7.65 g_loss2: 9.50 w_loss: 7.62 s_loss: 12.47 perceptual_loss: 4.46 kl_loss: 0.17 
+errD0: 2.42 errD1: 1.81 errD2: 2.45 
+g_loss0: 10.28 g_loss1: 6.41 g_loss2: 5.37 w_loss: 7.24 s_loss: 10.26 perceptual_loss: 3.98 kl_loss: 0.22 
+[8/200][1106]
+                  Loss_D: 5.78 Loss_G: 51.02 Time: 728.06s
+errD0: 1.76 errD1: 1.64 errD2: 2.75 
+g_loss0: 8.58 g_loss1: 7.51 g_loss2: 18.84 w_loss: 6.93 s_loss: 11.04 perceptual_loss: 3.56 kl_loss: 0.18 
+errD0: 2.05 errD1: 2.71 errD2: 2.11 
+g_loss0: 6.47 g_loss1: 1.89 g_loss2: 11.88 w_loss: 10.48 s_loss: 10.55 perceptual_loss: 3.52 kl_loss: 0.07 
+errD0: 2.49 errD1: 2.81 errD2: 2.15 
+g_loss0: 3.91 g_loss1: 4.68 g_loss2: 3.76 w_loss: 7.48 s_loss: 10.69 perceptual_loss: 3.77 kl_loss: 0.12 
+errD0: 1.64 errD1: 1.72 errD2: 1.72 
+g_loss0: 11.11 g_loss1: 8.75 g_loss2: 7.63 w_loss: 9.02 s_loss: 12.89 perceptual_loss: 3.72 kl_loss: 0.11 
+errD0: 1.83 errD1: 1.58 errD2: 1.61 
+g_loss0: 10.38 g_loss1: 8.03 g_loss2: 8.14 w_loss: 5.23 s_loss: 11.18 perceptual_loss: 3.76 kl_loss: 0.17 
+errD0: 1.85 errD1: 1.96 errD2: 2.30 
+g_loss0: 6.38 g_loss1: 9.57 g_loss2: 2.71 w_loss: 6.28 s_loss: 8.96 perceptual_loss: 3.82 kl_loss: 0.13 
+errD0: 1.85 errD1: 2.03 errD2: 1.73 
+g_loss0: 4.58 g_loss1: 5.21 g_loss2: 6.46 w_loss: 9.26 s_loss: 10.86 perceptual_loss: 4.00 kl_loss: 0.12 
+errD0: 1.76 errD1: 1.63 errD2: 1.61 
+g_loss0: 6.37 g_loss1: 8.78 g_loss2: 7.17 w_loss: 6.24 s_loss: 11.20 perceptual_loss: 3.91 kl_loss: 0.15 
+errD0: 1.61 errD1: 3.02 errD2: 1.60 
+g_loss0: 9.79 g_loss1: 9.78 g_loss2: 10.62 w_loss: 5.43 s_loss: 9.55 perceptual_loss: 3.84 kl_loss: 0.10 
+errD0: 1.91 errD1: 2.50 errD2: 2.29 
+g_loss0: 6.04 g_loss1: 5.05 g_loss2: 5.50 w_loss: 6.69 s_loss: 10.32 perceptual_loss: 3.63 kl_loss: 0.12 
+errD0: 1.64 errD1: 1.57 errD2: 1.62 
+g_loss0: 7.87 g_loss1: 7.08 g_loss2: 8.84 w_loss: 9.61 s_loss: 10.83 perceptual_loss: 3.87 kl_loss: 0.23 
+[9/200][1106]
+                  Loss_D: 5.45 Loss_G: 55.06 Time: 758.21s
+errD0: 1.67 errD1: 1.71 errD2: 1.59 
+g_loss0: 10.98 g_loss1: 7.14 g_loss2: 9.37 w_loss: 7.90 s_loss: 10.37 perceptual_loss: 4.09 kl_loss: 0.08 
+errD0: 2.37 errD1: 1.85 errD2: 1.84 
+g_loss0: 8.34 g_loss1: 9.24 g_loss2: 10.65 w_loss: 6.38 s_loss: 9.89 perceptual_loss: 3.82 kl_loss: 0.19 
+errD0: 2.13 errD1: 2.00 errD2: 2.62 
+g_loss0: 18.69 g_loss1: 11.75 g_loss2: 3.55 w_loss: 4.88 s_loss: 10.31 perceptual_loss: 3.77 kl_loss: 0.24 
+errD0: 2.57 errD1: 1.76 errD2: 1.76 
+g_loss0: 5.13 g_loss1: 8.29 g_loss2: 7.21 w_loss: 8.04 s_loss: 11.07 perceptual_loss: 4.16 kl_loss: 0.22 
+errD0: 1.57 errD1: 1.66 errD2: 1.67 
+g_loss0: 8.98 g_loss1: 10.43 g_loss2: 8.81 w_loss: 2.38 s_loss: 10.85 perceptual_loss: 4.07 kl_loss: 0.18 
+errD0: 1.88 errD1: 1.80 errD2: 2.01 
+g_loss0: 3.62 g_loss1: 8.26 g_loss2: 5.13 w_loss: 8.01 s_loss: 13.50 perceptual_loss: 4.35 kl_loss: 0.19 
+errD0: 2.19 errD1: 1.66 errD2: 1.56 
+g_loss0: 11.23 g_loss1: 5.54 g_loss2: 9.12 w_loss: 7.42 s_loss: 12.05 perceptual_loss: 3.71 kl_loss: 0.34 
+errD0: 1.72 errD1: 1.59 errD2: 1.64 
+g_loss0: 8.50 g_loss1: 11.93 g_loss2: 12.12 w_loss: 7.98 s_loss: 7.53 perceptual_loss: 3.88 kl_loss: 0.20 
+errD0: 1.59 errD1: 2.11 errD2: 2.15 
+g_loss0: 9.20 g_loss1: 14.04 g_loss2: 11.14 w_loss: 5.80 s_loss: 11.72 perceptual_loss: 3.55 kl_loss: 0.22 
+errD0: 1.60 errD1: 1.62 errD2: 2.31 
+g_loss0: 11.48 g_loss1: 7.80 g_loss2: 6.25 w_loss: 5.57 s_loss: 10.42 perceptual_loss: 4.41 kl_loss: 0.16 
+errD0: 1.87 errD1: 2.07 errD2: 1.83 
+g_loss0: 11.02 g_loss1: 9.75 g_loss2: 5.20 w_loss: 6.89 s_loss: 13.12 perceptual_loss: 3.78 kl_loss: 0.30 
+[10/200][1106]
+                  Loss_D: 5.09 Loss_G: 54.38 Time: 727.48s
+errD0: 1.65 errD1: 1.61 errD2: 1.82 
+g_loss0: 9.08 g_loss1: 9.34 g_loss2: 7.12 w_loss: 6.19 s_loss: 15.00 perceptual_loss: 4.13 kl_loss: 0.21 
+errD0: 1.65 errD1: 2.69 errD2: 1.58 
+g_loss0: 10.50 g_loss1: 14.71 g_loss2: 15.79 w_loss: 5.71 s_loss: 12.43 perceptual_loss: 4.28 kl_loss: 0.25 
+errD0: 2.09 errD1: 1.70 errD2: 1.70 
+g_loss0: 7.05 g_loss1: 8.07 g_loss2: 8.81 w_loss: 8.49 s_loss: 10.80 perceptual_loss: 3.85 kl_loss: 0.28 
+errD0: 1.87 errD1: 2.00 errD2: 2.01 
+g_loss0: 14.90 g_loss1: 13.40 g_loss2: 5.86 w_loss: 7.57 s_loss: 9.61 perceptual_loss: 3.95 kl_loss: 0.08 
+errD0: 1.90 errD1: 1.82 errD2: 1.56 
+g_loss0: 9.16 g_loss1: 6.47 g_loss2: 12.20 w_loss: 6.72 s_loss: 7.33 perceptual_loss: 4.06 kl_loss: 0.10 
+errD0: 1.74 errD1: 1.98 errD2: 1.68 
+g_loss0: 9.42 g_loss1: 11.56 g_loss2: 5.81 w_loss: 7.10 s_loss: 11.80 perceptual_loss: 3.68 kl_loss: 0.22 
+errD0: 1.84 errD1: 1.77 errD2: 2.17 
+g_loss0: 8.38 g_loss1: 11.47 g_loss2: 9.65 w_loss: 6.24 s_loss: 11.85 perceptual_loss: 3.89 kl_loss: 0.15 
+errD0: 2.03 errD1: 1.56 errD2: 2.35 
+g_loss0: 9.10 g_loss1: 10.46 g_loss2: 7.67 w_loss: 6.39 s_loss: 9.32 perceptual_loss: 3.91 kl_loss: 0.12 
+errD0: 1.75 errD1: 1.69 errD2: 1.53 
+g_loss0: 6.34 g_loss1: 8.71 g_loss2: 10.46 w_loss: 8.77 s_loss: 12.03 perceptual_loss: 3.85 kl_loss: 0.19 
+errD0: 1.66 errD1: 1.85 errD2: 1.67 
+g_loss0: 16.40 g_loss1: 7.54 g_loss2: 6.96 w_loss: 6.68 s_loss: 11.94 perceptual_loss: 4.01 kl_loss: 0.16 
+errD0: 2.05 errD1: 1.62 errD2: 1.58 
+g_loss0: 14.34 g_loss1: 11.61 g_loss2: 16.52 w_loss: 5.37 s_loss: 13.85 perceptual_loss: 4.18 kl_loss: 0.16 
+[11/200][1106]
+                  Loss_D: 6.08 Loss_G: 48.52 Time: 728.63s
+errD0: 1.93 errD1: 1.96 errD2: 2.84 
+g_loss0: 15.79 g_loss1: 5.52 g_loss2: 0.22 w_loss: 8.67 s_loss: 11.58 perceptual_loss: 3.58 kl_loss: 0.19 
+errD0: 2.92 errD1: 1.84 errD2: 1.87 
+g_loss0: 11.82 g_loss1: 11.79 g_loss2: 8.12 w_loss: 8.03 s_loss: 11.29 perceptual_loss: 3.83 kl_loss: 0.33 
+errD0: 1.94 errD1: 1.59 errD2: 1.90 
+g_loss0: 13.85 g_loss1: 9.44 g_loss2: 6.73 w_loss: 4.36 s_loss: 9.55 perceptual_loss: 3.79 kl_loss: 0.20 
+errD0: 2.70 errD1: 1.73 errD2: 1.52 
+g_loss0: 0.78 g_loss1: 9.83 g_loss2: 14.64 w_loss: 7.59 s_loss: 9.70 perceptual_loss: 3.96 kl_loss: 0.17 
+errD0: 2.02 errD1: 2.46 errD2: 2.00 
+g_loss0: 10.48 g_loss1: 15.60 g_loss2: 10.48 w_loss: 8.44 s_loss: 11.59 perceptual_loss: 3.61 kl_loss: 0.19 
+errD0: 1.75 errD1: 1.59 errD2: 1.60 
+g_loss0: 9.44 g_loss1: 8.35 g_loss2: 7.41 w_loss: 5.36 s_loss: 11.53 perceptual_loss: 3.79 kl_loss: 0.27 
+errD0: 2.26 errD1: 1.95 errD2: 1.73 
+g_loss0: 8.01 g_loss1: 12.43 g_loss2: 14.79 w_loss: 7.28 s_loss: 8.42 perceptual_loss: 4.17 kl_loss: 0.21 
+errD0: 2.39 errD1: 1.85 errD2: 1.75 
+g_loss0: 12.81 g_loss1: 6.80 g_loss2: 9.61 w_loss: 11.75 s_loss: 12.84 perceptual_loss: 4.14 kl_loss: 0.24 
+errD0: 1.68 errD1: 1.93 errD2: 1.92 
+g_loss0: 10.96 g_loss1: 11.39 g_loss2: 12.23 w_loss: 8.55 s_loss: 12.80 perceptual_loss: 3.69 kl_loss: 0.32 
+errD0: 1.95 errD1: 1.67 errD2: 1.65 
+g_loss0: 4.89 g_loss1: 12.75 g_loss2: 9.80 w_loss: 7.10 s_loss: 11.09 perceptual_loss: 3.74 kl_loss: 0.08 
+errD0: 1.58 errD1: 1.88 errD2: 2.12 
+g_loss0: 10.74 g_loss1: 14.59 g_loss2: 8.97 w_loss: 6.53 s_loss: 9.67 perceptual_loss: 3.80 kl_loss: 0.19 
+[12/200][1106]
+                  Loss_D: 5.16 Loss_G: 49.95 Time: 725.96s
+errD0: 1.58 errD1: 2.07 errD2: 2.32 
+g_loss0: 9.20 g_loss1: 5.91 g_loss2: 6.80 w_loss: 7.35 s_loss: 10.14 perceptual_loss: 4.13 kl_loss: 0.28 
+errD0: 2.17 errD1: 1.75 errD2: 1.52 
+g_loss0: 7.83 g_loss1: 5.30 g_loss2: 10.73 w_loss: 5.17 s_loss: 11.26 perceptual_loss: 3.50 kl_loss: 0.39 
+errD0: 1.84 errD1: 2.82 errD2: 1.69 
+g_loss0: 8.35 g_loss1: 2.17 g_loss2: 10.62 w_loss: 11.79 s_loss: 11.70 perceptual_loss: 3.87 kl_loss: 0.22 
+errD0: 1.77 errD1: 1.54 errD2: 1.65 
+g_loss0: 6.44 g_loss1: 9.47 g_loss2: 10.26 w_loss: 6.55 s_loss: 10.74 perceptual_loss: 3.66 kl_loss: 0.16 
+errD0: 2.47 errD1: 1.80 errD2: 1.61 
+g_loss0: 8.08 g_loss1: 5.23 g_loss2: 15.85 w_loss: 5.85 s_loss: 16.14 perceptual_loss: 4.09 kl_loss: 0.29 
+errD0: 2.18 errD1: 1.61 errD2: 1.63 
+g_loss0: 11.15 g_loss1: 11.07 g_loss2: 9.68 w_loss: 7.16 s_loss: 11.85 perceptual_loss: 3.93 kl_loss: 0.13 
+errD0: 1.66 errD1: 1.63 errD2: 2.00 
+g_loss0: 11.10 g_loss1: 9.79 g_loss2: 6.79 w_loss: 6.62 s_loss: 10.07 perceptual_loss: 3.64 kl_loss: 0.27 
+errD0: 1.87 errD1: 1.53 errD2: 4.20 
+g_loss0: 14.14 g_loss1: 12.63 g_loss2: 5.37 w_loss: 10.04 s_loss: 11.35 perceptual_loss: 3.67 kl_loss: 0.17 
+errD0: 2.07 errD1: 1.90 errD2: 3.09 
+g_loss0: 9.86 g_loss1: 10.61 g_loss2: 16.99 w_loss: 13.13 s_loss: 13.76 perceptual_loss: 3.95 kl_loss: 0.24 
+errD0: 3.53 errD1: 5.78 errD2: 1.66 
+g_loss0: 0.68 g_loss1: 0.51 g_loss2: 7.78 w_loss: 9.66 s_loss: 13.47 perceptual_loss: 3.67 kl_loss: 0.11 
+errD0: 1.78 errD1: 1.52 errD2: 1.65 
+g_loss0: 8.21 g_loss1: 10.85 g_loss2: 8.30 w_loss: 7.04 s_loss: 9.94 perceptual_loss: 3.91 kl_loss: 0.19 
+[13/200][1106]
+                  Loss_D: 4.73 Loss_G: 43.15 Time: 727.20s
+errD0: 2.48 errD1: 1.73 errD2: 1.71 
+g_loss0: 9.33 g_loss1: 6.94 g_loss2: 9.80 w_loss: 9.71 s_loss: 13.62 perceptual_loss: 3.62 kl_loss: 0.38 
+errD0: 2.08 errD1: 1.59 errD2: 1.95 
+g_loss0: 13.27 g_loss1: 8.03 g_loss2: 4.85 w_loss: 11.16 s_loss: 13.54 perceptual_loss: 3.92 kl_loss: 0.27 
+errD0: 1.96 errD1: 1.67 errD2: 1.50 
+g_loss0: 6.92 g_loss1: 9.78 g_loss2: 7.24 w_loss: 9.67 s_loss: 13.16 perceptual_loss: 4.03 kl_loss: 0.28 
+errD0: 1.85 errD1: 1.59 errD2: 1.92 
+g_loss0: 7.66 g_loss1: 7.98 g_loss2: 8.12 w_loss: 11.59 s_loss: 12.75 perceptual_loss: 4.11 kl_loss: 0.28 
+errD0: 1.59 errD1: 1.72 errD2: 1.67 
+g_loss0: 9.32 g_loss1: 9.04 g_loss2: 7.33 w_loss: 9.43 s_loss: 10.98 perceptual_loss: 4.31 kl_loss: 0.24 
+errD0: 1.74 errD1: 1.71 errD2: 1.63 
+g_loss0: 6.80 g_loss1: 9.67 g_loss2: 7.23 w_loss: 7.14 s_loss: 8.56 perceptual_loss: 3.92 kl_loss: 0.22 
+errD0: 2.06 errD1: 1.64 errD2: 1.56 
+g_loss0: 5.54 g_loss1: 9.06 g_loss2: 11.15 w_loss: 4.65 s_loss: 11.96 perceptual_loss: 3.93 kl_loss: 0.14 
+errD0: 1.69 errD1: 1.53 errD2: 1.52 
+g_loss0: 9.37 g_loss1: 9.88 g_loss2: 8.11 w_loss: 11.78 s_loss: 12.12 perceptual_loss: 4.25 kl_loss: 0.16 
+errD0: 1.75 errD1: 1.99 errD2: 1.73 
+g_loss0: 11.22 g_loss1: 6.93 g_loss2: 10.31 w_loss: 3.51 s_loss: 7.26 perceptual_loss: 3.72 kl_loss: 0.18 
+errD0: 1.63 errD1: 1.76 errD2: 2.63 
+g_loss0: 8.81 g_loss1: 10.01 g_loss2: 9.78 w_loss: 9.81 s_loss: 13.91 perceptual_loss: 3.94 kl_loss: 0.32 
+errD0: 1.67 errD1: 1.56 errD2: 1.50 
+g_loss0: 9.46 g_loss1: 8.32 g_loss2: 14.07 w_loss: 6.72 s_loss: 11.38 perceptual_loss: 3.58 kl_loss: 0.29 
+[14/200][1106]
+                  Loss_D: 4.71 Loss_G: 49.50 Time: 728.29s
+errD0: 1.94 errD1: 1.98 errD2: 3.05 
+g_loss0: 10.38 g_loss1: 3.97 g_loss2: 15.29 w_loss: 7.97 s_loss: 15.35 perceptual_loss: 3.83 kl_loss: 0.25 
+errD0: 1.85 errD1: 1.71 errD2: 1.71 
+g_loss0: 6.71 g_loss1: 6.46 g_loss2: 7.50 w_loss: 13.35 s_loss: 17.08 perceptual_loss: 3.94 kl_loss: 0.31 
+errD0: 2.01 errD1: 1.96 errD2: 1.54 
+g_loss0: 10.40 g_loss1: 13.35 g_loss2: 15.69 w_loss: 2.98 s_loss: 10.41 perceptual_loss: 3.91 kl_loss: 0.29 
+errD0: 1.75 errD1: 2.69 errD2: 1.85 
+g_loss0: 14.58 g_loss1: 13.42 g_loss2: 11.31 w_loss: 10.89 s_loss: 13.14 perceptual_loss: 3.42 kl_loss: 0.22 
+errD0: 1.54 errD1: 1.68 errD2: 1.83 
+g_loss0: 11.83 g_loss1: 6.55 g_loss2: 11.26 w_loss: 8.38 s_loss: 10.61 perceptual_loss: 4.20 kl_loss: 0.20 
+errD0: 2.10 errD1: 1.63 errD2: 1.91 
+g_loss0: 11.11 g_loss1: 14.06 g_loss2: 11.96 w_loss: 8.64 s_loss: 14.08 perceptual_loss: 3.72 kl_loss: 0.21 
+errD0: 1.87 errD1: 1.93 errD2: 1.53 
+g_loss0: 10.37 g_loss1: 13.79 g_loss2: 11.23 w_loss: 11.11 s_loss: 17.12 perceptual_loss: 4.11 kl_loss: 0.10 
+errD0: 1.89 errD1: 2.74 errD2: 1.75 
+g_loss0: 7.37 g_loss1: 4.81 g_loss2: 10.11 w_loss: 7.88 s_loss: 10.42 perceptual_loss: 3.86 kl_loss: 0.27 
+errD0: 2.05 errD1: 1.58 errD2: 1.58 
+g_loss0: 11.05 g_loss1: 9.04 g_loss2: 18.91 w_loss: 6.47 s_loss: 9.66 perceptual_loss: 4.10 kl_loss: 0.17 
+errD0: 1.92 errD1: 1.49 errD2: 1.55 
+g_loss0: 11.05 g_loss1: 14.80 g_loss2: 14.38 w_loss: 9.87 s_loss: 13.48 perceptual_loss: 3.70 kl_loss: 0.26 
+errD0: 1.58 errD1: 1.68 errD2: 1.58 
+g_loss0: 12.10 g_loss1: 7.74 g_loss2: 7.14 w_loss: 5.52 s_loss: 8.17 perceptual_loss: 3.99 kl_loss: 0.26 
+[15/200][1106]
+                  Loss_D: 5.28 Loss_G: 56.91 Time: 726.46s
+errD0: 2.39 errD1: 1.51 errD2: 1.55 
+g_loss0: 8.32 g_loss1: 5.70 g_loss2: 11.09 w_loss: 10.79 s_loss: 11.13 perceptual_loss: 3.70 kl_loss: 0.27 
+errD0: 1.62 errD1: 1.76 errD2: 1.68 
+g_loss0: 16.98 g_loss1: 6.38 g_loss2: 7.23 w_loss: 7.81 s_loss: 14.37 perceptual_loss: 3.78 kl_loss: 0.37 
+errD0: 1.61 errD1: 1.67 errD2: 3.08 
+g_loss0: 9.08 g_loss1: 5.39 g_loss2: 6.96 w_loss: 9.43 s_loss: 12.36 perceptual_loss: 3.48 kl_loss: 0.23 
+errD0: 1.64 errD1: 1.91 errD2: 2.10 
+g_loss0: 16.07 g_loss1: 9.53 g_loss2: 16.14 w_loss: 8.29 s_loss: 8.76 perceptual_loss: 4.02 kl_loss: 0.28 
+errD0: 1.95 errD1: 1.69 errD2: 1.69 
+g_loss0: 8.12 g_loss1: 7.06 g_loss2: 6.55 w_loss: 7.93 s_loss: 13.47 perceptual_loss: 3.90 kl_loss: 0.32 
+errD0: 1.79 errD1: 1.52 errD2: 1.64 
+g_loss0: 8.18 g_loss1: 13.61 g_loss2: 9.27 w_loss: 6.64 s_loss: 8.43 perceptual_loss: 3.82 kl_loss: 0.19 
+errD0: 1.51 errD1: 1.59 errD2: 1.57 
+g_loss0: 10.58 g_loss1: 11.72 g_loss2: 8.66 w_loss: 9.79 s_loss: 16.83 perceptual_loss: 4.12 kl_loss: 0.32 
+errD0: 1.54 errD1: 1.74 errD2: 1.53 
+g_loss0: 9.28 g_loss1: 6.83 g_loss2: 13.75 w_loss: 9.71 s_loss: 12.53 perceptual_loss: 3.65 kl_loss: 0.16 
+errD0: 1.77 errD1: 2.40 errD2: 1.69 
+g_loss0: 10.75 g_loss1: 12.30 g_loss2: 11.32 w_loss: 9.26 s_loss: 12.66 perceptual_loss: 3.72 kl_loss: 0.22 
+errD0: 2.15 errD1: 1.58 errD2: 1.55 
+g_loss0: 11.96 g_loss1: 6.75 g_loss2: 9.10 w_loss: 5.74 s_loss: 12.22 perceptual_loss: 3.92 kl_loss: 0.28 
+errD0: 1.62 errD1: 1.62 errD2: 1.79 
+g_loss0: 7.04 g_loss1: 7.14 g_loss2: 4.74 w_loss: 11.20 s_loss: 14.94 perceptual_loss: 4.67 kl_loss: 0.29 
+errD0: 1.57 errD1: 1.61 errD2: 1.56 
+g_loss0: 11.67 g_loss1: 12.47 g_loss2: 12.21 w_loss: 3.05 s_loss: 9.58 perceptual_loss: 3.74 kl_loss: 0.24 
+[16/200][1106]
+                  Loss_D: 5.54 Loss_G: 45.09 Time: 727.52s
+errD0: 1.95 errD1: 2.53 errD2: 2.93 
+g_loss0: 9.38 g_loss1: 16.02 g_loss2: 6.13 w_loss: 7.62 s_loss: 9.75 perceptual_loss: 4.02 kl_loss: 0.35 
+errD0: 2.79 errD1: 1.87 errD2: 1.97 
+g_loss0: 3.08 g_loss1: 6.81 g_loss2: 2.68 w_loss: 9.23 s_loss: 11.30 perceptual_loss: 3.70 kl_loss: 0.26 
+errD0: 2.00 errD1: 1.94 errD2: 1.62 
+g_loss0: 8.05 g_loss1: 5.52 g_loss2: 9.87 w_loss: 4.25 s_loss: 8.20 perceptual_loss: 3.66 kl_loss: 0.18 
+errD0: 2.73 errD1: 1.59 errD2: 1.57 
+g_loss0: 15.48 g_loss1: 14.34 g_loss2: 14.26 w_loss: 5.53 s_loss: 10.32 perceptual_loss: 3.76 kl_loss: 0.27 
+errD0: 1.95 errD1: 1.89 errD2: 1.66 
+g_loss0: 8.08 g_loss1: 16.76 g_loss2: 8.17 w_loss: 7.64 s_loss: 12.75 perceptual_loss: 3.72 kl_loss: 0.20 
+errD0: 1.79 errD1: 1.56 errD2: 1.71 
+g_loss0: 11.51 g_loss1: 11.22 g_loss2: 15.49 w_loss: 6.03 s_loss: 9.83 perceptual_loss: 4.03 kl_loss: 0.24 
+errD0: 1.53 errD1: 2.79 errD2: 2.07 
+g_loss0: 18.28 g_loss1: 17.02 g_loss2: 13.20 w_loss: 5.62 s_loss: 9.57 perceptual_loss: 3.76 kl_loss: 0.30 
+errD0: 1.73 errD1: 2.43 errD2: 1.95 
+g_loss0: 12.85 g_loss1: 13.27 g_loss2: 3.89 w_loss: 4.25 s_loss: 13.48 perceptual_loss: 3.53 kl_loss: 0.31 
+errD0: 2.03 errD1: 7.05 errD2: 3.40 
+g_loss0: 5.05 g_loss1: 1.55 g_loss2: 0.13 w_loss: 6.23 s_loss: 9.11 perceptual_loss: 3.75 kl_loss: 0.41 
+errD0: 1.64 errD1: 1.88 errD2: 1.76 
+g_loss0: 8.93 g_loss1: 8.95 g_loss2: 10.67 w_loss: 7.70 s_loss: 10.81 perceptual_loss: 3.82 kl_loss: 0.28 
+errD0: 1.60 errD1: 1.57 errD2: 1.67 
+g_loss0: 10.72 g_loss1: 8.20 g_loss2: 2.99 w_loss: 13.50 s_loss: 13.66 perceptual_loss: 4.25 kl_loss: 0.25 
+[17/200][1106]
+                  Loss_D: 6.62 Loss_G: 47.67 Time: 725.80s
+errD0: 1.67 errD1: 1.51 errD2: 2.13 
+g_loss0: 8.03 g_loss1: 10.75 g_loss2: 9.42 w_loss: 2.38 s_loss: 8.24 perceptual_loss: 3.73 kl_loss: 0.28 
+errD0: 1.47 errD1: 2.83 errD2: 1.54 
+g_loss0: 11.25 g_loss1: 17.29 g_loss2: 10.57 w_loss: 9.43 s_loss: 18.80 perceptual_loss: 3.89 kl_loss: 0.27 
+errD0: 1.60 errD1: 1.49 errD2: 1.80 
+g_loss0: 16.39 g_loss1: 8.90 g_loss2: 5.59 w_loss: 6.32 s_loss: 13.05 perceptual_loss: 3.77 kl_loss: 0.16 
+errD0: 1.54 errD1: 2.23 errD2: 1.76 
+g_loss0: 10.44 g_loss1: 8.74 g_loss2: 7.81 w_loss: 7.28 s_loss: 14.21 perceptual_loss: 4.03 kl_loss: 0.34 
+errD0: 1.77 errD1: 1.63 errD2: 1.74 
+g_loss0: 9.05 g_loss1: 8.21 g_loss2: 9.78 w_loss: 8.64 s_loss: 13.51 perceptual_loss: 3.80 kl_loss: 0.27 
+errD0: 1.69 errD1: 1.91 errD2: 1.48 
+g_loss0: 11.04 g_loss1: 7.00 g_loss2: 14.99 w_loss: 10.36 s_loss: 12.86 perceptual_loss: 3.50 kl_loss: 0.30 
+errD0: 1.59 errD1: 1.54 errD2: 1.75 
+g_loss0: 15.18 g_loss1: 16.30 g_loss2: 11.38 w_loss: 7.72 s_loss: 10.59 perceptual_loss: 3.92 kl_loss: 0.23 
+errD0: 1.61 errD1: 2.00 errD2: 1.50 
+g_loss0: 7.77 g_loss1: 8.12 g_loss2: 10.93 w_loss: 6.38 s_loss: 10.00 perceptual_loss: 3.59 kl_loss: 0.23 
+errD0: 1.67 errD1: 1.74 errD2: 1.57 
+g_loss0: 11.16 g_loss1: 13.62 g_loss2: 15.47 w_loss: 7.30 s_loss: 11.49 perceptual_loss: 3.82 kl_loss: 0.16 
+errD0: 2.43 errD1: 1.56 errD2: 3.19 
+g_loss0: 6.50 g_loss1: 10.52 g_loss2: 13.21 w_loss: 7.52 s_loss: 11.22 perceptual_loss: 3.71 kl_loss: 0.27 
+errD0: 1.61 errD1: 1.77 errD2: 1.57 
+g_loss0: 8.15 g_loss1: 6.53 g_loss2: 13.63 w_loss: 9.10 s_loss: 14.89 perceptual_loss: 3.45 kl_loss: 0.38 
+[18/200][1106]
+                  Loss_D: 5.75 Loss_G: 49.89 Time: 759.55s
+errD0: 1.67 errD1: 1.69 errD2: 1.54 
+g_loss0: 12.19 g_loss1: 5.58 g_loss2: 9.59 w_loss: 8.84 s_loss: 10.25 perceptual_loss: 4.02 kl_loss: 0.39 
+errD0: 1.79 errD1: 1.62 errD2: 1.52 
+g_loss0: 7.37 g_loss1: 24.93 g_loss2: 9.07 w_loss: 6.34 s_loss: 12.67 perceptual_loss: 3.83 kl_loss: 0.26 
+errD0: 1.65 errD1: 1.83 errD2: 1.58 
+g_loss0: 4.82 g_loss1: 14.90 g_loss2: 7.65 w_loss: 5.79 s_loss: 8.35 perceptual_loss: 3.95 kl_loss: 0.27 
+errD0: 1.65 errD1: 1.64 errD2: 1.93 
+g_loss0: 12.60 g_loss1: 14.20 g_loss2: 16.56 w_loss: 10.85 s_loss: 11.10 perceptual_loss: 4.47 kl_loss: 0.24 
+errD0: 1.49 errD1: 1.64 errD2: 1.59 
+g_loss0: 14.86 g_loss1: 8.12 g_loss2: 9.15 w_loss: 8.69 s_loss: 13.51 perceptual_loss: 3.97 kl_loss: 0.26 
+errD0: 1.62 errD1: 1.69 errD2: 1.48 
+g_loss0: 10.59 g_loss1: 13.23 g_loss2: 12.05 w_loss: 8.82 s_loss: 11.68 perceptual_loss: 3.56 kl_loss: 0.31 
+errD0: 1.58 errD1: 1.64 errD2: 1.69 
+g_loss0: 6.04 g_loss1: 7.70 g_loss2: 13.54 w_loss: 12.09 s_loss: 9.67 perceptual_loss: 4.04 kl_loss: 0.23 
+errD0: 1.71 errD1: 1.61 errD2: 2.11 
+g_loss0: 7.74 g_loss1: 10.24 g_loss2: 8.23 w_loss: 4.83 s_loss: 9.23 perceptual_loss: 3.84 kl_loss: 0.20 
+errD0: 1.62 errD1: 1.67 errD2: 1.71 
+g_loss0: 8.09 g_loss1: 10.83 g_loss2: 8.35 w_loss: 7.07 s_loss: 12.37 perceptual_loss: 3.83 kl_loss: 0.21 
+errD0: 1.70 errD1: 2.06 errD2: 1.57 
+g_loss0: 10.24 g_loss1: 8.06 g_loss2: 8.85 w_loss: 5.58 s_loss: 10.27 perceptual_loss: 4.18 kl_loss: 0.25 
+errD0: 1.80 errD1: 2.03 errD2: 2.37 
+g_loss0: 11.68 g_loss1: 6.90 g_loss2: 13.52 w_loss: 5.14 s_loss: 12.23 perceptual_loss: 3.58 kl_loss: 0.30 
+[19/200][1106]
+                  Loss_D: 5.79 Loss_G: 41.31 Time: 726.63s
+errD0: 1.67 errD1: 2.94 errD2: 1.79 
+g_loss0: 10.08 g_loss1: 10.34 g_loss2: 8.49 w_loss: 10.40 s_loss: 13.73 perceptual_loss: 4.16 kl_loss: 0.18 
+errD0: 3.43 errD1: 1.54 errD2: 1.61 
+g_loss0: 6.29 g_loss1: 10.68 g_loss2: 8.43 w_loss: 6.84 s_loss: 11.56 perceptual_loss: 3.81 kl_loss: 0.19 
+errD0: 1.54 errD1: 1.50 errD2: 1.46 
+g_loss0: 9.68 g_loss1: 9.09 g_loss2: 9.41 w_loss: 5.33 s_loss: 9.57 perceptual_loss: 4.02 kl_loss: 0.24 
+errD0: 1.57 errD1: 1.68 errD2: 1.53 
+g_loss0: 7.10 g_loss1: 8.93 g_loss2: 16.30 w_loss: 2.87 s_loss: 9.79 perceptual_loss: 3.55 kl_loss: 0.31 
+errD0: 2.05 errD1: 1.78 errD2: 1.70 
+g_loss0: 9.32 g_loss1: 9.63 g_loss2: 6.64 w_loss: 3.80 s_loss: 7.63 perceptual_loss: 3.98 kl_loss: 0.28 
+errD0: 1.66 errD1: 1.75 errD2: 2.62 
+g_loss0: 8.78 g_loss1: 11.63 g_loss2: 3.82 w_loss: 4.78 s_loss: 11.46 perceptual_loss: 3.72 kl_loss: 0.17 
+errD0: 1.57 errD1: 2.27 errD2: 1.96 
+g_loss0: 10.90 g_loss1: 11.31 g_loss2: 9.10 w_loss: 7.84 s_loss: 10.25 perceptual_loss: 3.84 kl_loss: 0.21 
+errD0: 2.80 errD1: 1.56 errD2: 2.26 
+g_loss0: 5.69 g_loss1: 7.58 g_loss2: 16.69 w_loss: 6.18 s_loss: 10.40 perceptual_loss: 3.83 kl_loss: 0.26 
+errD0: 1.82 errD1: 1.96 errD2: 2.26 
+g_loss0: 18.35 g_loss1: 14.99 g_loss2: 16.04 w_loss: 4.63 s_loss: 9.53 perceptual_loss: 3.67 kl_loss: 0.39 
+errD0: 1.89 errD1: 1.60 errD2: 1.56 
+g_loss0: 10.42 g_loss1: 15.21 g_loss2: 8.50 w_loss: 4.40 s_loss: 12.81 perceptual_loss: 4.16 kl_loss: 0.28 
+errD0: 1.61 errD1: 1.58 errD2: 1.61 
+g_loss0: 13.75 g_loss1: 9.04 g_loss2: 5.57 w_loss: 11.72 s_loss: 11.77 perceptual_loss: 4.23 kl_loss: 0.40 
+[20/200][1106]
+                  Loss_D: 4.74 Loss_G: 43.72 Time: 727.02s
+errD0: 1.54 errD1: 1.50 errD2: 1.62 
+g_loss0: 8.31 g_loss1: 12.39 g_loss2: 8.94 w_loss: 6.47 s_loss: 15.44 perceptual_loss: 3.58 kl_loss: 0.22 
+errD0: 1.65 errD1: 1.57 errD2: 1.90 
+g_loss0: 8.79 g_loss1: 12.06 g_loss2: 10.77 w_loss: 4.83 s_loss: 12.32 perceptual_loss: 3.94 kl_loss: 0.25 
+errD0: 2.02 errD1: 3.59 errD2: 2.26 
+g_loss0: 4.68 g_loss1: 0.65 g_loss2: 2.74 w_loss: 9.50 s_loss: 11.04 perceptual_loss: 4.05 kl_loss: 0.21 
+errD0: 1.57 errD1: 1.56 errD2: 2.16 
+g_loss0: 9.10 g_loss1: 15.41 g_loss2: 13.27 w_loss: 5.84 s_loss: 11.20 perceptual_loss: 3.87 kl_loss: 0.27 
+errD0: 1.58 errD1: 1.94 errD2: 1.59 
+g_loss0: 9.96 g_loss1: 6.19 g_loss2: 16.46 w_loss: 6.88 s_loss: 12.77 perceptual_loss: 3.96 kl_loss: 0.25 
+errD0: 1.94 errD1: 1.54 errD2: 1.58 
+g_loss0: 9.83 g_loss1: 9.46 g_loss2: 7.53 w_loss: 7.58 s_loss: 11.71 perceptual_loss: 4.37 kl_loss: 0.40 
+errD0: 2.07 errD1: 1.76 errD2: 1.60 
+g_loss0: 12.08 g_loss1: 8.31 g_loss2: 12.82 w_loss: 10.72 s_loss: 15.09 perceptual_loss: 3.82 kl_loss: 0.20 
+errD0: 1.71 errD1: 1.67 errD2: 1.66 
+g_loss0: 7.95 g_loss1: 10.91 g_loss2: 7.70 w_loss: 7.37 s_loss: 12.26 perceptual_loss: 4.27 kl_loss: 0.28 
+errD0: 1.47 errD1: 1.53 errD2: 1.53 
+g_loss0: 10.22 g_loss1: 11.17 g_loss2: 7.28 w_loss: 4.64 s_loss: 9.28 perceptual_loss: 3.69 kl_loss: 0.25 
+errD0: 1.62 errD1: 1.86 errD2: 1.71 
+g_loss0: 8.56 g_loss1: 5.70 g_loss2: 9.21 w_loss: 7.67 s_loss: 15.07 perceptual_loss: 3.89 kl_loss: 0.28 
+errD0: 1.89 errD1: 2.46 errD2: 1.55 
+g_loss0: 11.12 g_loss1: 9.72 g_loss2: 15.09 w_loss: 6.47 s_loss: 11.09 perceptual_loss: 3.79 kl_loss: 0.34 
+[21/200][1106]
+                  Loss_D: 4.85 Loss_G: 55.12 Time: 728.30s
+errD0: 2.11 errD1: 1.64 errD2: 1.55 
+g_loss0: 8.25 g_loss1: 8.66 g_loss2: 6.86 w_loss: 6.16 s_loss: 10.84 perceptual_loss: 3.74 kl_loss: 0.22 
+errD0: 1.78 errD1: 1.59 errD2: 1.65 
+g_loss0: 9.02 g_loss1: 9.42 g_loss2: 7.85 w_loss: 4.91 s_loss: 8.43 perceptual_loss: 3.47 kl_loss: 0.36 
+errD0: 1.61 errD1: 1.57 errD2: 1.53 
+g_loss0: 9.83 g_loss1: 9.43 g_loss2: 12.46 w_loss: 10.00 s_loss: 14.10 perceptual_loss: 4.15 kl_loss: 0.34 
+errD0: 2.39 errD1: 1.66 errD2: 1.63 
+g_loss0: 4.52 g_loss1: 8.85 g_loss2: 8.09 w_loss: 6.31 s_loss: 9.37 perceptual_loss: 3.91 kl_loss: 0.26 
+errD0: 1.56 errD1: 2.08 errD2: 1.77 
+g_loss0: 10.00 g_loss1: 13.36 g_loss2: 5.40 w_loss: 7.89 s_loss: 16.43 perceptual_loss: 4.09 kl_loss: 0.28 
+errD0: 1.57 errD1: 1.86 errD2: 1.75 
+g_loss0: 9.25 g_loss1: 4.08 g_loss2: 7.12 w_loss: 3.95 s_loss: 10.46 perceptual_loss: 3.74 kl_loss: 0.31 
+errD0: 1.52 errD1: 1.52 errD2: 1.55 
+g_loss0: 14.37 g_loss1: 7.99 g_loss2: 11.30 w_loss: 9.28 s_loss: 15.26 perceptual_loss: 3.43 kl_loss: 0.22 
+errD0: 1.78 errD1: 1.67 errD2: 1.69 
+g_loss0: 11.03 g_loss1: 7.81 g_loss2: 3.35 w_loss: 10.22 s_loss: 15.06 perceptual_loss: 4.00 kl_loss: 0.42 
+errD0: 1.82 errD1: 1.73 errD2: 2.39 
+g_loss0: 9.16 g_loss1: 9.95 g_loss2: 10.67 w_loss: 9.16 s_loss: 10.77 perceptual_loss: 3.61 kl_loss: 0.23 
+errD0: 1.87 errD1: 2.10 errD2: 1.56 
+g_loss0: 5.97 g_loss1: 7.66 g_loss2: 13.89 w_loss: 9.36 s_loss: 10.65 perceptual_loss: 3.74 kl_loss: 0.32 
+errD0: 1.66 errD1: 1.99 errD2: 1.65 
+g_loss0: 5.33 g_loss1: 8.58 g_loss2: 12.90 w_loss: 5.23 s_loss: 15.51 perceptual_loss: 3.85 kl_loss: 0.37 
+[22/200][1106]
+                  Loss_D: 4.93 Loss_G: 40.55 Time: 725.25s
+errD0: 1.66 errD1: 2.37 errD2: 1.60 
+g_loss0: 10.56 g_loss1: 14.99 g_loss2: 8.47 w_loss: 8.24 s_loss: 12.14 perceptual_loss: 3.62 kl_loss: 0.19 
+errD0: 1.58 errD1: 1.71 errD2: 1.56 
+g_loss0: 12.35 g_loss1: 13.55 g_loss2: 3.96 w_loss: 3.31 s_loss: 8.47 perceptual_loss: 3.77 kl_loss: 0.27 
+errD0: 1.56 errD1: 1.72 errD2: 1.63 
+g_loss0: 8.44 g_loss1: 1.42 g_loss2: 7.87 w_loss: 6.84 s_loss: 11.49 perceptual_loss: 3.93 kl_loss: 0.21 
+errD0: 1.49 errD1: 1.50 errD2: 1.50 
+g_loss0: 10.59 g_loss1: 10.20 g_loss2: 12.90 w_loss: 5.62 s_loss: 7.76 perceptual_loss: 3.87 kl_loss: 0.31 
+errD0: 1.66 errD1: 3.94 errD2: 1.64 
+g_loss0: 5.89 g_loss1: 9.35 g_loss2: 11.09 w_loss: 12.67 s_loss: 12.36 perceptual_loss: 3.94 kl_loss: 0.31 
+errD0: 1.61 errD1: 1.63 errD2: 1.63 
+g_loss0: 9.04 g_loss1: 7.41 g_loss2: 15.05 w_loss: 6.68 s_loss: 13.05 perceptual_loss: 4.23 kl_loss: 0.26 
+errD0: 2.04 errD1: 2.92 errD2: 2.41 
+g_loss0: 8.87 g_loss1: 1.66 g_loss2: 10.40 w_loss: 5.27 s_loss: 14.14 perceptual_loss: 4.26 kl_loss: 0.37 
+errD0: 1.58 errD1: 1.53 errD2: 1.72 
+g_loss0: 6.32 g_loss1: 14.22 g_loss2: 10.88 w_loss: 9.57 s_loss: 9.75 perceptual_loss: 3.83 kl_loss: 0.39 
+errD0: 1.73 errD1: 2.01 errD2: 1.61 
+g_loss0: 10.16 g_loss1: 3.38 g_loss2: 9.16 w_loss: 4.45 s_loss: 7.99 perceptual_loss: 3.64 kl_loss: 0.22 
+errD0: 1.53 errD1: 1.55 errD2: 2.64 
+g_loss0: 8.73 g_loss1: 9.01 g_loss2: 0.81 w_loss: 8.06 s_loss: 9.17 perceptual_loss: 3.56 kl_loss: 0.19 
+errD0: 1.95 errD1: 1.93 errD2: 1.75 
+g_loss0: 6.69 g_loss1: 4.32 g_loss2: 10.80 w_loss: 5.51 s_loss: 9.76 perceptual_loss: 3.67 kl_loss: 0.44 
+[23/200][1106]
+                  Loss_D: 5.95 Loss_G: 47.51 Time: 726.00s
+errD0: 1.55 errD1: 1.45 errD2: 1.48 
+g_loss0: 8.50 g_loss1: 17.05 g_loss2: 11.62 w_loss: 8.96 s_loss: 15.77 perceptual_loss: 3.46 kl_loss: 0.25 
+errD0: 1.58 errD1: 1.57 errD2: 1.52 
+g_loss0: 13.57 g_loss1: 9.07 g_loss2: 10.54 w_loss: 10.36 s_loss: 13.50 perceptual_loss: 3.70 kl_loss: 0.34 
+errD0: 1.54 errD1: 1.53 errD2: 2.06 
+g_loss0: 9.32 g_loss1: 14.45 g_loss2: 10.54 w_loss: 11.62 s_loss: 11.28 perceptual_loss: 3.67 kl_loss: 0.22 
+errD0: 1.72 errD1: 1.48 errD2: 1.62 
+g_loss0: 13.24 g_loss1: 20.08 g_loss2: 6.80 w_loss: 9.19 s_loss: 10.55 perceptual_loss: 4.07 kl_loss: 0.22 
+errD0: 1.52 errD1: 1.68 errD2: 1.66 
+g_loss0: 12.66 g_loss1: 9.21 g_loss2: 3.35 w_loss: 6.60 s_loss: 7.64 perceptual_loss: 3.75 kl_loss: 0.27 
+errD0: 1.97 errD1: 1.50 errD2: 1.70 
+g_loss0: 5.12 g_loss1: 13.64 g_loss2: 9.86 w_loss: 5.12 s_loss: 10.02 perceptual_loss: 3.56 kl_loss: 0.33 
+errD0: 1.54 errD1: 1.53 errD2: 1.52 
+g_loss0: 7.65 g_loss1: 18.12 g_loss2: 9.22 w_loss: 3.62 s_loss: 5.42 perceptual_loss: 3.31 kl_loss: 0.18 
+errD0: 1.60 errD1: 2.02 errD2: 2.97 
+g_loss0: 9.72 g_loss1: 12.02 g_loss2: 18.21 w_loss: 8.52 s_loss: 13.09 perceptual_loss: 3.78 kl_loss: 0.42 
+errD0: 1.87 errD1: 1.63 errD2: 1.61 
+g_loss0: 14.55 g_loss1: 8.99 g_loss2: 10.83 w_loss: 5.81 s_loss: 8.47 perceptual_loss: 3.60 kl_loss: 0.34 
+errD0: 1.55 errD1: 3.61 errD2: 1.59 
+g_loss0: 7.05 g_loss1: 11.03 g_loss2: 9.81 w_loss: 4.98 s_loss: 12.15 perceptual_loss: 3.94 kl_loss: 0.23 
+errD0: 1.66 errD1: 2.19 errD2: 3.43 
+g_loss0: 8.04 g_loss1: 12.08 g_loss2: 1.73 w_loss: 11.07 s_loss: 13.38 perceptual_loss: 3.66 kl_loss: 0.30 
+[24/200][1106]
+                  Loss_D: 4.77 Loss_G: 52.16 Time: 724.88s
+errD0: 1.65 errD1: 1.63 errD2: 2.36 
+g_loss0: 10.83 g_loss1: 8.93 g_loss2: 12.06 w_loss: 7.52 s_loss: 7.44 perceptual_loss: 3.65 kl_loss: 0.30 
+errD0: 1.64 errD1: 1.97 errD2: 1.51 
+g_loss0: 8.98 g_loss1: 7.69 g_loss2: 7.33 w_loss: 7.22 s_loss: 11.94 perceptual_loss: 3.29 kl_loss: 0.31 
+errD0: 1.58 errD1: 3.57 errD2: 1.68 
+g_loss0: 15.17 g_loss1: 8.42 g_loss2: 6.66 w_loss: 6.95 s_loss: 9.41 perceptual_loss: 3.87 kl_loss: 0.19 
+errD0: 1.58 errD1: 1.59 errD2: 1.49 
+g_loss0: 11.38 g_loss1: 7.42 g_loss2: 15.15 w_loss: 3.54 s_loss: 9.26 perceptual_loss: 3.99 kl_loss: 0.39 
+errD0: 1.62 errD1: 1.61 errD2: 2.20 
+g_loss0: 7.30 g_loss1: 8.65 g_loss2: 13.04 w_loss: 8.18 s_loss: 10.51 perceptual_loss: 3.74 kl_loss: 0.40 
+errD0: 2.26 errD1: 1.76 errD2: 1.56 
+g_loss0: 3.89 g_loss1: 5.84 g_loss2: 10.49 w_loss: 9.84 s_loss: 11.00 perceptual_loss: 4.42 kl_loss: 0.36 
+errD0: 1.66 errD1: 1.55 errD2: 1.70 
+g_loss0: 15.79 g_loss1: 17.11 g_loss2: 6.88 w_loss: 3.51 s_loss: 10.52 perceptual_loss: 4.05 kl_loss: 0.39 
+errD0: 2.54 errD1: 2.98 errD2: 2.14 
+g_loss0: 9.87 g_loss1: 17.08 g_loss2: 21.58 w_loss: 9.99 s_loss: 15.63 perceptual_loss: 3.64 kl_loss: 0.45 
+errD0: 1.59 errD1: 1.63 errD2: 1.63 
+g_loss0: 15.75 g_loss1: 8.57 g_loss2: 11.48 w_loss: 5.29 s_loss: 13.47 perceptual_loss: 3.70 kl_loss: 0.28 
+errD0: 1.56 errD1: 1.66 errD2: 1.49 
+g_loss0: 10.97 g_loss1: 8.22 g_loss2: 8.35 w_loss: 8.54 s_loss: 10.24 perceptual_loss: 3.81 kl_loss: 0.28 
+errD0: 1.55 errD1: 1.54 errD2: 1.95 
+g_loss0: 12.53 g_loss1: 9.00 g_loss2: 18.90 w_loss: 4.55 s_loss: 7.80 perceptual_loss: 3.73 kl_loss: 0.25 
+[25/200][1106]
+                  Loss_D: 5.86 Loss_G: 58.87 Time: 726.75s
+errD0: 2.60 errD1: 1.56 errD2: 1.53 
+g_loss0: 4.18 g_loss1: 8.10 g_loss2: 15.08 w_loss: 5.53 s_loss: 9.62 perceptual_loss: 3.90 kl_loss: 0.36 
+errD0: 1.59 errD1: 1.62 errD2: 1.54 
+g_loss0: 8.61 g_loss1: 12.50 g_loss2: 12.70 w_loss: 9.40 s_loss: 12.63 perceptual_loss: 3.63 kl_loss: 0.42 
+errD0: 1.67 errD1: 2.38 errD2: 1.62 
+g_loss0: 5.66 g_loss1: 15.71 g_loss2: 8.05 w_loss: 8.06 s_loss: 12.23 perceptual_loss: 4.20 kl_loss: 0.35 
+errD0: 1.56 errD1: 1.61 errD2: 1.88 
+g_loss0: 16.93 g_loss1: 7.40 g_loss2: 13.61 w_loss: 5.40 s_loss: 11.63 perceptual_loss: 4.03 kl_loss: 0.28 
+errD0: 1.50 errD1: 1.55 errD2: 1.49 
+g_loss0: 18.75 g_loss1: 9.83 g_loss2: 13.74 w_loss: 7.01 s_loss: 8.30 perceptual_loss: 3.61 kl_loss: 0.19 
+errD0: 1.55 errD1: 1.54 errD2: 1.58 
+g_loss0: 10.23 g_loss1: 20.06 g_loss2: 9.24 w_loss: 8.18 s_loss: 11.06 perceptual_loss: 3.75 kl_loss: 0.35 
+errD0: 1.88 errD1: 1.62 errD2: 1.93 
+g_loss0: 8.09 g_loss1: 13.76 g_loss2: 11.72 w_loss: 5.32 s_loss: 8.99 perceptual_loss: 3.99 kl_loss: 0.21 
+errD0: 1.53 errD1: 1.48 errD2: 1.58 
+g_loss0: 10.43 g_loss1: 9.65 g_loss2: 6.69 w_loss: 9.12 s_loss: 11.69 perceptual_loss: 3.98 kl_loss: 0.36 
+errD0: 1.75 errD1: 1.60 errD2: 1.93 
+g_loss0: 13.01 g_loss1: 11.24 g_loss2: 13.95 w_loss: 4.16 s_loss: 13.00 perceptual_loss: 4.08 kl_loss: 0.25 
+errD0: 1.65 errD1: 2.85 errD2: 2.61 
+g_loss0: 10.80 g_loss1: 0.43 g_loss2: 1.73 w_loss: 9.80 s_loss: 9.67 perceptual_loss: 3.57 kl_loss: 0.32 
+errD0: 1.54 errD1: 1.59 errD2: 1.54 
+g_loss0: 8.86 g_loss1: 18.42 g_loss2: 10.49 w_loss: 6.35 s_loss: 8.12 perceptual_loss: 3.78 kl_loss: 0.28 
+[26/200][1106]
+                  Loss_D: 4.65 Loss_G: 46.72 Time: 727.11s
+errD0: 1.63 errD1: 1.81 errD2: 1.64 
+g_loss0: 12.27 g_loss1: 6.81 g_loss2: 7.26 w_loss: 11.84 s_loss: 10.22 perceptual_loss: 3.92 kl_loss: 0.41 
+errD0: 1.56 errD1: 1.83 errD2: 1.52 
+g_loss0: 8.96 g_loss1: 10.82 g_loss2: 12.47 w_loss: 8.69 s_loss: 12.01 perceptual_loss: 3.68 kl_loss: 0.37 
+errD0: 1.53 errD1: 1.47 errD2: 1.75 
+g_loss0: 15.16 g_loss1: 10.69 g_loss2: 20.04 w_loss: 6.01 s_loss: 11.18 perceptual_loss: 4.31 kl_loss: 0.29 
+errD0: 1.53 errD1: 1.51 errD2: 1.55 
+g_loss0: 9.32 g_loss1: 13.90 g_loss2: 7.23 w_loss: 6.52 s_loss: 10.57 perceptual_loss: 3.89 kl_loss: 0.26 
+errD0: 1.51 errD1: 1.63 errD2: 1.52 
+g_loss0: 14.21 g_loss1: 6.24 g_loss2: 8.63 w_loss: 12.70 s_loss: 13.84 perceptual_loss: 3.75 kl_loss: 0.41 
+errD0: 1.68 errD1: 1.60 errD2: 1.84 
+g_loss0: 7.99 g_loss1: 20.09 g_loss2: 11.11 w_loss: 6.56 s_loss: 8.55 perceptual_loss: 3.58 kl_loss: 0.21 
+errD0: 1.94 errD1: 1.58 errD2: 1.72 
+g_loss0: 7.70 g_loss1: 7.12 g_loss2: 9.95 w_loss: 7.25 s_loss: 12.15 perceptual_loss: 4.02 kl_loss: 0.43 
+errD0: 1.93 errD1: 1.85 errD2: 1.68 
+g_loss0: 8.58 g_loss1: 7.81 g_loss2: 9.24 w_loss: 3.83 s_loss: 9.41 perceptual_loss: 3.72 kl_loss: 0.37 
+errD0: 1.53 errD1: 1.53 errD2: 1.54 
+g_loss0: 10.09 g_loss1: 3.51 g_loss2: 9.72 w_loss: 6.73 s_loss: 10.11 perceptual_loss: 3.95 kl_loss: 0.23 
+errD0: 2.02 errD1: 1.69 errD2: 2.57 
+g_loss0: 16.87 g_loss1: 9.05 g_loss2: 17.96 w_loss: 4.86 s_loss: 9.93 perceptual_loss: 3.89 kl_loss: 0.30 
+errD0: 2.58 errD1: 1.97 errD2: 3.16 
+g_loss0: 4.34 g_loss1: 8.56 g_loss2: 1.76 w_loss: 6.19 s_loss: 9.59 perceptual_loss: 3.48 kl_loss: 0.34 
+[27/200][1106]
+                  Loss_D: 5.48 Loss_G: 44.17 Time: 729.11s
+errD0: 1.46 errD1: 1.54 errD2: 1.52 
+g_loss0: 13.14 g_loss1: 11.09 g_loss2: 13.22 w_loss: 6.61 s_loss: 10.08 perceptual_loss: 3.83 kl_loss: 0.31 
+errD0: 1.78 errD1: 1.59 errD2: 1.55 
+g_loss0: 8.21 g_loss1: 12.91 g_loss2: 8.47 w_loss: 9.83 s_loss: 13.01 perceptual_loss: 3.79 kl_loss: 0.39 
+errD0: 1.57 errD1: 1.58 errD2: 1.99 
+g_loss0: 5.36 g_loss1: 8.59 g_loss2: 12.93 w_loss: 5.98 s_loss: 9.97 perceptual_loss: 4.03 kl_loss: 0.32 
+errD0: 1.53 errD1: 1.61 errD2: 2.87 
+g_loss0: 16.01 g_loss1: 10.32 g_loss2: 2.44 w_loss: 4.54 s_loss: 10.13 perceptual_loss: 3.81 kl_loss: 0.31 
+errD0: 1.51 errD1: 1.78 errD2: 1.54 
+g_loss0: 6.70 g_loss1: 8.93 g_loss2: 11.06 w_loss: 8.82 s_loss: 12.50 perceptual_loss: 3.78 kl_loss: 0.39 
+errD0: 1.49 errD1: 1.98 errD2: 1.54 
+g_loss0: 7.12 g_loss1: 13.83 g_loss2: 9.14 w_loss: 4.99 s_loss: 10.07 perceptual_loss: 3.64 kl_loss: 0.31 
+errD0: 1.54 errD1: 1.61 errD2: 1.51 
+g_loss0: 13.97 g_loss1: 19.78 g_loss2: 11.29 w_loss: 3.96 s_loss: 8.96 perceptual_loss: 3.68 kl_loss: 0.47 
+errD0: 1.59 errD1: 3.26 errD2: 1.45 
+g_loss0: 8.00 g_loss1: 17.36 g_loss2: 19.00 w_loss: 7.02 s_loss: 8.95 perceptual_loss: 3.70 kl_loss: 0.26 
+errD0: 1.62 errD1: 1.54 errD2: 1.63 
+g_loss0: 9.12 g_loss1: 14.22 g_loss2: 8.70 w_loss: 7.73 s_loss: 12.25 perceptual_loss: 3.83 kl_loss: 0.36 
+errD0: 1.52 errD1: 1.79 errD2: 1.71 
+g_loss0: 20.97 g_loss1: 14.00 g_loss2: 7.85 w_loss: 5.61 s_loss: 10.28 perceptual_loss: 3.93 kl_loss: 0.46 
+errD0: 1.49 errD1: 1.53 errD2: 2.88 
+g_loss0: 14.15 g_loss1: 6.69 g_loss2: 14.39 w_loss: 6.86 s_loss: 10.03 perceptual_loss: 3.55 kl_loss: 0.54 
+[28/200][1106]
+                  Loss_D: 5.26 Loss_G: 42.72 Time: 761.62s
+errD0: 1.59 errD1: 1.60 errD2: 1.70 
+g_loss0: 12.31 g_loss1: 11.83 g_loss2: 13.44 w_loss: 10.43 s_loss: 9.35 perceptual_loss: 3.70 kl_loss: 0.21 
+errD0: 2.21 errD1: 1.81 errD2: 1.53 
+g_loss0: 8.60 g_loss1: 9.88 g_loss2: 9.34 w_loss: 10.14 s_loss: 11.04 perceptual_loss: 3.51 kl_loss: 0.34 
+errD0: 1.70 errD1: 1.60 errD2: 1.56 
+g_loss0: 7.07 g_loss1: 8.37 g_loss2: 12.87 w_loss: 4.11 s_loss: 10.55 perceptual_loss: 4.08 kl_loss: 0.43 
+errD0: 2.24 errD1: 1.51 errD2: 1.69 
+g_loss0: 4.79 g_loss1: 11.36 g_loss2: 11.48 w_loss: 5.30 s_loss: 12.06 perceptual_loss: 3.82 kl_loss: 0.38 
+errD0: 2.03 errD1: 1.76 errD2: 1.59 
+g_loss0: 5.92 g_loss1: 6.78 g_loss2: 8.21 w_loss: 8.64 s_loss: 15.86 perceptual_loss: 3.62 kl_loss: 0.52 
+errD0: 1.80 errD1: 1.75 errD2: 1.58 
+g_loss0: 7.52 g_loss1: 8.66 g_loss2: 17.18 w_loss: 6.60 s_loss: 8.30 perceptual_loss: 3.95 kl_loss: 0.45 
+errD0: 1.89 errD1: 2.09 errD2: 1.60 
+g_loss0: 10.50 g_loss1: 7.51 g_loss2: 7.00 w_loss: 4.46 s_loss: 9.90 perceptual_loss: 4.01 kl_loss: 0.35 
+errD0: 1.59 errD1: 2.24 errD2: 2.06 
+g_loss0: 10.63 g_loss1: 15.11 g_loss2: 9.46 w_loss: 2.84 s_loss: 11.12 perceptual_loss: 3.64 kl_loss: 0.32 
+errD0: 1.64 errD1: 1.84 errD2: 1.68 
+g_loss0: 9.09 g_loss1: 15.23 g_loss2: 10.12 w_loss: 9.84 s_loss: 9.51 perceptual_loss: 3.60 kl_loss: 0.41 
+errD0: 1.56 errD1: 4.75 errD2: 2.73 
+g_loss0: 10.92 g_loss1: 2.12 g_loss2: 1.33 w_loss: 9.72 s_loss: 13.13 perceptual_loss: 3.83 kl_loss: 0.41 
+errD0: 1.74 errD1: 1.54 errD2: 1.64 
+g_loss0: 7.99 g_loss1: 8.92 g_loss2: 21.36 w_loss: 10.31 s_loss: 9.58 perceptual_loss: 3.66 kl_loss: 0.30 
+[29/200][1106]
+                  Loss_D: 4.93 Loss_G: 67.19 Time: 727.49s
+errD0: 1.50 errD1: 1.97 errD2: 1.56 
+g_loss0: 10.90 g_loss1: 8.80 g_loss2: 11.74 w_loss: 5.64 s_loss: 8.88 perceptual_loss: 3.75 kl_loss: 0.36 
+errD0: 1.66 errD1: 1.58 errD2: 1.55 
+g_loss0: 18.29 g_loss1: 8.81 g_loss2: 10.19 w_loss: 3.76 s_loss: 9.04 perceptual_loss: 3.88 kl_loss: 0.27 
+errD0: 3.52 errD1: 1.61 errD2: 1.88 
+g_loss0: 9.05 g_loss1: 7.79 g_loss2: 16.27 w_loss: 8.23 s_loss: 16.35 perceptual_loss: 4.01 kl_loss: 0.28 
+errD0: 1.59 errD1: 1.51 errD2: 1.52 
+g_loss0: 9.14 g_loss1: 16.42 g_loss2: 12.86 w_loss: 7.94 s_loss: 10.96 perceptual_loss: 3.85 kl_loss: 0.34 
+errD0: 1.64 errD1: 2.43 errD2: 1.74 
+g_loss0: 7.67 g_loss1: 6.83 g_loss2: 7.69 w_loss: 5.27 s_loss: 12.85 perceptual_loss: 3.85 kl_loss: 0.39 
+errD0: 1.58 errD1: 2.04 errD2: 1.58 
+g_loss0: 12.38 g_loss1: 5.20 g_loss2: 8.78 w_loss: 6.42 s_loss: 10.61 perceptual_loss: 3.87 kl_loss: 0.24 
+errD0: 1.92 errD1: 2.46 errD2: 1.53 
+g_loss0: 5.88 g_loss1: 14.57 g_loss2: 9.47 w_loss: 10.54 s_loss: 13.29 perceptual_loss: 4.05 kl_loss: 0.38 
+errD0: 1.77 errD1: 2.03 errD2: 1.66 
+g_loss0: 10.91 g_loss1: 7.59 g_loss2: 7.08 w_loss: 3.16 s_loss: 12.10 perceptual_loss: 3.72 kl_loss: 0.39 
+errD0: 1.68 errD1: 1.53 errD2: 1.84 
+g_loss0: 8.89 g_loss1: 13.81 g_loss2: 10.09 w_loss: 7.54 s_loss: 9.53 perceptual_loss: 3.71 kl_loss: 0.28 
+errD0: 1.76 errD1: 1.60 errD2: 1.60 
+g_loss0: 7.68 g_loss1: 17.75 g_loss2: 9.64 w_loss: 6.03 s_loss: 10.46 perceptual_loss: 3.53 kl_loss: 0.48 
+errD0: 1.96 errD1: 1.53 errD2: 1.54 
+g_loss0: 11.12 g_loss1: 11.32 g_loss2: 8.07 w_loss: 5.68 s_loss: 8.25 perceptual_loss: 4.14 kl_loss: 0.51 
+[30/200][1106]
+                  Loss_D: 5.13 Loss_G: 56.86 Time: 727.28s
+errD0: 1.74 errD1: 2.01 errD2: 2.36 
+g_loss0: 8.33 g_loss1: 6.20 g_loss2: 14.73 w_loss: 11.12 s_loss: 14.82 perceptual_loss: 3.77 kl_loss: 0.32 
+errD0: 1.68 errD1: 1.66 errD2: 1.52 
+g_loss0: 13.19 g_loss1: 9.36 g_loss2: 9.55 w_loss: 14.63 s_loss: 16.88 perceptual_loss: 3.76 kl_loss: 0.43 
+errD0: 2.10 errD1: 1.49 errD2: 1.47 
+g_loss0: 5.05 g_loss1: 20.21 g_loss2: 15.38 w_loss: 4.33 s_loss: 13.07 perceptual_loss: 3.57 kl_loss: 0.31 
+errD0: 1.63 errD1: 1.56 errD2: 1.53 
+g_loss0: 8.25 g_loss1: 11.90 g_loss2: 14.92 w_loss: 7.75 s_loss: 11.16 perceptual_loss: 3.93 kl_loss: 0.25 
+errD0: 2.03 errD1: 1.53 errD2: 1.60 
+g_loss0: 8.87 g_loss1: 11.28 g_loss2: 7.56 w_loss: 6.24 s_loss: 14.90 perceptual_loss: 4.08 kl_loss: 0.24 
+errD0: 1.49 errD1: 3.55 errD2: 1.57 
+g_loss0: 11.36 g_loss1: 1.17 g_loss2: 4.32 w_loss: 5.58 s_loss: 13.22 perceptual_loss: 3.79 kl_loss: 0.32 
+errD0: 1.69 errD1: 1.84 errD2: 1.53 
+g_loss0: 11.57 g_loss1: 6.77 g_loss2: 13.67 w_loss: 6.56 s_loss: 11.42 perceptual_loss: 3.39 kl_loss: 0.24 
+errD0: 1.53 errD1: 1.58 errD2: 1.47 
+g_loss0: 11.05 g_loss1: 8.38 g_loss2: 10.65 w_loss: 4.87 s_loss: 9.02 perceptual_loss: 3.58 kl_loss: 0.30 
+errD0: 1.64 errD1: 1.64 errD2: 1.53 
+g_loss0: 7.00 g_loss1: 11.26 g_loss2: 8.95 w_loss: 7.16 s_loss: 10.62 perceptual_loss: 4.06 kl_loss: 0.59 
+errD0: 1.51 errD1: 1.72 errD2: 1.53 
+g_loss0: 9.25 g_loss1: 11.17 g_loss2: 10.75 w_loss: 4.29 s_loss: 8.49 perceptual_loss: 3.70 kl_loss: 0.42 
+errD0: 3.18 errD1: 1.53 errD2: 1.54 
+g_loss0: 2.11 g_loss1: 9.34 g_loss2: 10.19 w_loss: 13.62 s_loss: 11.98 perceptual_loss: 3.86 kl_loss: 0.41 
+[31/200][1106]
+                  Loss_D: 5.08 Loss_G: 57.97 Time: 723.47s
+errD0: 1.73 errD1: 1.68 errD2: 1.63 
+g_loss0: 5.38 g_loss1: 6.75 g_loss2: 7.83 w_loss: 5.79 s_loss: 10.91 perceptual_loss: 3.57 kl_loss: 0.29 
+errD0: 1.65 errD1: 1.63 errD2: 3.13 
+g_loss0: 7.34 g_loss1: 7.77 g_loss2: 16.49 w_loss: 7.38 s_loss: 7.41 perceptual_loss: 3.92 kl_loss: 0.27 
+errD0: 1.58 errD1: 1.55 errD2: 1.65 
+g_loss0: 15.84 g_loss1: 17.15 g_loss2: 8.70 w_loss: 5.43 s_loss: 11.99 perceptual_loss: 3.63 kl_loss: 0.36 
+errD0: 1.82 errD1: 5.28 errD2: 1.55 
+g_loss0: 7.54 g_loss1: 1.97 g_loss2: 10.42 w_loss: 3.71 s_loss: 10.53 perceptual_loss: 3.60 kl_loss: 0.34 
+errD0: 1.99 errD1: 1.79 errD2: 1.72 
+g_loss0: 9.49 g_loss1: 13.96 g_loss2: 8.96 w_loss: 6.20 s_loss: 8.70 perceptual_loss: 4.05 kl_loss: 0.33 
+errD0: 1.55 errD1: 1.95 errD2: 1.81 
+g_loss0: 10.75 g_loss1: 14.67 g_loss2: 12.84 w_loss: 7.28 s_loss: 11.77 perceptual_loss: 3.95 kl_loss: 0.44 
+errD0: 1.86 errD1: 1.51 errD2: 2.82 
+g_loss0: 8.94 g_loss1: 10.85 g_loss2: 3.14 w_loss: 5.52 s_loss: 12.77 perceptual_loss: 3.35 kl_loss: 0.25 
+errD0: 1.55 errD1: 1.79 errD2: 1.85 
+g_loss0: 11.74 g_loss1: 6.19 g_loss2: 11.62 w_loss: 7.01 s_loss: 9.09 perceptual_loss: 3.76 kl_loss: 0.43 
+errD0: 1.61 errD1: 2.24 errD2: 1.61 
+g_loss0: 13.98 g_loss1: 4.54 g_loss2: 11.83 w_loss: 6.71 s_loss: 15.33 perceptual_loss: 3.91 kl_loss: 0.52 
+errD0: 1.57 errD1: 1.76 errD2: 1.59 
+g_loss0: 16.00 g_loss1: 8.42 g_loss2: 15.99 w_loss: 9.51 s_loss: 10.64 perceptual_loss: 3.79 kl_loss: 0.43 
+errD0: 1.62 errD1: 2.07 errD2: 1.62 
+g_loss0: 9.51 g_loss1: 12.00 g_loss2: 9.67 w_loss: 6.03 s_loss: 15.08 perceptual_loss: 3.66 kl_loss: 0.30 
+[32/200][1106]
+                  Loss_D: 5.10 Loss_G: 58.08 Time: 728.74s
+errD0: 1.68 errD1: 1.57 errD2: 1.48 
+g_loss0: 9.15 g_loss1: 9.99 g_loss2: 13.10 w_loss: 5.52 s_loss: 12.69 perceptual_loss: 3.34 kl_loss: 0.34 
+errD0: 1.59 errD1: 1.54 errD2: 1.72 
+g_loss0: 7.96 g_loss1: 15.38 g_loss2: 15.59 w_loss: 8.95 s_loss: 12.81 perceptual_loss: 3.66 kl_loss: 0.49 
+errD0: 1.50 errD1: 1.50 errD2: 1.74 
+g_loss0: 11.18 g_loss1: 13.74 g_loss2: 15.05 w_loss: 7.75 s_loss: 11.73 perceptual_loss: 4.17 kl_loss: 0.38 
+errD0: 1.57 errD1: 1.48 errD2: 1.83 
+g_loss0: 9.33 g_loss1: 10.19 g_loss2: 8.50 w_loss: 7.26 s_loss: 12.04 perceptual_loss: 3.86 kl_loss: 0.31 
+errD0: 1.87 errD1: 1.54 errD2: 1.74 
+g_loss0: 8.89 g_loss1: 8.33 g_loss2: 12.74 w_loss: 6.24 s_loss: 9.70 perceptual_loss: 3.82 kl_loss: 0.30 
+errD0: 2.06 errD1: 1.72 errD2: 1.69 
+g_loss0: 11.48 g_loss1: 12.93 g_loss2: 10.30 w_loss: 6.18 s_loss: 9.14 perceptual_loss: 3.90 kl_loss: 0.38 
+errD0: 1.62 errD1: 1.79 errD2: 2.50 
+g_loss0: 6.61 g_loss1: 13.90 g_loss2: 12.39 w_loss: 3.72 s_loss: 10.15 perceptual_loss: 3.99 kl_loss: 0.38 
+errD0: 1.66 errD1: 1.69 errD2: 1.62 
+g_loss0: 10.85 g_loss1: 10.43 g_loss2: 9.14 w_loss: 10.70 s_loss: 14.49 perceptual_loss: 4.04 kl_loss: 0.40 
+errD0: 1.66 errD1: 1.55 errD2: 1.53 
+g_loss0: 14.18 g_loss1: 12.26 g_loss2: 11.06 w_loss: 9.28 s_loss: 11.32 perceptual_loss: 3.79 kl_loss: 0.36 
+errD0: 1.58 errD1: 2.08 errD2: 1.52 
+g_loss0: 15.59 g_loss1: 5.26 g_loss2: 5.49 w_loss: 8.32 s_loss: 12.74 perceptual_loss: 3.52 kl_loss: 0.38 
+errD0: 3.02 errD1: 1.65 errD2: 2.17 
+g_loss0: 6.42 g_loss1: 8.97 g_loss2: 4.58 w_loss: 6.04 s_loss: 10.80 perceptual_loss: 3.59 kl_loss: 0.32 
+errD0: 1.60 errD1: 2.70 errD2: 1.62 
+g_loss0: 6.41 g_loss1: 10.65 g_loss2: 12.86 w_loss: 6.98 s_loss: 11.75 perceptual_loss: 3.50 kl_loss: 0.36 
+[33/200][1106]
+                  Loss_D: 4.54 Loss_G: 63.63 Time: 728.40s
+errD0: 1.72 errD1: 2.33 errD2: 1.71 
+g_loss0: 10.18 g_loss1: 8.93 g_loss2: 7.67 w_loss: 10.69 s_loss: 13.74 perceptual_loss: 3.43 kl_loss: 0.38 
+errD0: 1.61 errD1: 1.52 errD2: 1.64 
+g_loss0: 4.74 g_loss1: 14.02 g_loss2: 4.95 w_loss: 7.29 s_loss: 9.86 perceptual_loss: 3.76 kl_loss: 0.42 
+errD0: 1.95 errD1: 4.05 errD2: 1.63 
+g_loss0: 8.10 g_loss1: 5.55 g_loss2: 8.44 w_loss: 7.10 s_loss: 13.39 perceptual_loss: 4.07 kl_loss: 0.27 
+errD0: 1.54 errD1: 1.53 errD2: 2.18 
+g_loss0: 4.10 g_loss1: 4.10 g_loss2: 14.88 w_loss: 8.36 s_loss: 9.85 perceptual_loss: 3.58 kl_loss: 0.33 
+errD0: 1.52 errD1: 1.61 errD2: 1.76 
+g_loss0: 11.06 g_loss1: 21.94 g_loss2: 18.07 w_loss: 11.47 s_loss: 12.98 perceptual_loss: 3.83 kl_loss: 0.29 
+errD0: 1.53 errD1: 1.49 errD2: 1.68 
+g_loss0: 16.67 g_loss1: 8.90 g_loss2: 9.37 w_loss: 8.37 s_loss: 10.47 perceptual_loss: 4.00 kl_loss: 0.45 
+errD0: 1.56 errD1: 1.52 errD2: 1.79 
+g_loss0: 8.84 g_loss1: 11.06 g_loss2: 12.58 w_loss: 4.64 s_loss: 11.79 perceptual_loss: 3.60 kl_loss: 0.32 
+errD0: 1.68 errD1: 1.95 errD2: 1.54 
+g_loss0: 5.36 g_loss1: 6.80 g_loss2: 8.18 w_loss: 9.02 s_loss: 12.79 perceptual_loss: 3.84 kl_loss: 0.35 
+errD0: 1.63 errD1: 1.65 errD2: 1.62 
+g_loss0: 10.44 g_loss1: 9.61 g_loss2: 12.63 w_loss: 6.23 s_loss: 11.42 perceptual_loss: 4.20 kl_loss: 0.40 
+errD0: 1.91 errD1: 1.52 errD2: 1.70 
+g_loss0: 15.42 g_loss1: 16.59 g_loss2: 9.74 w_loss: 8.52 s_loss: 13.53 perceptual_loss: 3.44 kl_loss: 0.48 
+errD0: 1.66 errD1: 1.62 errD2: 1.56 
+g_loss0: 8.04 g_loss1: 8.72 g_loss2: 8.25 w_loss: 6.92 s_loss: 8.89 perceptual_loss: 3.53 kl_loss: 0.43 
+[34/200][1106]
+                  Loss_D: 4.98 Loss_G: 51.91 Time: 728.68s
+errD0: 1.63 errD1: 1.50 errD2: 1.57 
+g_loss0: 11.64 g_loss1: 16.13 g_loss2: 7.36 w_loss: 10.67 s_loss: 13.94 perceptual_loss: 3.64 kl_loss: 0.47 
+errD0: 1.64 errD1: 1.59 errD2: 1.52 
+g_loss0: 8.16 g_loss1: 7.96 g_loss2: 12.99 w_loss: 4.04 s_loss: 6.77 perceptual_loss: 3.76 kl_loss: 0.33 
+errD0: 2.30 errD1: 1.78 errD2: 1.57 
+g_loss0: 8.12 g_loss1: 9.71 g_loss2: 10.42 w_loss: 6.08 s_loss: 9.44 perceptual_loss: 4.18 kl_loss: 0.34 
+errD0: 1.54 errD1: 1.54 errD2: 1.96 
+g_loss0: 17.25 g_loss1: 22.73 g_loss2: 4.98 w_loss: 8.20 s_loss: 11.42 perceptual_loss: 3.73 kl_loss: 0.38 
+errD0: 1.63 errD1: 1.86 errD2: 1.85 
+g_loss0: 9.27 g_loss1: 5.91 g_loss2: 9.20 w_loss: 7.62 s_loss: 12.08 perceptual_loss: 3.69 kl_loss: 0.39 
+errD0: 1.46 errD1: 1.49 errD2: 1.51 
+g_loss0: 12.07 g_loss1: 16.45 g_loss2: 11.56 w_loss: 11.35 s_loss: 12.02 perceptual_loss: 3.68 kl_loss: 0.33 
+errD0: 1.61 errD1: 1.91 errD2: 1.66 
+g_loss0: 10.58 g_loss1: 10.54 g_loss2: 9.05 w_loss: 6.74 s_loss: 9.76 perceptual_loss: 4.59 kl_loss: 0.28 
+errD0: 1.66 errD1: 1.58 errD2: 1.55 
+g_loss0: 10.00 g_loss1: 7.59 g_loss2: 14.47 w_loss: 7.41 s_loss: 11.66 perceptual_loss: 3.69 kl_loss: 0.54 
+errD0: 1.54 errD1: 1.66 errD2: 1.60 
+g_loss0: 11.39 g_loss1: 8.07 g_loss2: 10.67 w_loss: 9.84 s_loss: 7.95 perceptual_loss: 3.59 kl_loss: 0.45 
+errD0: 1.88 errD1: 1.60 errD2: 1.64 
+g_loss0: 9.51 g_loss1: 9.88 g_loss2: 8.99 w_loss: 5.68 s_loss: 9.31 perceptual_loss: 3.90 kl_loss: 0.45 
+errD0: 1.57 errD1: 1.57 errD2: 1.58 
+g_loss0: 11.56 g_loss1: 7.88 g_loss2: 7.19 w_loss: 4.91 s_loss: 11.04 perceptual_loss: 3.50 kl_loss: 0.44 
+[35/200][1106]
+                  Loss_D: 5.54 Loss_G: 66.59 Time: 727.30s
+errD0: 1.60 errD1: 1.56 errD2: 2.22 
+g_loss0: 14.21 g_loss1: 10.71 g_loss2: 9.15 w_loss: 7.31 s_loss: 8.65 perceptual_loss: 3.84 kl_loss: 0.36 
+errD0: 1.75 errD1: 1.77 errD2: 1.71 
+g_loss0: 7.61 g_loss1: 6.01 g_loss2: 7.11 w_loss: 7.16 s_loss: 11.78 perceptual_loss: 3.79 kl_loss: 0.56 
+errD0: 1.67 errD1: 1.58 errD2: 3.84 
+g_loss0: 9.57 g_loss1: 10.82 g_loss2: 14.58 w_loss: 3.39 s_loss: 6.68 perceptual_loss: 3.65 kl_loss: 0.33 
+errD0: 1.76 errD1: 3.34 errD2: 1.57 
+g_loss0: 8.00 g_loss1: 4.11 g_loss2: 7.86 w_loss: 8.03 s_loss: 11.19 perceptual_loss: 4.05 kl_loss: 0.29 
+errD0: 1.94 errD1: 1.96 errD2: 2.64 
+g_loss0: 10.16 g_loss1: 7.55 g_loss2: 1.54 w_loss: 11.22 s_loss: 10.40 perceptual_loss: 3.97 kl_loss: 0.34 
+errD0: 1.50 errD1: 2.04 errD2: 1.60 
+g_loss0: 11.14 g_loss1: 15.97 g_loss2: 13.79 w_loss: 7.90 s_loss: 9.74 perceptual_loss: 3.75 kl_loss: 0.33 
+errD0: 1.61 errD1: 1.58 errD2: 1.63 
+g_loss0: 14.49 g_loss1: 12.29 g_loss2: 15.94 w_loss: 9.10 s_loss: 15.63 perceptual_loss: 3.79 kl_loss: 0.48 
+errD0: 3.12 errD1: 1.82 errD2: 1.62 
+g_loss0: 7.23 g_loss1: 7.01 g_loss2: 10.58 w_loss: 7.70 s_loss: 9.16 perceptual_loss: 3.62 kl_loss: 0.29 
+errD0: 1.55 errD1: 1.57 errD2: 1.56 
+g_loss0: 10.83 g_loss1: 10.01 g_loss2: 18.64 w_loss: 4.59 s_loss: 10.17 perceptual_loss: 4.07 kl_loss: 0.40 
+errD0: 1.94 errD1: 2.53 errD2: 1.61 
+g_loss0: 15.20 g_loss1: 10.06 g_loss2: 14.05 w_loss: 6.08 s_loss: 11.90 perceptual_loss: 3.92 kl_loss: 0.54 
+errD0: 1.64 errD1: 1.50 errD2: 1.51 
+g_loss0: 8.26 g_loss1: 9.93 g_loss2: 8.47 w_loss: 3.85 s_loss: 12.11 perceptual_loss: 3.57 kl_loss: 0.29 
+[36/200][1106]
+                  Loss_D: 5.30 Loss_G: 56.30 Time: 730.75s
+errD0: 1.54 errD1: 1.58 errD2: 1.65 
+g_loss0: 7.36 g_loss1: 12.79 g_loss2: 11.84 w_loss: 5.76 s_loss: 11.64 perceptual_loss: 3.68 kl_loss: 0.30 
+errD0: 1.50 errD1: 1.47 errD2: 1.47 
+g_loss0: 24.00 g_loss1: 12.39 g_loss2: 12.86 w_loss: 5.21 s_loss: 12.04 perceptual_loss: 3.80 kl_loss: 0.35 
+errD0: 1.58 errD1: 1.60 errD2: 2.89 
+g_loss0: 12.13 g_loss1: 13.25 g_loss2: 16.66 w_loss: 8.89 s_loss: 11.32 perceptual_loss: 3.16 kl_loss: 0.41 
+errD0: 2.01 errD1: 2.11 errD2: 1.71 
+g_loss0: 9.23 g_loss1: 12.32 g_loss2: 12.43 w_loss: 7.58 s_loss: 7.78 perceptual_loss: 3.96 kl_loss: 0.29 
+errD0: 1.61 errD1: 1.73 errD2: 1.52 
+g_loss0: 11.94 g_loss1: 9.76 g_loss2: 12.60 w_loss: 10.26 s_loss: 11.80 perceptual_loss: 3.73 kl_loss: 0.43 
+errD0: 1.68 errD1: 1.83 errD2: 1.57 
+g_loss0: 9.95 g_loss1: 8.01 g_loss2: 10.28 w_loss: 6.11 s_loss: 12.69 perceptual_loss: 3.23 kl_loss: 0.43 
+errD0: 1.66 errD1: 1.64 errD2: 1.74 
+g_loss0: 8.77 g_loss1: 6.99 g_loss2: 14.05 w_loss: 6.14 s_loss: 11.62 perceptual_loss: 3.35 kl_loss: 0.32 
+errD0: 1.56 errD1: 1.56 errD2: 1.57 
+g_loss0: 13.19 g_loss1: 19.79 g_loss2: 11.28 w_loss: 12.15 s_loss: 13.30 perceptual_loss: 4.37 kl_loss: 0.39 
+errD0: 2.79 errD1: 1.61 errD2: 1.81 
+g_loss0: 16.86 g_loss1: 9.81 g_loss2: 12.93 w_loss: 6.58 s_loss: 14.14 perceptual_loss: 3.65 kl_loss: 0.45 
+errD0: 1.63 errD1: 1.69 errD2: 3.25 
+g_loss0: 11.49 g_loss1: 12.47 g_loss2: 0.24 w_loss: 12.53 s_loss: 12.94 perceptual_loss: 3.53 kl_loss: 0.25 
+errD0: 1.57 errD1: 1.49 errD2: 1.65 
+g_loss0: 8.45 g_loss1: 8.54 g_loss2: 10.03 w_loss: 2.98 s_loss: 11.07 perceptual_loss: 3.78 kl_loss: 0.34 
+[37/200][1106]
+                  Loss_D: 5.56 Loss_G: 67.98 Time: 758.08s
+errD0: 1.49 errD1: 1.50 errD2: 1.61 
+g_loss0: 15.76 g_loss1: 13.87 g_loss2: 17.98 w_loss: 5.35 s_loss: 10.72 perceptual_loss: 3.55 kl_loss: 0.32 
+errD0: 1.57 errD1: 1.66 errD2: 1.62 
+g_loss0: 13.46 g_loss1: 11.68 g_loss2: 7.75 w_loss: 8.20 s_loss: 11.04 perceptual_loss: 3.60 kl_loss: 0.29 
+errD0: 1.74 errD1: 1.52 errD2: 1.50 
+g_loss0: 22.01 g_loss1: 9.21 g_loss2: 12.31 w_loss: 8.49 s_loss: 13.25 perceptual_loss: 4.15 kl_loss: 0.22 
+errD0: 1.67 errD1: 1.46 errD2: 2.95 
+g_loss0: 7.29 g_loss1: 11.18 g_loss2: 7.89 w_loss: 4.59 s_loss: 8.65 perceptual_loss: 3.31 kl_loss: 0.25 
+errD0: 2.49 errD1: 3.18 errD2: 1.88 
+g_loss0: 1.40 g_loss1: 1.67 g_loss2: 15.42 w_loss: 12.25 s_loss: 10.40 perceptual_loss: 3.72 kl_loss: 0.22 
+errD0: 3.05 errD1: 1.61 errD2: 1.48 
+g_loss0: 6.98 g_loss1: 15.54 g_loss2: 13.67 w_loss: 5.88 s_loss: 5.83 perceptual_loss: 3.86 kl_loss: 0.31 
+errD0: 2.26 errD1: 1.53 errD2: 1.47 
+g_loss0: 5.90 g_loss1: 15.51 g_loss2: 11.69 w_loss: 7.62 s_loss: 8.60 perceptual_loss: 4.02 kl_loss: 0.37 
+errD0: 1.54 errD1: 1.55 errD2: 1.51 
+g_loss0: 8.79 g_loss1: 16.40 g_loss2: 7.74 w_loss: 3.83 s_loss: 9.08 perceptual_loss: 3.81 kl_loss: 0.51 
+errD0: 1.61 errD1: 1.53 errD2: 2.02 
+g_loss0: 4.05 g_loss1: 11.29 g_loss2: 14.64 w_loss: 5.99 s_loss: 11.59 perceptual_loss: 3.62 kl_loss: 0.22 
+errD0: 2.32 errD1: 2.35 errD2: 1.51 
+g_loss0: 15.01 g_loss1: 12.22 g_loss2: 13.41 w_loss: 8.34 s_loss: 8.86 perceptual_loss: 3.69 kl_loss: 0.33 
+errD0: 1.73 errD1: 1.55 errD2: 2.00 
+g_loss0: 6.60 g_loss1: 10.75 g_loss2: 9.97 w_loss: 10.45 s_loss: 14.91 perceptual_loss: 3.80 kl_loss: 0.52 
+[38/200][1106]
+                  Loss_D: 4.67 Loss_G: 55.53 Time: 725.51s
+errD0: 1.57 errD1: 1.62 errD2: 1.56 
+g_loss0: 23.08 g_loss1: 10.30 g_loss2: 16.01 w_loss: 3.84 s_loss: 6.73 perceptual_loss: 3.59 kl_loss: 0.32 
+errD0: 1.89 errD1: 1.91 errD2: 1.63 
+g_loss0: 11.25 g_loss1: 7.49 g_loss2: 12.62 w_loss: 8.15 s_loss: 10.19 perceptual_loss: 3.94 kl_loss: 0.56 
+errD0: 3.17 errD1: 1.48 errD2: 1.48 
+g_loss0: 17.71 g_loss1: 9.75 g_loss2: 9.20 w_loss: 9.65 s_loss: 7.60 perceptual_loss: 4.27 kl_loss: 0.36 
+errD0: 3.10 errD1: 1.97 errD2: 1.52 
+g_loss0: 9.82 g_loss1: 11.54 g_loss2: 13.08 w_loss: 7.51 s_loss: 15.42 perceptual_loss: 3.69 kl_loss: 0.66 
+errD0: 2.29 errD1: 1.51 errD2: 1.56 
+g_loss0: 7.43 g_loss1: 15.27 g_loss2: 12.30 w_loss: 5.65 s_loss: 8.31 perceptual_loss: 3.43 kl_loss: 0.41 
+errD0: 1.56 errD1: 1.46 errD2: 1.46 
+g_loss0: 7.71 g_loss1: 8.50 g_loss2: 12.71 w_loss: 6.13 s_loss: 11.77 perceptual_loss: 3.88 kl_loss: 0.42 
+errD0: 2.75 errD1: 1.47 errD2: 1.60 
+g_loss0: 5.33 g_loss1: 9.08 g_loss2: 8.48 w_loss: 4.28 s_loss: 14.42 perceptual_loss: 3.90 kl_loss: 0.29 
+errD0: 2.08 errD1: 2.69 errD2: 2.21 
+g_loss0: 13.83 g_loss1: 14.74 g_loss2: 14.75 w_loss: 6.58 s_loss: 8.49 perceptual_loss: 3.78 kl_loss: 0.40 
+errD0: 1.49 errD1: 1.51 errD2: 1.57 
+g_loss0: 16.33 g_loss1: 15.54 g_loss2: 6.92 w_loss: 5.04 s_loss: 11.82 perceptual_loss: 3.67 kl_loss: 0.24 
+errD0: 1.68 errD1: 1.64 errD2: 1.58 
+g_loss0: 9.14 g_loss1: 7.15 g_loss2: 10.38 w_loss: 9.20 s_loss: 11.65 perceptual_loss: 4.00 kl_loss: 0.25 
+errD0: 4.39 errD1: 1.83 errD2: 1.57 
+g_loss0: 7.56 g_loss1: 7.40 g_loss2: 9.50 w_loss: 5.84 s_loss: 13.28 perceptual_loss: 3.56 kl_loss: 0.39 
+[39/200][1106]
+                  Loss_D: 4.51 Loss_G: 61.33 Time: 725.02s
+errD0: 1.58 errD1: 2.16 errD2: 2.51 
+g_loss0: 11.07 g_loss1: 9.19 g_loss2: 11.16 w_loss: 8.09 s_loss: 10.63 perceptual_loss: 3.47 kl_loss: 0.41 
+errD0: 1.66 errD1: 1.69 errD2: 1.95 
+g_loss0: 12.35 g_loss1: 10.44 g_loss2: 13.19 w_loss: 8.38 s_loss: 13.12 perceptual_loss: 3.81 kl_loss: 0.35 
+errD0: 1.79 errD1: 2.26 errD2: 1.55 
+g_loss0: 2.56 g_loss1: 15.96 g_loss2: 6.17 w_loss: 7.07 s_loss: 13.96 perceptual_loss: 3.84 kl_loss: 0.35 
+errD0: 1.55 errD1: 2.23 errD2: 1.46 
+g_loss0: 9.37 g_loss1: 2.51 g_loss2: 11.24 w_loss: 6.46 s_loss: 8.45 perceptual_loss: 3.63 kl_loss: 0.41 
+errD0: 2.50 errD1: 1.59 errD2: 2.23 
+g_loss0: 9.02 g_loss1: 14.08 g_loss2: 7.83 w_loss: 6.30 s_loss: 12.37 perceptual_loss: 4.19 kl_loss: 0.26 
+errD0: 1.71 errD1: 1.49 errD2: 1.47 
+g_loss0: 8.42 g_loss1: 9.64 g_loss2: 14.06 w_loss: 5.77 s_loss: 12.19 perceptual_loss: 3.62 kl_loss: 0.39 
+errD0: 1.54 errD1: 1.59 errD2: 1.58 
+g_loss0: 13.35 g_loss1: 7.97 g_loss2: 12.39 w_loss: 4.70 s_loss: 9.82 perceptual_loss: 3.76 kl_loss: 0.34 
+errD0: 2.25 errD1: 1.66 errD2: 2.68 
+g_loss0: 13.39 g_loss1: 9.01 g_loss2: 14.37 w_loss: 6.37 s_loss: 9.24 perceptual_loss: 3.87 kl_loss: 0.35 
+errD0: 2.46 errD1: 1.61 errD2: 1.55 
+g_loss0: 12.96 g_loss1: 11.23 g_loss2: 11.85 w_loss: 4.75 s_loss: 9.70 perceptual_loss: 3.34 kl_loss: 0.44 
+errD0: 1.95 errD1: 1.61 errD2: 1.67 
+g_loss0: 9.60 g_loss1: 6.98 g_loss2: 5.44 w_loss: 5.94 s_loss: 14.02 perceptual_loss: 3.40 kl_loss: 0.41 
+errD0: 1.50 errD1: 2.78 errD2: 1.50 
+g_loss0: 15.22 g_loss1: 6.44 g_loss2: 9.09 w_loss: 5.43 s_loss: 9.16 perceptual_loss: 3.81 kl_loss: 0.34 
+[40/200][1106]
+                  Loss_D: 4.69 Loss_G: 57.97 Time: 726.84s
+errD0: 1.58 errD1: 1.61 errD2: 1.67 
+g_loss0: 12.93 g_loss1: 19.50 g_loss2: 13.11 w_loss: 6.56 s_loss: 15.71 perceptual_loss: 3.84 kl_loss: 0.43 
+errD0: 2.52 errD1: 5.69 errD2: 1.57 
+g_loss0: 17.01 g_loss1: 1.32 g_loss2: 10.90 w_loss: 5.13 s_loss: 8.18 perceptual_loss: 3.74 kl_loss: 0.32 
+errD0: 1.74 errD1: 1.53 errD2: 1.70 
+g_loss0: 13.86 g_loss1: 8.80 g_loss2: 8.71 w_loss: 2.94 s_loss: 10.87 perceptual_loss: 3.86 kl_loss: 0.35 
+errD0: 1.59 errD1: 1.62 errD2: 1.67 
+g_loss0: 11.33 g_loss1: 9.03 g_loss2: 9.43 w_loss: 4.88 s_loss: 9.34 perceptual_loss: 3.73 kl_loss: 0.34 
+errD0: 1.73 errD1: 1.56 errD2: 2.12 
+g_loss0: 9.62 g_loss1: 13.02 g_loss2: 11.68 w_loss: 6.51 s_loss: 10.79 perceptual_loss: 3.56 kl_loss: 0.32 
+errD0: 2.02 errD1: 2.23 errD2: 1.48 
+g_loss0: 17.40 g_loss1: 18.94 g_loss2: 11.89 w_loss: 4.82 s_loss: 11.05 perceptual_loss: 3.34 kl_loss: 0.39 
+errD0: 1.72 errD1: 1.50 errD2: 1.46 
+g_loss0: 11.26 g_loss1: 16.06 g_loss2: 10.32 w_loss: 5.27 s_loss: 8.87 perceptual_loss: 3.95 kl_loss: 0.33 
+errD0: 1.51 errD1: 1.88 errD2: 1.52 
+g_loss0: 16.21 g_loss1: 7.44 g_loss2: 15.42 w_loss: 7.47 s_loss: 9.57 perceptual_loss: 4.36 kl_loss: 0.37 
+errD0: 1.86 errD1: 1.77 errD2: 1.52 
+g_loss0: 13.69 g_loss1: 8.42 g_loss2: 8.94 w_loss: 5.49 s_loss: 7.73 perceptual_loss: 3.78 kl_loss: 0.36 
+errD0: 1.63 errD1: 1.43 errD2: 1.42 
+g_loss0: 11.83 g_loss1: 13.33 g_loss2: 10.34 w_loss: 7.43 s_loss: 8.15 perceptual_loss: 3.26 kl_loss: 0.47 
+errD0: 1.82 errD1: 3.61 errD2: 1.52 
+g_loss0: 7.73 g_loss1: 3.01 g_loss2: 12.69 w_loss: 5.63 s_loss: 8.44 perceptual_loss: 3.46 kl_loss: 0.26 
+[41/200][1106]
+                  Loss_D: 6.11 Loss_G: 72.53 Time: 725.03s
+errD0: 1.78 errD1: 2.18 errD2: 1.69 
+g_loss0: 7.66 g_loss1: 16.37 g_loss2: 9.76 w_loss: 5.94 s_loss: 9.37 perceptual_loss: 3.88 kl_loss: 0.31 
+errD0: 1.51 errD1: 1.50 errD2: 1.74 
+g_loss0: 13.50 g_loss1: 17.32 g_loss2: 15.76 w_loss: 7.11 s_loss: 8.20 perceptual_loss: 3.56 kl_loss: 0.42 
+errD0: 1.53 errD1: 1.53 errD2: 1.58 
+g_loss0: 11.04 g_loss1: 11.61 g_loss2: 12.79 w_loss: 8.43 s_loss: 11.17 perceptual_loss: 3.27 kl_loss: 0.34 
+errD0: 1.58 errD1: 1.67 errD2: 1.56 
+g_loss0: 6.70 g_loss1: 9.42 g_loss2: 10.95 w_loss: 12.73 s_loss: 11.25 perceptual_loss: 3.52 kl_loss: 0.20 
+errD0: 1.57 errD1: 1.62 errD2: 1.64 
+g_loss0: 11.24 g_loss1: 5.49 g_loss2: 12.09 w_loss: 8.90 s_loss: 9.65 perceptual_loss: 4.28 kl_loss: 0.32 
+errD0: 1.50 errD1: 1.50 errD2: 1.53 
+g_loss0: 14.34 g_loss1: 16.79 g_loss2: 10.97 w_loss: 10.36 s_loss: 9.00 perceptual_loss: 3.91 kl_loss: 0.32 
+errD0: 1.60 errD1: 1.56 errD2: 1.87 
+g_loss0: 14.92 g_loss1: 8.44 g_loss2: 12.04 w_loss: 5.93 s_loss: 10.63 perceptual_loss: 3.51 kl_loss: 0.30 
+errD0: 1.48 errD1: 1.57 errD2: 1.49 
+g_loss0: 11.41 g_loss1: 8.43 g_loss2: 11.34 w_loss: 6.59 s_loss: 9.14 perceptual_loss: 3.75 kl_loss: 0.36 
+errD0: 1.54 errD1: 1.64 errD2: 1.51 
+g_loss0: 9.00 g_loss1: 8.03 g_loss2: 16.10 w_loss: 8.70 s_loss: 11.23 perceptual_loss: 4.20 kl_loss: 0.48 
+errD0: 1.53 errD1: 1.87 errD2: 1.51 
+g_loss0: 18.13 g_loss1: 10.84 g_loss2: 9.15 w_loss: 2.09 s_loss: 9.80 perceptual_loss: 3.50 kl_loss: 0.38 
+errD0: 1.54 errD1: 1.57 errD2: 1.90 
+g_loss0: 12.94 g_loss1: 9.11 g_loss2: 14.28 w_loss: 6.76 s_loss: 11.84 perceptual_loss: 3.52 kl_loss: 0.34 
+[42/200][1106]
+                  Loss_D: 5.36 Loss_G: 53.10 Time: 724.43s
+errD0: 1.81 errD1: 1.77 errD2: 1.87 
+g_loss0: 10.79 g_loss1: 8.72 g_loss2: 7.26 w_loss: 8.35 s_loss: 10.95 perceptual_loss: 3.77 kl_loss: 0.44 
+errD0: 1.51 errD1: 1.62 errD2: 1.56 
+g_loss0: 14.84 g_loss1: 8.35 g_loss2: 8.43 w_loss: 8.13 s_loss: 8.03 perceptual_loss: 4.15 kl_loss: 0.51 
+errD0: 1.92 errD1: 1.44 errD2: 1.77 
+g_loss0: 8.21 g_loss1: 10.13 g_loss2: 12.60 w_loss: 9.15 s_loss: 13.43 perceptual_loss: 3.80 kl_loss: 0.53 
+errD0: 1.66 errD1: 1.61 errD2: 1.72 
+g_loss0: 9.81 g_loss1: 7.78 g_loss2: 9.41 w_loss: 7.03 s_loss: 12.42 perceptual_loss: 3.50 kl_loss: 0.50 
+errD0: 1.50 errD1: 1.49 errD2: 1.52 
+g_loss0: 10.31 g_loss1: 9.41 g_loss2: 8.17 w_loss: 6.71 s_loss: 10.33 perceptual_loss: 3.52 kl_loss: 0.42 
+errD0: 2.66 errD1: 1.61 errD2: 1.52 
+g_loss0: 23.38 g_loss1: 9.77 g_loss2: 18.80 w_loss: 5.61 s_loss: 10.87 perceptual_loss: 3.79 kl_loss: 0.35 
+errD0: 1.51 errD1: 1.68 errD2: 1.62 
+g_loss0: 11.76 g_loss1: 9.26 g_loss2: 15.35 w_loss: 6.31 s_loss: 10.49 perceptual_loss: 3.78 kl_loss: 0.45 
+errD0: 1.66 errD1: 1.66 errD2: 2.13 
+g_loss0: 16.92 g_loss1: 14.35 g_loss2: 11.58 w_loss: 6.78 s_loss: 11.49 perceptual_loss: 4.19 kl_loss: 0.35 
+errD0: 1.86 errD1: 1.55 errD2: 1.54 
+g_loss0: 3.47 g_loss1: 8.16 g_loss2: 9.47 w_loss: 9.56 s_loss: 10.88 perceptual_loss: 3.58 kl_loss: 0.33 
+errD0: 2.23 errD1: 2.37 errD2: 1.75 
+g_loss0: 12.93 g_loss1: 10.91 g_loss2: 6.29 w_loss: 6.63 s_loss: 13.28 perceptual_loss: 3.61 kl_loss: 0.39 
+errD0: 1.57 errD1: 2.07 errD2: 1.60 
+g_loss0: 5.90 g_loss1: 12.04 g_loss2: 8.78 w_loss: 7.98 s_loss: 12.87 perceptual_loss: 3.76 kl_loss: 0.59 
+[43/200][1106]
+                  Loss_D: 4.99 Loss_G: 50.40 Time: 722.07s
+errD0: 1.54 errD1: 1.48 errD2: 1.87 
+g_loss0: 4.53 g_loss1: 4.44 g_loss2: 14.05 w_loss: 11.01 s_loss: 10.34 perceptual_loss: 3.71 kl_loss: 0.46 
+errD0: 1.88 errD1: 1.92 errD2: 4.49 
+g_loss0: 5.23 g_loss1: 5.87 g_loss2: 10.71 w_loss: 7.74 s_loss: 13.36 perceptual_loss: 3.83 kl_loss: 0.35 
+errD0: 1.58 errD1: 1.56 errD2: 1.59 
+g_loss0: 6.71 g_loss1: 16.75 g_loss2: 10.23 w_loss: 11.19 s_loss: 14.39 perceptual_loss: 3.54 kl_loss: 0.47 
+errD0: 1.60 errD1: 2.17 errD2: 1.56 
+g_loss0: 9.66 g_loss1: 14.86 g_loss2: 11.55 w_loss: 7.36 s_loss: 9.50 perceptual_loss: 4.01 kl_loss: 0.42 
+errD0: 2.00 errD1: 2.38 errD2: 1.62 
+g_loss0: 8.66 g_loss1: 3.02 g_loss2: 8.80 w_loss: 8.60 s_loss: 15.96 perceptual_loss: 4.08 kl_loss: 0.40 
+errD0: 1.51 errD1: 2.48 errD2: 1.77 
+g_loss0: 17.12 g_loss1: 9.11 g_loss2: 11.92 w_loss: 7.13 s_loss: 11.13 perceptual_loss: 3.57 kl_loss: 0.47 
+errD0: 1.62 errD1: 3.04 errD2: 1.53 
+g_loss0: 10.82 g_loss1: 1.72 g_loss2: 9.39 w_loss: 9.61 s_loss: 8.75 perceptual_loss: 3.88 kl_loss: 0.55 
+errD0: 1.82 errD1: 3.08 errD2: 1.67 
+g_loss0: 7.79 g_loss1: 4.36 g_loss2: 9.36 w_loss: 4.09 s_loss: 8.82 perceptual_loss: 3.72 kl_loss: 0.39 
+errD0: 1.63 errD1: 1.63 errD2: 1.53 
+g_loss0: 8.61 g_loss1: 11.56 g_loss2: 7.97 w_loss: 5.86 s_loss: 13.67 perceptual_loss: 4.03 kl_loss: 0.45 
+errD0: 1.67 errD1: 1.56 errD2: 2.40 
+g_loss0: 4.52 g_loss1: 5.38 g_loss2: 11.54 w_loss: 5.87 s_loss: 11.40 perceptual_loss: 3.79 kl_loss: 0.35 
+errD0: 2.68 errD1: 1.50 errD2: 2.28 
+g_loss0: 12.49 g_loss1: 13.91 g_loss2: 15.27 w_loss: 10.08 s_loss: 8.50 perceptual_loss: 3.74 kl_loss: 0.42 
+[44/200][1106]
+                  Loss_D: 6.39 Loss_G: 47.22 Time: 724.09s
+errD0: 1.53 errD1: 1.54 errD2: 1.53 
+g_loss0: 6.07 g_loss1: 22.08 g_loss2: 14.37 w_loss: 10.42 s_loss: 11.55 perceptual_loss: 3.79 kl_loss: 0.50 
+errD0: 1.71 errD1: 1.58 errD2: 1.56 
+g_loss0: 7.83 g_loss1: 11.37 g_loss2: 12.22 w_loss: 5.44 s_loss: 11.66 perceptual_loss: 4.12 kl_loss: 0.35 
+errD0: 1.85 errD1: 1.70 errD2: 1.57 
+g_loss0: 11.93 g_loss1: 8.96 g_loss2: 22.63 w_loss: 5.90 s_loss: 12.97 perceptual_loss: 4.00 kl_loss: 0.51 
+errD0: 4.48 errD1: 3.27 errD2: 1.50 
+g_loss0: 0.27 g_loss1: 0.97 g_loss2: 13.06 w_loss: 7.52 s_loss: 11.75 perceptual_loss: 3.58 kl_loss: 0.66 
+errD0: 2.04 errD1: 2.49 errD2: 1.51 
+g_loss0: 11.03 g_loss1: 16.21 g_loss2: 12.01 w_loss: 8.30 s_loss: 10.30 perceptual_loss: 3.54 kl_loss: 0.46 
+errD0: 1.79 errD1: 1.47 errD2: 2.20 
+g_loss0: 5.84 g_loss1: 17.75 g_loss2: 2.32 w_loss: 6.84 s_loss: 8.89 perceptual_loss: 3.20 kl_loss: 0.36 
+errD0: 1.46 errD1: 1.46 errD2: 1.79 
+g_loss0: 17.70 g_loss1: 11.88 g_loss2: 9.92 w_loss: 6.35 s_loss: 12.62 perceptual_loss: 3.66 kl_loss: 0.45 
+errD0: 1.97 errD1: 1.51 errD2: 1.57 
+g_loss0: 5.29 g_loss1: 9.24 g_loss2: 3.79 w_loss: 5.63 s_loss: 11.28 perceptual_loss: 3.56 kl_loss: 0.39 
+errD0: 1.97 errD1: 1.71 errD2: 1.56 
+g_loss0: 11.58 g_loss1: 9.90 g_loss2: 14.46 w_loss: 7.56 s_loss: 14.24 perceptual_loss: 3.75 kl_loss: 0.24 
+errD0: 1.48 errD1: 1.52 errD2: 1.46 
+g_loss0: 8.67 g_loss1: 9.38 g_loss2: 9.20 w_loss: 8.58 s_loss: 9.34 perceptual_loss: 3.66 kl_loss: 0.48 
+errD0: 1.53 errD1: 1.51 errD2: 1.69 
+g_loss0: 13.84 g_loss1: 16.02 g_loss2: 12.52 w_loss: 4.35 s_loss: 10.79 perceptual_loss: 3.72 kl_loss: 0.39 
+[45/200][1106]
+                  Loss_D: 5.52 Loss_G: 54.12 Time: 726.31s
+errD0: 1.67 errD1: 1.52 errD2: 1.53 
+g_loss0: 9.35 g_loss1: 9.68 g_loss2: 14.36 w_loss: 8.82 s_loss: 12.36 perceptual_loss: 3.77 kl_loss: 0.43 
+errD0: 2.07 errD1: 1.58 errD2: 1.62 
+g_loss0: 3.71 g_loss1: 7.92 g_loss2: 11.68 w_loss: 9.36 s_loss: 16.20 perceptual_loss: 3.42 kl_loss: 0.49 
+errD0: 1.47 errD1: 1.53 errD2: 1.51 
+g_loss0: 10.90 g_loss1: 11.96 g_loss2: 9.06 w_loss: 9.53 s_loss: 9.96 perceptual_loss: 3.33 kl_loss: 0.40 
+errD0: 1.43 errD1: 1.55 errD2: 3.46 
+g_loss0: 13.86 g_loss1: 9.05 g_loss2: 0.40 w_loss: 8.16 s_loss: 14.92 perceptual_loss: 3.91 kl_loss: 0.73 
+errD0: 1.57 errD1: 1.61 errD2: 1.50 
+g_loss0: 9.42 g_loss1: 11.94 g_loss2: 14.20 w_loss: 11.75 s_loss: 12.59 perceptual_loss: 3.34 kl_loss: 0.35 
+errD0: 2.88 errD1: 1.61 errD2: 1.57 
+g_loss0: 6.81 g_loss1: 9.53 g_loss2: 14.99 w_loss: 5.33 s_loss: 8.93 perceptual_loss: 3.95 kl_loss: 0.54 
+errD0: 1.50 errD1: 1.59 errD2: 1.57 
+g_loss0: 11.29 g_loss1: 9.11 g_loss2: 16.08 w_loss: 7.21 s_loss: 8.23 perceptual_loss: 3.70 kl_loss: 0.38 
+errD0: 1.55 errD1: 1.52 errD2: 1.45 
+g_loss0: 8.46 g_loss1: 9.60 g_loss2: 16.46 w_loss: 10.17 s_loss: 12.35 perceptual_loss: 3.69 kl_loss: 0.39 
+errD0: 1.77 errD1: 1.66 errD2: 1.93 
+g_loss0: 8.11 g_loss1: 8.74 g_loss2: 10.53 w_loss: 6.70 s_loss: 11.74 perceptual_loss: 3.87 kl_loss: 0.53 
+errD0: 1.59 errD1: 1.56 errD2: 2.09 
+g_loss0: 14.19 g_loss1: 12.56 g_loss2: 3.56 w_loss: 8.70 s_loss: 13.45 perceptual_loss: 3.74 kl_loss: 0.37 
+errD0: 1.62 errD1: 1.62 errD2: 1.49 
+g_loss0: 8.99 g_loss1: 6.73 g_loss2: 14.36 w_loss: 10.64 s_loss: 14.05 perceptual_loss: 3.81 kl_loss: 0.43 
+[46/200][1106]
+                  Loss_D: 4.79 Loss_G: 65.60 Time: 725.64s
+errD0: 2.47 errD1: 1.52 errD2: 1.52 
+g_loss0: 14.51 g_loss1: 9.02 g_loss2: 9.74 w_loss: 11.12 s_loss: 15.14 perceptual_loss: 3.94 kl_loss: 0.46 
+errD0: 1.65 errD1: 1.84 errD2: 2.04 
+g_loss0: 6.71 g_loss1: 8.78 g_loss2: 16.49 w_loss: 12.46 s_loss: 10.93 perceptual_loss: 3.57 kl_loss: 0.63 
+errD0: 1.58 errD1: 1.86 errD2: 1.53 
+g_loss0: 12.65 g_loss1: 11.09 g_loss2: 10.95 w_loss: 5.93 s_loss: 8.98 perceptual_loss: 3.84 kl_loss: 0.46 
+errD0: 1.55 errD1: 1.58 errD2: 1.52 
+g_loss0: 12.09 g_loss1: 9.50 g_loss2: 11.60 w_loss: 7.03 s_loss: 14.47 perceptual_loss: 3.69 kl_loss: 0.31 
+errD0: 1.63 errD1: 2.62 errD2: 1.50 
+g_loss0: 10.77 g_loss1: 16.17 g_loss2: 11.01 w_loss: 8.14 s_loss: 10.43 perceptual_loss: 3.72 kl_loss: 0.47 
+errD0: 2.31 errD1: 1.56 errD2: 1.81 
+g_loss0: 17.73 g_loss1: 2.85 g_loss2: 11.69 w_loss: 5.82 s_loss: 9.09 perceptual_loss: 3.54 kl_loss: 0.38 
+errD0: 1.64 errD1: 2.23 errD2: 1.49 
+g_loss0: 19.80 g_loss1: 4.50 g_loss2: 9.87 w_loss: 5.80 s_loss: 8.18 perceptual_loss: 3.54 kl_loss: 0.25 
+errD0: 2.07 errD1: 1.52 errD2: 1.57 
+g_loss0: 11.13 g_loss1: 8.23 g_loss2: 9.13 w_loss: 5.63 s_loss: 8.39 perceptual_loss: 3.74 kl_loss: 0.39 
+errD0: 1.64 errD1: 1.59 errD2: 2.02 
+g_loss0: 7.29 g_loss1: 7.86 g_loss2: 3.67 w_loss: 8.47 s_loss: 12.35 perceptual_loss: 3.49 kl_loss: 0.56 
+errD0: 1.54 errD1: 1.98 errD2: 1.49 
+g_loss0: 7.91 g_loss1: 5.71 g_loss2: 18.71 w_loss: 6.12 s_loss: 8.31 perceptual_loss: 3.91 kl_loss: 0.40 
+errD0: 1.56 errD1: 1.46 errD2: 1.48 
+g_loss0: 4.32 g_loss1: 15.13 g_loss2: 10.41 w_loss: 7.14 s_loss: 9.48 perceptual_loss: 3.45 kl_loss: 0.32 
+[47/200][1106]
+                  Loss_D: 4.67 Loss_G: 68.89 Time: 756.11s
+errD0: 1.81 errD1: 1.53 errD2: 1.70 
+g_loss0: 12.52 g_loss1: 14.04 g_loss2: 7.27 w_loss: 7.11 s_loss: 10.65 perceptual_loss: 3.51 kl_loss: 0.35 
+errD0: 1.61 errD1: 1.64 errD2: 1.84 
+g_loss0: 8.24 g_loss1: 15.07 g_loss2: 12.72 w_loss: 5.90 s_loss: 9.78 perceptual_loss: 3.87 kl_loss: 0.37 
+errD0: 1.53 errD1: 1.49 errD2: 1.51 
+g_loss0: 13.26 g_loss1: 6.91 g_loss2: 8.51 w_loss: 5.97 s_loss: 11.76 perceptual_loss: 3.43 kl_loss: 0.36 
+errD0: 1.53 errD1: 2.78 errD2: 1.51 
+g_loss0: 8.72 g_loss1: 22.85 g_loss2: 12.14 w_loss: 6.62 s_loss: 10.69 perceptual_loss: 3.75 kl_loss: 0.38 
+errD0: 1.54 errD1: 1.61 errD2: 1.59 
+g_loss0: 5.49 g_loss1: 19.95 g_loss2: 11.83 w_loss: 10.59 s_loss: 16.39 perceptual_loss: 3.39 kl_loss: 0.40 
+errD0: 2.62 errD1: 1.63 errD2: 2.13 
+g_loss0: 11.44 g_loss1: 9.44 g_loss2: 16.49 w_loss: 12.18 s_loss: 13.87 perceptual_loss: 3.82 kl_loss: 0.41 
+errD0: 1.54 errD1: 2.43 errD2: 1.47 
+g_loss0: 10.50 g_loss1: 18.31 g_loss2: 14.16 w_loss: 4.81 s_loss: 13.31 perceptual_loss: 3.47 kl_loss: 0.45 
+errD0: 3.00 errD1: 2.31 errD2: 2.61 
+g_loss0: 0.20 g_loss1: 18.69 g_loss2: 5.25 w_loss: 6.66 s_loss: 12.33 perceptual_loss: 3.28 kl_loss: 0.39 
+errD0: 1.64 errD1: 1.50 errD2: 1.55 
+g_loss0: 17.51 g_loss1: 11.24 g_loss2: 13.08 w_loss: 7.26 s_loss: 14.11 perceptual_loss: 3.46 kl_loss: 0.45 
+errD0: 1.58 errD1: 2.44 errD2: 1.58 
+g_loss0: 6.81 g_loss1: 13.93 g_loss2: 7.97 w_loss: 3.97 s_loss: 10.63 perceptual_loss: 3.85 kl_loss: 0.36 
+errD0: 1.68 errD1: 2.02 errD2: 1.84 
+g_loss0: 5.56 g_loss1: 11.23 g_loss2: 8.55 w_loss: 7.97 s_loss: 10.81 perceptual_loss: 3.54 kl_loss: 0.33 
+[48/200][1106]
+                  Loss_D: 5.94 Loss_G: 37.69 Time: 725.55s
+errD0: 1.53 errD1: 1.82 errD2: 2.16 
+g_loss0: 9.02 g_loss1: 12.24 g_loss2: 5.07 w_loss: 9.14 s_loss: 12.29 perceptual_loss: 3.85 kl_loss: 0.40 
+errD0: 1.55 errD1: 1.52 errD2: 1.55 
+g_loss0: 8.53 g_loss1: 12.52 g_loss2: 8.33 w_loss: 10.22 s_loss: 13.68 perceptual_loss: 3.70 kl_loss: 0.42 
+errD0: 1.74 errD1: 1.57 errD2: 1.54 
+g_loss0: 24.43 g_loss1: 8.34 g_loss2: 12.47 w_loss: 9.97 s_loss: 12.98 perceptual_loss: 3.91 kl_loss: 0.40 
+errD0: 1.52 errD1: 1.69 errD2: 1.76 
+g_loss0: 7.04 g_loss1: 10.15 g_loss2: 11.78 w_loss: 11.06 s_loss: 14.73 perceptual_loss: 3.58 kl_loss: 0.47 
+errD0: 1.71 errD1: 1.60 errD2: 1.53 
+g_loss0: 7.47 g_loss1: 7.48 g_loss2: 15.19 w_loss: 8.64 s_loss: 10.99 perceptual_loss: 4.33 kl_loss: 0.51 
+errD0: 1.89 errD1: 2.18 errD2: 1.94 
+g_loss0: 5.30 g_loss1: 6.11 g_loss2: 7.07 w_loss: 4.04 s_loss: 11.60 perceptual_loss: 3.86 kl_loss: 0.43 
+errD0: 1.86 errD1: 1.51 errD2: 1.57 
+g_loss0: 5.28 g_loss1: 12.13 g_loss2: 13.21 w_loss: 7.50 s_loss: 11.44 perceptual_loss: 3.88 kl_loss: 0.39 
+errD0: 1.51 errD1: 1.92 errD2: 1.45 
+g_loss0: 7.38 g_loss1: 7.87 g_loss2: 9.95 w_loss: 9.32 s_loss: 9.21 perceptual_loss: 4.12 kl_loss: 0.47 
+errD0: 1.52 errD1: 1.55 errD2: 1.52 
+g_loss0: 10.91 g_loss1: 8.15 g_loss2: 11.97 w_loss: 6.76 s_loss: 10.62 perceptual_loss: 3.91 kl_loss: 0.50 
+errD0: 1.69 errD1: 1.52 errD2: 1.50 
+g_loss0: 6.22 g_loss1: 9.63 g_loss2: 10.20 w_loss: 7.78 s_loss: 12.80 perceptual_loss: 3.57 kl_loss: 0.49 
+errD0: 1.53 errD1: 2.17 errD2: 1.55 
+g_loss0: 11.95 g_loss1: 9.33 g_loss2: 11.51 w_loss: 7.04 s_loss: 11.99 perceptual_loss: 3.74 kl_loss: 0.45 
+errD0: 1.49 errD1: 1.57 errD2: 1.78 
+g_loss0: 8.79 g_loss1: 8.30 g_loss2: 3.43 w_loss: 4.76 s_loss: 10.50 perceptual_loss: 3.56 kl_loss: 0.31 
+[49/200][1106]
+                  Loss_D: 4.84 Loss_G: 39.66 Time: 724.52s
+errD0: 2.21 errD1: 1.89 errD2: 1.72 
+g_loss0: 6.53 g_loss1: 9.62 g_loss2: 9.23 w_loss: 5.61 s_loss: 9.63 perceptual_loss: 3.53 kl_loss: 0.43 
+errD0: 1.65 errD1: 1.88 errD2: 1.53 
+g_loss0: 18.73 g_loss1: 5.06 g_loss2: 11.23 w_loss: 8.99 s_loss: 11.29 perceptual_loss: 3.71 kl_loss: 0.42 
+errD0: 1.57 errD1: 1.90 errD2: 1.58 
+g_loss0: 19.46 g_loss1: 6.14 g_loss2: 8.60 w_loss: 8.85 s_loss: 9.98 perceptual_loss: 3.70 kl_loss: 0.65 
+errD0: 1.57 errD1: 1.69 errD2: 1.75 
+g_loss0: 12.63 g_loss1: 7.46 g_loss2: 10.76 w_loss: 7.91 s_loss: 12.18 perceptual_loss: 3.87 kl_loss: 0.58 
+errD0: 1.67 errD1: 1.52 errD2: 1.49 
+g_loss0: 9.78 g_loss1: 14.43 g_loss2: 15.95 w_loss: 7.37 s_loss: 9.83 perceptual_loss: 3.89 kl_loss: 0.44 
+errD0: 1.54 errD1: 2.52 errD2: 1.63 
+g_loss0: 12.88 g_loss1: 4.56 g_loss2: 8.93 w_loss: 8.13 s_loss: 12.72 perceptual_loss: 3.94 kl_loss: 0.46 
+errD0: 1.89 errD1: 1.76 errD2: 1.53 
+g_loss0: 11.93 g_loss1: 9.34 g_loss2: 13.61 w_loss: 7.19 s_loss: 13.03 perceptual_loss: 3.68 kl_loss: 0.47 
+errD0: 1.55 errD1: 1.56 errD2: 1.54 
+g_loss0: 15.32 g_loss1: 18.39 g_loss2: 15.25 w_loss: 9.40 s_loss: 13.50 perceptual_loss: 3.36 kl_loss: 0.49 
+errD0: 1.98 errD1: 4.15 errD2: 1.56 
+g_loss0: 9.39 g_loss1: 15.93 g_loss2: 14.70 w_loss: 9.45 s_loss: 13.64 perceptual_loss: 3.95 kl_loss: 0.44 
+errD0: 1.54 errD1: 1.84 errD2: 1.61 
+g_loss0: 10.71 g_loss1: 11.52 g_loss2: 8.02 w_loss: 7.24 s_loss: 12.06 perceptual_loss: 3.54 kl_loss: 0.51 
+errD0: 2.55 errD1: 1.91 errD2: 1.51 
+g_loss0: 13.42 g_loss1: 10.58 g_loss2: 15.31 w_loss: 12.68 s_loss: 13.27 perceptual_loss: 3.94 kl_loss: 0.38 
+[50/200][1106]
+                  Loss_D: 7.37 Loss_G: 61.89 Time: 718.92s
+Save G/Ds models.
+errD0: 1.67 errD1: 2.03 errD2: 1.56 
+g_loss0: 8.58 g_loss1: 9.92 g_loss2: 12.56 w_loss: 6.38 s_loss: 11.30 perceptual_loss: 3.99 kl_loss: 0.33 
+errD0: 1.68 errD1: 5.01 errD2: 1.60 
+g_loss0: 8.62 g_loss1: 6.21 g_loss2: 8.89 w_loss: 3.28 s_loss: 6.03 perceptual_loss: 3.40 kl_loss: 0.37 
+errD0: 1.99 errD1: 2.03 errD2: 2.91 
+g_loss0: 5.71 g_loss1: 14.57 g_loss2: 17.86 w_loss: 5.36 s_loss: 10.41 perceptual_loss: 3.54 kl_loss: 0.38 
+errD0: 1.60 errD1: 1.56 errD2: 1.55 
+g_loss0: 7.86 g_loss1: 17.25 g_loss2: 12.87 w_loss: 7.84 s_loss: 12.12 perceptual_loss: 3.69 kl_loss: 0.43 
+errD0: 1.59 errD1: 1.50 errD2: 1.53 
+g_loss0: 11.78 g_loss1: 11.33 g_loss2: 13.92 w_loss: 7.87 s_loss: 10.93 perceptual_loss: 4.08 kl_loss: 0.49 
+errD0: 1.56 errD1: 1.70 errD2: 1.58 
+g_loss0: 6.99 g_loss1: 12.97 g_loss2: 9.27 w_loss: 5.89 s_loss: 9.37 perceptual_loss: 3.78 kl_loss: 0.38 
+errD0: 1.79 errD1: 2.02 errD2: 1.53 
+g_loss0: 12.66 g_loss1: 4.30 g_loss2: 20.40 w_loss: 6.94 s_loss: 9.93 perceptual_loss: 3.75 kl_loss: 0.50 
+errD0: 1.61 errD1: 1.58 errD2: 1.54 
+g_loss0: 12.85 g_loss1: 12.32 g_loss2: 9.93 w_loss: 7.28 s_loss: 11.74 perceptual_loss: 3.72 kl_loss: 0.47 
+errD0: 1.53 errD1: 1.60 errD2: 1.94 
+g_loss0: 9.21 g_loss1: 9.03 g_loss2: 15.68 w_loss: 6.89 s_loss: 14.10 perceptual_loss: 3.90 kl_loss: 0.45 
+errD0: 1.46 errD1: 1.76 errD2: 2.24 
+g_loss0: 14.66 g_loss1: 10.28 g_loss2: 7.03 w_loss: 12.45 s_loss: 15.24 perceptual_loss: 3.59 kl_loss: 0.59 
+errD0: 2.06 errD1: 1.55 errD2: 1.65 
+g_loss0: 8.33 g_loss1: 12.00 g_loss2: 13.26 w_loss: 3.22 s_loss: 9.86 perceptual_loss: 4.23 kl_loss: 0.43 
+[51/200][1106]
+                  Loss_D: 5.71 Loss_G: 46.87 Time: 723.02s
+errD0: 1.54 errD1: 1.58 errD2: 1.67 
+g_loss0: 7.87 g_loss1: 7.10 g_loss2: 7.63 w_loss: 7.05 s_loss: 8.43 perceptual_loss: 3.81 kl_loss: 0.49 
+errD0: 1.62 errD1: 1.55 errD2: 1.45 
+g_loss0: 9.00 g_loss1: 4.88 g_loss2: 13.38 w_loss: 7.23 s_loss: 10.94 perceptual_loss: 3.23 kl_loss: 0.43 
+errD0: 1.89 errD1: 1.50 errD2: 2.62 
+g_loss0: 12.66 g_loss1: 12.25 g_loss2: 17.49 w_loss: 5.49 s_loss: 12.27 perceptual_loss: 3.34 kl_loss: 0.57 
+errD0: 1.64 errD1: 1.54 errD2: 1.84 
+g_loss0: 17.26 g_loss1: 17.71 g_loss2: 10.31 w_loss: 9.71 s_loss: 10.98 perceptual_loss: 4.29 kl_loss: 0.39 
+errD0: 1.76 errD1: 1.88 errD2: 4.23 
+g_loss0: 10.25 g_loss1: 11.58 g_loss2: 12.18 w_loss: 6.44 s_loss: 12.90 perceptual_loss: 3.27 kl_loss: 0.43 
+errD0: 1.48 errD1: 2.06 errD2: 1.44 
+g_loss0: 8.23 g_loss1: 7.85 g_loss2: 12.07 w_loss: 2.86 s_loss: 10.46 perceptual_loss: 3.57 kl_loss: 0.29 
+errD0: 1.63 errD1: 1.93 errD2: 1.59 
+g_loss0: 13.07 g_loss1: 12.17 g_loss2: 13.29 w_loss: 5.06 s_loss: 10.35 perceptual_loss: 3.76 kl_loss: 0.52 
+errD0: 1.95 errD1: 3.39 errD2: 5.19 
+g_loss0: 8.29 g_loss1: 5.67 g_loss2: 3.83 w_loss: 7.61 s_loss: 10.63 perceptual_loss: 3.52 kl_loss: 0.38 
+errD0: 1.44 errD1: 1.48 errD2: 2.21 
+g_loss0: 12.75 g_loss1: 15.05 g_loss2: 20.61 w_loss: 6.99 s_loss: 10.46 perceptual_loss: 3.60 kl_loss: 0.38 
+errD0: 2.06 errD1: 1.49 errD2: 1.82 
+g_loss0: 11.47 g_loss1: 12.93 g_loss2: 17.67 w_loss: 10.70 s_loss: 10.93 perceptual_loss: 3.33 kl_loss: 0.48 
+errD0: 2.06 errD1: 1.52 errD2: 1.50 
+g_loss0: 16.65 g_loss1: 10.89 g_loss2: 15.65 w_loss: 4.11 s_loss: 14.15 perceptual_loss: 3.95 kl_loss: 0.59 
+[52/200][1106]
+                  Loss_D: 4.93 Loss_G: 49.47 Time: 723.56s
+errD0: 1.65 errD1: 2.39 errD2: 4.54 
+g_loss0: 8.50 g_loss1: 11.38 g_loss2: 0.48 w_loss: 4.28 s_loss: 9.00 perceptual_loss: 3.86 kl_loss: 0.52 
+errD0: 1.88 errD1: 1.58 errD2: 1.87 
+g_loss0: 7.55 g_loss1: 12.19 g_loss2: 11.77 w_loss: 5.36 s_loss: 9.46 perceptual_loss: 3.67 kl_loss: 0.63 
+errD0: 1.47 errD1: 1.46 errD2: 1.74 
+g_loss0: 10.20 g_loss1: 13.30 g_loss2: 7.93 w_loss: 3.75 s_loss: 10.46 perceptual_loss: 3.62 kl_loss: 0.47 
+errD0: 2.12 errD1: 1.93 errD2: 3.52 
+g_loss0: 9.89 g_loss1: 6.60 g_loss2: 8.34 w_loss: 12.14 s_loss: 12.99 perceptual_loss: 3.57 kl_loss: 0.50 
+errD0: 1.51 errD1: 1.72 errD2: 3.82 
+g_loss0: 8.70 g_loss1: 6.95 g_loss2: 15.31 w_loss: 9.05 s_loss: 12.99 perceptual_loss: 3.83 kl_loss: 0.70 
+errD0: 1.56 errD1: 2.01 errD2: 1.82 
+g_loss0: 14.10 g_loss1: 11.39 g_loss2: 16.43 w_loss: 4.42 s_loss: 9.71 perceptual_loss: 3.67 kl_loss: 0.35 
+errD0: 1.50 errD1: 1.53 errD2: 2.07 
+g_loss0: 10.38 g_loss1: 10.35 g_loss2: 17.99 w_loss: 8.45 s_loss: 9.96 perceptual_loss: 3.57 kl_loss: 0.40 
+errD0: 1.59 errD1: 1.53 errD2: 1.50 
+g_loss0: 8.55 g_loss1: 11.20 g_loss2: 11.02 w_loss: 5.11 s_loss: 10.72 perceptual_loss: 3.56 kl_loss: 0.57 
+errD0: 1.46 errD1: 1.49 errD2: 1.94 
+g_loss0: 12.19 g_loss1: 14.55 g_loss2: 6.77 w_loss: 3.89 s_loss: 6.16 perceptual_loss: 3.58 kl_loss: 0.36 
+errD0: 1.58 errD1: 1.61 errD2: 1.50 
+g_loss0: 9.52 g_loss1: 9.37 g_loss2: 11.52 w_loss: 4.13 s_loss: 10.81 perceptual_loss: 3.70 kl_loss: 0.44 
+errD0: 1.49 errD1: 1.44 errD2: 1.42 
+g_loss0: 7.66 g_loss1: 15.49 g_loss2: 13.58 w_loss: 6.20 s_loss: 12.85 perceptual_loss: 3.29 kl_loss: 0.53 
+[53/200][1106]
+                  Loss_D: 4.63 Loss_G: 59.45 Time: 721.67s
+errD0: 1.81 errD1: 1.61 errD2: 2.44 
+g_loss0: 9.79 g_loss1: 13.48 g_loss2: 13.80 w_loss: 6.04 s_loss: 11.84 perceptual_loss: 3.64 kl_loss: 0.43 
+errD0: 2.46 errD1: 1.55 errD2: 1.57 
+g_loss0: 2.57 g_loss1: 8.91 g_loss2: 14.18 w_loss: 4.08 s_loss: 10.16 perceptual_loss: 3.50 kl_loss: 0.30 
+errD0: 1.56 errD1: 1.65 errD2: 1.48 
+g_loss0: 12.12 g_loss1: 11.01 g_loss2: 12.99 w_loss: 3.70 s_loss: 9.67 perceptual_loss: 3.86 kl_loss: 0.51 
+errD0: 1.66 errD1: 1.69 errD2: 3.17 
+g_loss0: 8.18 g_loss1: 13.95 g_loss2: 5.39 w_loss: 3.47 s_loss: 11.12 perceptual_loss: 3.99 kl_loss: 0.47 
+errD0: 1.52 errD1: 1.84 errD2: 1.65 
+g_loss0: 11.71 g_loss1: 9.27 g_loss2: 12.00 w_loss: 3.00 s_loss: 7.91 perceptual_loss: 3.94 kl_loss: 0.37 
+errD0: 1.57 errD1: 1.47 errD2: 1.74 
+g_loss0: 21.51 g_loss1: 12.88 g_loss2: 10.16 w_loss: 3.93 s_loss: 8.97 perceptual_loss: 3.44 kl_loss: 0.33 
+errD0: 1.71 errD1: 3.61 errD2: 1.51 
+g_loss0: 10.60 g_loss1: 10.02 g_loss2: 10.53 w_loss: 4.30 s_loss: 8.31 perceptual_loss: 3.52 kl_loss: 0.39 
+errD0: 2.79 errD1: 1.98 errD2: 1.56 
+g_loss0: 12.61 g_loss1: 17.82 g_loss2: 8.59 w_loss: 4.18 s_loss: 9.62 perceptual_loss: 3.75 kl_loss: 0.36 
+errD0: 1.50 errD1: 1.47 errD2: 1.46 
+g_loss0: 13.28 g_loss1: 9.89 g_loss2: 18.64 w_loss: 10.41 s_loss: 10.11 perceptual_loss: 3.96 kl_loss: 0.38 
+errD0: 1.51 errD1: 1.77 errD2: 1.54 
+g_loss0: 9.47 g_loss1: 10.27 g_loss2: 11.36 w_loss: 9.60 s_loss: 14.88 perceptual_loss: 3.50 kl_loss: 0.38 
+errD0: 1.56 errD1: 3.53 errD2: 1.53 
+g_loss0: 10.16 g_loss1: 1.56 g_loss2: 9.02 w_loss: 5.22 s_loss: 7.03 perceptual_loss: 3.59 kl_loss: 0.61 
+[54/200][1106]
+                  Loss_D: 6.99 Loss_G: 64.15 Time: 724.14s
+errD0: 2.10 errD1: 1.63 errD2: 1.46 
+g_loss0: 7.76 g_loss1: 9.25 g_loss2: 8.34 w_loss: 5.04 s_loss: 10.12 perceptual_loss: 3.56 kl_loss: 0.47 
+errD0: 1.62 errD1: 1.56 errD2: 1.58 
+g_loss0: 9.75 g_loss1: 10.69 g_loss2: 14.68 w_loss: 8.04 s_loss: 9.48 perceptual_loss: 3.56 kl_loss: 0.44 
+errD0: 1.51 errD1: 2.38 errD2: 1.43 
+g_loss0: 12.76 g_loss1: 19.63 g_loss2: 10.24 w_loss: 5.65 s_loss: 11.11 perceptual_loss: 3.49 kl_loss: 0.33 
+errD0: 2.77 errD1: 1.62 errD2: 1.60 
+g_loss0: 10.71 g_loss1: 8.72 g_loss2: 20.11 w_loss: 9.79 s_loss: 9.90 perceptual_loss: 3.87 kl_loss: 0.32 
+errD0: 1.72 errD1: 1.90 errD2: 2.26 
+g_loss0: 16.61 g_loss1: 12.02 g_loss2: 22.80 w_loss: 13.10 s_loss: 10.86 perceptual_loss: 4.00 kl_loss: 0.38 
+errD0: 1.67 errD1: 1.58 errD2: 1.62 
+g_loss0: 8.85 g_loss1: 11.48 g_loss2: 6.29 w_loss: 9.79 s_loss: 12.11 perceptual_loss: 3.78 kl_loss: 0.38 
+errD0: 2.05 errD1: 1.53 errD2: 1.53 
+g_loss0: 10.01 g_loss1: 10.51 g_loss2: 7.83 w_loss: 5.18 s_loss: 9.87 perceptual_loss: 3.73 kl_loss: 0.45 
+errD0: 1.64 errD1: 1.51 errD2: 1.70 
+g_loss0: 9.58 g_loss1: 16.48 g_loss2: 9.47 w_loss: 5.69 s_loss: 11.11 perceptual_loss: 3.94 kl_loss: 0.44 
+errD0: 2.61 errD1: 4.89 errD2: 1.99 
+g_loss0: 3.07 g_loss1: 1.65 g_loss2: 16.79 w_loss: 7.01 s_loss: 13.78 perceptual_loss: 3.88 kl_loss: 0.48 
+errD0: 1.50 errD1: 1.54 errD2: 1.66 
+g_loss0: 14.97 g_loss1: 9.16 g_loss2: 14.20 w_loss: 12.59 s_loss: 11.66 perceptual_loss: 4.17 kl_loss: 0.41 
+errD0: 1.52 errD1: 1.52 errD2: 1.49 
+g_loss0: 12.46 g_loss1: 10.67 g_loss2: 13.29 w_loss: 7.58 s_loss: 12.64 perceptual_loss: 3.45 kl_loss: 0.60 
+[55/200][1106]
+                  Loss_D: 4.79 Loss_G: 59.56 Time: 722.58s
+errD0: 2.45 errD1: 1.47 errD2: 1.52 
+g_loss0: 6.94 g_loss1: 15.55 g_loss2: 13.57 w_loss: 3.89 s_loss: 10.11 perceptual_loss: 3.73 kl_loss: 0.36 
+errD0: 1.82 errD1: 1.70 errD2: 1.52 
+g_loss0: 14.16 g_loss1: 8.26 g_loss2: 10.30 w_loss: 9.52 s_loss: 12.42 perceptual_loss: 3.85 kl_loss: 0.54 
+errD0: 1.52 errD1: 1.64 errD2: 2.36 
+g_loss0: 9.61 g_loss1: 7.56 g_loss2: 15.92 w_loss: 8.73 s_loss: 14.69 perceptual_loss: 3.91 kl_loss: 0.52 
+errD0: 1.68 errD1: 1.62 errD2: 2.09 
+g_loss0: 8.40 g_loss1: 9.11 g_loss2: 11.40 w_loss: 4.96 s_loss: 10.48 perceptual_loss: 4.31 kl_loss: 0.60 
+errD0: 4.11 errD1: 1.63 errD2: 1.67 
+g_loss0: 15.43 g_loss1: 9.68 g_loss2: 6.72 w_loss: 3.83 s_loss: 12.44 perceptual_loss: 3.75 kl_loss: 0.57 
+errD0: 2.00 errD1: 1.86 errD2: 1.52 
+g_loss0: 9.80 g_loss1: 13.20 g_loss2: 13.75 w_loss: 4.69 s_loss: 8.11 perceptual_loss: 4.51 kl_loss: 0.48 
+errD0: 1.57 errD1: 1.64 errD2: 1.58 
+g_loss0: 16.52 g_loss1: 15.48 g_loss2: 12.14 w_loss: 6.49 s_loss: 11.76 perceptual_loss: 3.72 kl_loss: 0.47 
+errD0: 2.28 errD1: 2.81 errD2: 1.53 
+g_loss0: 4.39 g_loss1: 1.54 g_loss2: 12.34 w_loss: 4.33 s_loss: 8.82 perceptual_loss: 3.66 kl_loss: 0.51 
+errD0: 1.66 errD1: 1.74 errD2: 1.62 
+g_loss0: 13.30 g_loss1: 7.88 g_loss2: 6.70 w_loss: 6.56 s_loss: 12.16 perceptual_loss: 3.64 kl_loss: 0.44 
+errD0: 1.55 errD1: 1.60 errD2: 2.11 
+g_loss0: 10.08 g_loss1: 6.79 g_loss2: 15.87 w_loss: 5.71 s_loss: 12.54 perceptual_loss: 3.84 kl_loss: 0.63 
+errD0: 1.78 errD1: 1.57 errD2: 1.64 
+g_loss0: 11.31 g_loss1: 9.62 g_loss2: 9.35 w_loss: 11.23 s_loss: 13.19 perceptual_loss: 3.33 kl_loss: 0.72 
+[56/200][1106]
+                  Loss_D: 5.14 Loss_G: 47.64 Time: 755.32s
+errD0: 1.69 errD1: 1.53 errD2: 1.51 
+g_loss0: 10.10 g_loss1: 11.00 g_loss2: 8.63 w_loss: 5.68 s_loss: 10.43 perceptual_loss: 4.01 kl_loss: 0.39 
+errD0: 1.75 errD1: 1.54 errD2: 1.71 
+g_loss0: 9.18 g_loss1: 8.72 g_loss2: 18.82 w_loss: 4.41 s_loss: 11.10 perceptual_loss: 3.73 kl_loss: 0.36 
+errD0: 1.50 errD1: 1.48 errD2: 1.43 
+g_loss0: 12.81 g_loss1: 16.67 g_loss2: 18.64 w_loss: 12.33 s_loss: 12.66 perceptual_loss: 3.41 kl_loss: 0.75 
+errD0: 1.82 errD1: 1.63 errD2: 1.68 
+g_loss0: 7.09 g_loss1: 4.51 g_loss2: 2.32 w_loss: 9.03 s_loss: 13.05 perceptual_loss: 3.58 kl_loss: 0.59 
+errD0: 1.51 errD1: 1.54 errD2: 1.43 
+g_loss0: 13.68 g_loss1: 9.58 g_loss2: 18.50 w_loss: 10.10 s_loss: 12.33 perceptual_loss: 3.55 kl_loss: 0.46 
+errD0: 1.96 errD1: 2.32 errD2: 1.66 
+g_loss0: 9.04 g_loss1: 17.18 g_loss2: 10.28 w_loss: 6.70 s_loss: 7.77 perceptual_loss: 3.62 kl_loss: 0.47 
+errD0: 1.65 errD1: 1.86 errD2: 2.21 
+g_loss0: 7.54 g_loss1: 9.60 g_loss2: 17.93 w_loss: 6.12 s_loss: 11.78 perceptual_loss: 3.92 kl_loss: 0.47 
+errD0: 2.14 errD1: 2.74 errD2: 1.77 
+g_loss0: 5.07 g_loss1: 11.60 g_loss2: 8.54 w_loss: 15.55 s_loss: 15.60 perceptual_loss: 3.68 kl_loss: 0.52 
+errD0: 2.01 errD1: 1.77 errD2: 1.54 
+g_loss0: 8.29 g_loss1: 5.59 g_loss2: 7.69 w_loss: 8.80 s_loss: 10.61 perceptual_loss: 3.84 kl_loss: 0.38 
+errD0: 1.68 errD1: 1.85 errD2: 2.25 
+g_loss0: 10.84 g_loss1: 14.50 g_loss2: 14.52 w_loss: 9.25 s_loss: 11.27 perceptual_loss: 3.92 kl_loss: 0.56 
+errD0: 2.85 errD1: 3.20 errD2: 1.54 
+g_loss0: 15.38 g_loss1: 18.85 g_loss2: 8.90 w_loss: 11.63 s_loss: 10.96 perceptual_loss: 3.86 kl_loss: 0.28 
+[57/200][1106]
+                  Loss_D: 4.82 Loss_G: 59.05 Time: 723.01s
+errD0: 1.64 errD1: 1.53 errD2: 1.55 
+g_loss0: 8.01 g_loss1: 8.72 g_loss2: 8.89 w_loss: 5.43 s_loss: 9.92 perceptual_loss: 3.35 kl_loss: 0.53 
+errD0: 1.69 errD1: 1.68 errD2: 1.49 
+g_loss0: 10.04 g_loss1: 7.84 g_loss2: 10.49 w_loss: 5.46 s_loss: 8.61 perceptual_loss: 3.77 kl_loss: 0.42 
+errD0: 1.72 errD1: 1.84 errD2: 1.44 
+g_loss0: 8.20 g_loss1: 11.82 g_loss2: 16.35 w_loss: 9.34 s_loss: 12.10 perceptual_loss: 3.88 kl_loss: 0.45 
+errD0: 1.55 errD1: 1.49 errD2: 1.50 
+g_loss0: 14.97 g_loss1: 17.12 g_loss2: 9.41 w_loss: 9.75 s_loss: 11.20 perceptual_loss: 3.25 kl_loss: 0.42 
+errD0: 1.64 errD1: 1.60 errD2: 3.35 
+g_loss0: 9.98 g_loss1: 7.51 g_loss2: 2.51 w_loss: 13.59 s_loss: 9.14 perceptual_loss: 4.23 kl_loss: 0.52 
+errD0: 6.89 errD1: 1.92 errD2: 1.58 
+g_loss0: 4.99 g_loss1: 7.78 g_loss2: 16.22 w_loss: 8.45 s_loss: 9.82 perceptual_loss: 4.20 kl_loss: 0.46 
+errD0: 2.03 errD1: 1.97 errD2: 1.53 
+g_loss0: 7.43 g_loss1: 14.56 g_loss2: 15.31 w_loss: 10.99 s_loss: 11.81 perceptual_loss: 3.50 kl_loss: 0.31 
+errD0: 1.51 errD1: 2.95 errD2: 1.55 
+g_loss0: 10.75 g_loss1: 16.80 g_loss2: 13.41 w_loss: 6.96 s_loss: 11.22 perceptual_loss: 3.80 kl_loss: 0.50 
+errD0: 1.51 errD1: 1.55 errD2: 1.55 
+g_loss0: 18.10 g_loss1: 10.18 g_loss2: 13.79 w_loss: 13.74 s_loss: 15.96 perceptual_loss: 3.79 kl_loss: 0.44 
+errD0: 2.70 errD1: 1.61 errD2: 1.87 
+g_loss0: 10.04 g_loss1: 8.30 g_loss2: 11.74 w_loss: 9.79 s_loss: 10.46 perceptual_loss: 3.64 kl_loss: 0.42 
+errD0: 1.59 errD1: 1.52 errD2: 1.54 
+g_loss0: 9.57 g_loss1: 24.77 g_loss2: 12.45 w_loss: 3.77 s_loss: 7.65 perceptual_loss: 3.70 kl_loss: 0.47 
+[58/200][1106]
+                  Loss_D: 6.14 Loss_G: 51.38 Time: 724.24s
+errD0: 1.61 errD1: 1.58 errD2: 1.65 
+g_loss0: 11.84 g_loss1: 8.24 g_loss2: 10.29 w_loss: 8.68 s_loss: 9.69 perceptual_loss: 3.93 kl_loss: 0.44 
+errD0: 1.92 errD1: 1.56 errD2: 2.05 
+g_loss0: 9.40 g_loss1: 12.74 g_loss2: 8.60 w_loss: 6.48 s_loss: 8.03 perceptual_loss: 3.23 kl_loss: 0.55 
+errD0: 1.49 errD1: 1.79 errD2: 2.49 
+g_loss0: 13.13 g_loss1: 9.84 g_loss2: 17.14 w_loss: 3.44 s_loss: 8.80 perceptual_loss: 3.42 kl_loss: 0.41 
+errD0: 1.68 errD1: 1.54 errD2: 1.50 
+g_loss0: 9.83 g_loss1: 9.49 g_loss2: 14.08 w_loss: 6.82 s_loss: 11.24 perceptual_loss: 3.46 kl_loss: 0.63 
+errD0: 1.63 errD1: 1.95 errD2: 1.57 
+g_loss0: 17.35 g_loss1: 4.42 g_loss2: 10.13 w_loss: 10.68 s_loss: 15.28 perceptual_loss: 3.50 kl_loss: 0.60 
+errD0: 2.24 errD1: 1.82 errD2: 1.62 
+g_loss0: 4.24 g_loss1: 6.93 g_loss2: 8.80 w_loss: 7.62 s_loss: 10.38 perceptual_loss: 3.94 kl_loss: 0.44 
+errD0: 1.69 errD1: 1.67 errD2: 1.52 
+g_loss0: 11.58 g_loss1: 11.00 g_loss2: 16.13 w_loss: 8.95 s_loss: 13.08 perceptual_loss: 3.91 kl_loss: 0.53 
+errD0: 1.56 errD1: 1.55 errD2: 1.63 
+g_loss0: 10.48 g_loss1: 12.35 g_loss2: 8.59 w_loss: 5.24 s_loss: 12.27 perceptual_loss: 3.78 kl_loss: 0.41 
+errD0: 1.70 errD1: 1.54 errD2: 1.49 
+g_loss0: 3.91 g_loss1: 5.93 g_loss2: 12.46 w_loss: 4.86 s_loss: 9.95 perceptual_loss: 3.85 kl_loss: 0.39 
+errD0: 1.54 errD1: 1.51 errD2: 1.53 
+g_loss0: 12.48 g_loss1: 14.41 g_loss2: 15.46 w_loss: 7.23 s_loss: 10.03 perceptual_loss: 3.71 kl_loss: 0.67 
+errD0: 1.61 errD1: 1.67 errD2: 1.55 
+g_loss0: 9.10 g_loss1: 8.24 g_loss2: 9.75 w_loss: 10.42 s_loss: 10.71 perceptual_loss: 3.54 kl_loss: 0.59 
+[59/200][1106]
+                  Loss_D: 5.50 Loss_G: 57.01 Time: 724.97s
+errD0: 1.97 errD1: 1.91 errD2: 1.54 
+g_loss0: 8.01 g_loss1: 9.93 g_loss2: 14.03 w_loss: 11.41 s_loss: 10.10 perceptual_loss: 3.30 kl_loss: 0.59 
+errD0: 1.57 errD1: 1.52 errD2: 1.62 
+g_loss0: 9.32 g_loss1: 14.05 g_loss2: 10.64 w_loss: 6.88 s_loss: 10.63 perceptual_loss: 3.12 kl_loss: 0.45 
+errD0: 1.57 errD1: 3.11 errD2: 1.61 
+g_loss0: 12.84 g_loss1: 17.14 g_loss2: 8.85 w_loss: 5.88 s_loss: 7.89 perceptual_loss: 3.81 kl_loss: 0.45 
+errD0: 1.63 errD1: 1.71 errD2: 1.57 
+g_loss0: 10.43 g_loss1: 8.19 g_loss2: 10.19 w_loss: 12.20 s_loss: 9.69 perceptual_loss: 3.88 kl_loss: 0.42 
+errD0: 1.71 errD1: 1.83 errD2: 1.58 
+g_loss0: 10.04 g_loss1: 9.27 g_loss2: 9.06 w_loss: 8.07 s_loss: 9.25 perceptual_loss: 3.63 kl_loss: 0.40 
+errD0: 1.68 errD1: 1.54 errD2: 1.59 
+g_loss0: 10.72 g_loss1: 14.56 g_loss2: 16.61 w_loss: 5.89 s_loss: 12.22 perceptual_loss: 3.18 kl_loss: 0.45 
+errD0: 1.50 errD1: 1.48 errD2: 1.48 
+g_loss0: 13.98 g_loss1: 12.05 g_loss2: 18.37 w_loss: 6.19 s_loss: 11.07 perceptual_loss: 3.93 kl_loss: 0.47 
+errD0: 1.76 errD1: 1.71 errD2: 1.55 
+g_loss0: 14.58 g_loss1: 9.95 g_loss2: 15.45 w_loss: 7.85 s_loss: 10.21 perceptual_loss: 3.80 kl_loss: 0.60 
+errD0: 1.55 errD1: 1.48 errD2: 1.62 
+g_loss0: 9.44 g_loss1: 12.41 g_loss2: 10.79 w_loss: 5.06 s_loss: 9.68 perceptual_loss: 3.82 kl_loss: 0.44 
+errD0: 1.71 errD1: 1.61 errD2: 1.54 
+g_loss0: 10.22 g_loss1: 10.79 g_loss2: 10.93 w_loss: 7.43 s_loss: 10.49 perceptual_loss: 3.52 kl_loss: 0.44 
+errD0: 1.52 errD1: 1.49 errD2: 1.48 
+g_loss0: 10.62 g_loss1: 16.76 g_loss2: 10.14 w_loss: 7.85 s_loss: 11.61 perceptual_loss: 3.91 kl_loss: 0.48 
+[60/200][1106]
+                  Loss_D: 4.97 Loss_G: 55.32 Time: 724.45s
+errD0: 1.57 errD1: 1.52 errD2: 1.50 
+g_loss0: 11.79 g_loss1: 11.94 g_loss2: 17.90 w_loss: 7.59 s_loss: 13.79 perceptual_loss: 3.57 kl_loss: 0.40 
+errD0: 1.52 errD1: 1.55 errD2: 1.51 
+g_loss0: 6.68 g_loss1: 8.15 g_loss2: 9.66 w_loss: 5.57 s_loss: 10.46 perceptual_loss: 3.65 kl_loss: 0.52 
+errD0: 2.01 errD1: 3.50 errD2: 1.66 
+g_loss0: 6.25 g_loss1: 10.98 g_loss2: 9.72 w_loss: 7.42 s_loss: 12.80 perceptual_loss: 3.62 kl_loss: 0.44 
+errD0: 1.71 errD1: 1.59 errD2: 1.73 
+g_loss0: 13.48 g_loss1: 7.99 g_loss2: 7.50 w_loss: 7.56 s_loss: 10.66 perceptual_loss: 3.67 kl_loss: 0.46 
+errD0: 1.71 errD1: 2.15 errD2: 1.66 
+g_loss0: 5.61 g_loss1: 16.09 g_loss2: 16.28 w_loss: 4.98 s_loss: 12.46 perceptual_loss: 3.69 kl_loss: 0.50 
+errD0: 1.47 errD1: 1.56 errD2: 1.54 
+g_loss0: 11.02 g_loss1: 15.39 g_loss2: 7.15 w_loss: 4.63 s_loss: 7.50 perceptual_loss: 3.57 kl_loss: 0.40 
+errD0: 2.07 errD1: 1.50 errD2: 1.83 
+g_loss0: 12.37 g_loss1: 13.81 g_loss2: 10.22 w_loss: 6.22 s_loss: 10.45 perceptual_loss: 3.25 kl_loss: 0.43 
+errD0: 1.94 errD1: 2.35 errD2: 1.63 
+g_loss0: 10.02 g_loss1: 18.48 g_loss2: 6.78 w_loss: 8.95 s_loss: 12.39 perceptual_loss: 3.71 kl_loss: 0.35 
+errD0: 1.53 errD1: 2.32 errD2: 1.47 
+g_loss0: 13.35 g_loss1: 9.85 g_loss2: 6.29 w_loss: 3.41 s_loss: 9.14 perceptual_loss: 3.45 kl_loss: 0.42 
+errD0: 1.98 errD1: 1.52 errD2: 1.59 
+g_loss0: 8.42 g_loss1: 12.66 g_loss2: 8.56 w_loss: 8.04 s_loss: 10.70 perceptual_loss: 3.72 kl_loss: 0.59 
+errD0: 1.58 errD1: 1.55 errD2: 1.50 
+g_loss0: 17.12 g_loss1: 7.34 g_loss2: 12.91 w_loss: 8.71 s_loss: 15.85 perceptual_loss: 3.51 kl_loss: 0.53 
+[61/200][1106]
+                  Loss_D: 5.55 Loss_G: 60.25 Time: 723.35s
+errD0: 1.66 errD1: 1.50 errD2: 1.59 
+g_loss0: 9.27 g_loss1: 13.30 g_loss2: 7.57 w_loss: 7.12 s_loss: 10.04 perceptual_loss: 3.42 kl_loss: 0.40 
+errD0: 1.76 errD1: 1.98 errD2: 1.59 
+g_loss0: 15.36 g_loss1: 7.21 g_loss2: 17.22 w_loss: 5.04 s_loss: 7.75 perceptual_loss: 3.67 kl_loss: 0.54 
+errD0: 1.45 errD1: 1.47 errD2: 1.40 
+g_loss0: 10.46 g_loss1: 8.35 g_loss2: 14.64 w_loss: 8.09 s_loss: 9.40 perceptual_loss: 3.69 kl_loss: 0.43 
+errD0: 1.49 errD1: 1.52 errD2: 1.47 
+g_loss0: 19.37 g_loss1: 17.74 g_loss2: 12.32 w_loss: 6.52 s_loss: 11.04 perceptual_loss: 3.78 kl_loss: 0.43 
+errD0: 1.59 errD1: 2.15 errD2: 1.52 
+g_loss0: 11.54 g_loss1: 13.85 g_loss2: 10.05 w_loss: 10.74 s_loss: 14.96 perceptual_loss: 3.45 kl_loss: 0.68 
+errD0: 2.16 errD1: 1.61 errD2: 1.55 
+g_loss0: 13.74 g_loss1: 17.92 g_loss2: 20.44 w_loss: 8.54 s_loss: 8.71 perceptual_loss: 3.59 kl_loss: 0.41 
+errD0: 1.71 errD1: 1.54 errD2: 1.54 
+g_loss0: 8.33 g_loss1: 8.52 g_loss2: 13.64 w_loss: 7.04 s_loss: 9.08 perceptual_loss: 3.49 kl_loss: 0.52 
+errD0: 2.41 errD1: 1.70 errD2: 9.04 
+g_loss0: 13.90 g_loss1: 6.13 g_loss2: 0.09 w_loss: 9.78 s_loss: 15.41 perceptual_loss: 3.51 kl_loss: 0.55 
+errD0: 2.16 errD1: 1.86 errD2: 1.45 
+g_loss0: 3.98 g_loss1: 14.15 g_loss2: 14.01 w_loss: 5.56 s_loss: 7.33 perceptual_loss: 4.12 kl_loss: 0.40 
+errD0: 1.86 errD1: 1.92 errD2: 2.67 
+g_loss0: 7.48 g_loss1: 10.72 g_loss2: 17.71 w_loss: 6.70 s_loss: 8.10 perceptual_loss: 3.65 kl_loss: 0.55 
+errD0: 1.81 errD1: 2.04 errD2: 1.48 
+g_loss0: 3.30 g_loss1: 13.51 g_loss2: 14.37 w_loss: 6.31 s_loss: 12.22 perceptual_loss: 3.54 kl_loss: 0.49 
+[62/200][1106]
+                  Loss_D: 4.88 Loss_G: 66.74 Time: 726.29s
+errD0: 1.53 errD1: 4.30 errD2: 1.58 
+g_loss0: 15.72 g_loss1: 15.37 g_loss2: 12.76 w_loss: 9.95 s_loss: 13.64 perceptual_loss: 3.40 kl_loss: 0.53 
+errD0: 1.55 errD1: 1.50 errD2: 1.62 
+g_loss0: 8.54 g_loss1: 14.87 g_loss2: 10.75 w_loss: 10.64 s_loss: 12.59 perceptual_loss: 3.73 kl_loss: 0.28 
+errD0: 1.64 errD1: 1.65 errD2: 1.77 
+g_loss0: 9.29 g_loss1: 15.79 g_loss2: 11.39 w_loss: 8.24 s_loss: 7.27 perceptual_loss: 3.93 kl_loss: 0.43 
+errD0: 1.77 errD1: 1.78 errD2: 1.71 
+g_loss0: 10.01 g_loss1: 7.95 g_loss2: 16.30 w_loss: 6.75 s_loss: 14.67 perceptual_loss: 3.79 kl_loss: 0.45 
+errD0: 1.60 errD1: 1.77 errD2: 2.73 
+g_loss0: 13.56 g_loss1: 5.86 g_loss2: 15.45 w_loss: 2.96 s_loss: 7.64 perceptual_loss: 3.35 kl_loss: 0.53 
+errD0: 1.49 errD1: 1.57 errD2: 2.90 
+g_loss0: 6.29 g_loss1: 11.77 g_loss2: 9.83 w_loss: 8.78 s_loss: 14.66 perceptual_loss: 3.62 kl_loss: 0.58 
+errD0: 1.52 errD1: 1.55 errD2: 1.52 
+g_loss0: 10.45 g_loss1: 10.29 g_loss2: 12.22 w_loss: 8.56 s_loss: 10.11 perceptual_loss: 3.66 kl_loss: 0.39 
+errD0: 1.75 errD1: 1.54 errD2: 1.61 
+g_loss0: 8.40 g_loss1: 9.44 g_loss2: 11.79 w_loss: 7.18 s_loss: 10.85 perceptual_loss: 3.52 kl_loss: 0.54 
+errD0: 1.46 errD1: 1.64 errD2: 1.45 
+g_loss0: 11.15 g_loss1: 8.49 g_loss2: 10.55 w_loss: 6.37 s_loss: 8.29 perceptual_loss: 3.79 kl_loss: 0.42 
+errD0: 1.67 errD1: 1.54 errD2: 1.63 
+g_loss0: 10.17 g_loss1: 11.34 g_loss2: 10.66 w_loss: 11.18 s_loss: 12.91 perceptual_loss: 3.76 kl_loss: 0.41 
+errD0: 1.66 errD1: 1.53 errD2: 1.62 
+g_loss0: 10.57 g_loss1: 14.49 g_loss2: 17.47 w_loss: 7.59 s_loss: 9.97 perceptual_loss: 3.35 kl_loss: 0.51 
+[63/200][1106]
+                  Loss_D: 4.83 Loss_G: 52.45 Time: 723.25s
+errD0: 1.73 errD1: 2.62 errD2: 2.15 
+g_loss0: 7.42 g_loss1: 15.35 g_loss2: 21.46 w_loss: 7.69 s_loss: 9.89 perceptual_loss: 4.44 kl_loss: 0.49 
+errD0: 1.60 errD1: 1.57 errD2: 1.61 
+g_loss0: 11.83 g_loss1: 8.06 g_loss2: 10.78 w_loss: 6.69 s_loss: 9.99 perceptual_loss: 3.90 kl_loss: 0.48 
+errD0: 1.53 errD1: 2.25 errD2: 2.02 
+g_loss0: 12.89 g_loss1: 12.00 g_loss2: 7.34 w_loss: 6.91 s_loss: 11.21 perceptual_loss: 3.52 kl_loss: 0.49 
+errD0: 1.56 errD1: 1.60 errD2: 1.58 
+g_loss0: 16.29 g_loss1: 12.43 g_loss2: 8.52 w_loss: 9.58 s_loss: 11.26 perceptual_loss: 3.70 kl_loss: 0.53 
+errD0: 1.63 errD1: 1.52 errD2: 1.51 
+g_loss0: 11.18 g_loss1: 10.39 g_loss2: 13.77 w_loss: 4.63 s_loss: 9.78 perceptual_loss: 4.10 kl_loss: 0.44 
+errD0: 1.49 errD1: 1.50 errD2: 1.49 
+g_loss0: 7.57 g_loss1: 11.17 g_loss2: 11.85 w_loss: 7.96 s_loss: 13.46 perceptual_loss: 3.67 kl_loss: 0.37 
+errD0: 1.53 errD1: 1.61 errD2: 1.56 
+g_loss0: 9.70 g_loss1: 10.61 g_loss2: 10.22 w_loss: 6.71 s_loss: 9.56 perceptual_loss: 3.64 kl_loss: 0.49 
+errD0: 1.52 errD1: 1.50 errD2: 1.53 
+g_loss0: 8.68 g_loss1: 9.41 g_loss2: 12.24 w_loss: 13.88 s_loss: 14.04 perceptual_loss: 3.77 kl_loss: 0.68 
+errD0: 1.74 errD1: 2.40 errD2: 1.72 
+g_loss0: 9.13 g_loss1: 12.86 g_loss2: 9.51 w_loss: 3.27 s_loss: 9.00 perceptual_loss: 3.63 kl_loss: 0.47 
+errD0: 1.70 errD1: 1.80 errD2: 1.80 
+g_loss0: 12.14 g_loss1: 7.85 g_loss2: 9.98 w_loss: 4.87 s_loss: 10.92 perceptual_loss: 3.75 kl_loss: 0.53 
+errD0: 1.50 errD1: 1.58 errD2: 2.88 
+g_loss0: 8.82 g_loss1: 19.83 g_loss2: 6.07 w_loss: 3.64 s_loss: 8.40 perceptual_loss: 3.96 kl_loss: 0.51 
+[64/200][1106]
+                  Loss_D: 5.86 Loss_G: 67.39 Time: 722.05s
+errD0: 1.57 errD1: 1.56 errD2: 1.49 
+g_loss0: 9.25 g_loss1: 8.74 g_loss2: 9.38 w_loss: 4.41 s_loss: 9.91 perceptual_loss: 3.90 kl_loss: 0.49 
+errD0: 1.53 errD1: 1.46 errD2: 1.50 
+g_loss0: 9.48 g_loss1: 9.52 g_loss2: 10.39 w_loss: 8.98 s_loss: 8.48 perceptual_loss: 3.66 kl_loss: 0.44 
+errD0: 1.56 errD1: 2.13 errD2: 1.52 
+g_loss0: 8.86 g_loss1: 6.40 g_loss2: 9.69 w_loss: 5.21 s_loss: 12.45 perceptual_loss: 3.97 kl_loss: 0.52 
+errD0: 1.87 errD1: 5.64 errD2: 1.55 
+g_loss0: 7.99 g_loss1: 3.23 g_loss2: 8.48 w_loss: 5.81 s_loss: 12.30 perceptual_loss: 3.55 kl_loss: 0.52 
+errD0: 1.75 errD1: 1.64 errD2: 1.61 
+g_loss0: 11.78 g_loss1: 8.20 g_loss2: 5.63 w_loss: 3.09 s_loss: 3.70 perceptual_loss: 3.94 kl_loss: 0.36 
+errD0: 1.91 errD1: 1.53 errD2: 1.63 
+g_loss0: 9.15 g_loss1: 9.19 g_loss2: 11.01 w_loss: 4.60 s_loss: 9.21 perceptual_loss: 3.52 kl_loss: 0.63 
+errD0: 1.71 errD1: 1.54 errD2: 1.54 
+g_loss0: 9.77 g_loss1: 10.37 g_loss2: 8.56 w_loss: 9.27 s_loss: 13.17 perceptual_loss: 3.60 kl_loss: 0.37 
+errD0: 1.61 errD1: 1.58 errD2: 1.99 
+g_loss0: 10.60 g_loss1: 7.30 g_loss2: 15.24 w_loss: 9.02 s_loss: 10.95 perceptual_loss: 3.54 kl_loss: 0.54 
+errD0: 1.79 errD1: 1.70 errD2: 1.79 
+g_loss0: 10.90 g_loss1: 10.25 g_loss2: 6.88 w_loss: 6.84 s_loss: 11.68 perceptual_loss: 3.77 kl_loss: 0.41 
+errD0: 1.61 errD1: 2.78 errD2: 1.93 
+g_loss0: 17.63 g_loss1: 7.74 g_loss2: 9.03 w_loss: 5.21 s_loss: 9.84 perceptual_loss: 3.69 kl_loss: 0.43 
+errD0: 1.52 errD1: 1.61 errD2: 1.57 
+g_loss0: 14.60 g_loss1: 10.35 g_loss2: 13.41 w_loss: 7.42 s_loss: 11.10 perceptual_loss: 3.39 kl_loss: 0.61 
+[65/200][1106]
+                  Loss_D: 4.84 Loss_G: 54.93 Time: 725.22s
+errD0: 1.88 errD1: 1.60 errD2: 1.67 
+g_loss0: 11.04 g_loss1: 9.42 g_loss2: 9.69 w_loss: 5.41 s_loss: 9.67 perceptual_loss: 4.27 kl_loss: 0.52 
+errD0: 1.75 errD1: 1.72 errD2: 1.49 
+g_loss0: 7.11 g_loss1: 7.25 g_loss2: 10.07 w_loss: 2.59 s_loss: 5.37 perceptual_loss: 3.49 kl_loss: 0.49 
+errD0: 1.63 errD1: 1.50 errD2: 1.54 
+g_loss0: 9.21 g_loss1: 10.86 g_loss2: 14.08 w_loss: 6.71 s_loss: 10.11 perceptual_loss: 3.70 kl_loss: 0.50 
+errD0: 1.59 errD1: 2.27 errD2: 3.31 
+g_loss0: 9.95 g_loss1: 13.06 g_loss2: 16.28 w_loss: 3.96 s_loss: 13.39 perceptual_loss: 3.38 kl_loss: 0.43 
+errD0: 1.62 errD1: 1.60 errD2: 1.93 
+g_loss0: 7.66 g_loss1: 9.26 g_loss2: 9.14 w_loss: 4.39 s_loss: 8.25 perceptual_loss: 3.81 kl_loss: 0.41 
+errD0: 1.80 errD1: 1.50 errD2: 1.45 
+g_loss0: 9.07 g_loss1: 12.60 g_loss2: 14.02 w_loss: 9.63 s_loss: 8.82 perceptual_loss: 3.39 kl_loss: 0.46 
+errD0: 1.71 errD1: 1.67 errD2: 1.72 
+g_loss0: 12.30 g_loss1: 8.76 g_loss2: 6.50 w_loss: 10.47 s_loss: 14.51 perceptual_loss: 3.68 kl_loss: 0.53 
+errD0: 1.64 errD1: 1.51 errD2: 1.48 
+g_loss0: 11.90 g_loss1: 19.29 g_loss2: 18.67 w_loss: 15.98 s_loss: 16.66 perceptual_loss: 3.45 kl_loss: 0.59 
+errD0: 1.54 errD1: 2.35 errD2: 1.57 
+g_loss0: 9.12 g_loss1: 15.71 g_loss2: 8.42 w_loss: 7.74 s_loss: 9.44 perceptual_loss: 3.62 kl_loss: 0.69 
+errD0: 1.80 errD1: 1.55 errD2: 1.75 
+g_loss0: 5.81 g_loss1: 8.14 g_loss2: 5.65 w_loss: 7.20 s_loss: 11.39 perceptual_loss: 3.64 kl_loss: 0.47 
+errD0: 1.84 errD1: 1.64 errD2: 2.11 
+g_loss0: 11.29 g_loss1: 9.65 g_loss2: 20.63 w_loss: 5.59 s_loss: 13.28 perceptual_loss: 3.64 kl_loss: 0.40 
+errD0: 1.62 errD1: 1.52 errD2: 2.06 
+g_loss0: 8.95 g_loss1: 14.05 g_loss2: 9.72 w_loss: 4.34 s_loss: 7.33 perceptual_loss: 4.19 kl_loss: 0.61 
+[66/200][1106]
+                  Loss_D: 6.46 Loss_G: 60.27 Time: 755.69s
+errD0: 1.52 errD1: 1.51 errD2: 1.49 
+g_loss0: 14.72 g_loss1: 12.89 g_loss2: 14.77 w_loss: 4.78 s_loss: 10.01 perceptual_loss: 3.64 kl_loss: 0.56 
+errD0: 1.51 errD1: 1.50 errD2: 1.50 
+g_loss0: 10.15 g_loss1: 17.29 g_loss2: 10.66 w_loss: 1.99 s_loss: 9.05 perceptual_loss: 3.79 kl_loss: 0.44 
+errD0: 1.61 errD1: 1.51 errD2: 1.62 
+g_loss0: 8.66 g_loss1: 8.46 g_loss2: 9.44 w_loss: 9.63 s_loss: 13.04 perceptual_loss: 3.57 kl_loss: 0.62 
+errD0: 1.52 errD1: 1.55 errD2: 1.48 
+g_loss0: 8.11 g_loss1: 8.63 g_loss2: 13.15 w_loss: 4.74 s_loss: 14.34 perceptual_loss: 3.73 kl_loss: 0.47 
+errD0: 1.57 errD1: 1.63 errD2: 2.55 
+g_loss0: 10.97 g_loss1: 13.58 g_loss2: 23.86 w_loss: 4.14 s_loss: 9.48 perceptual_loss: 3.77 kl_loss: 0.38 
+errD0: 1.64 errD1: 1.68 errD2: 1.59 
+g_loss0: 11.66 g_loss1: 4.66 g_loss2: 17.54 w_loss: 4.39 s_loss: 12.62 perceptual_loss: 3.62 kl_loss: 0.40 
+errD0: 1.57 errD1: 1.55 errD2: 1.71 
+g_loss0: 10.80 g_loss1: 7.54 g_loss2: 10.81 w_loss: 5.28 s_loss: 11.35 perceptual_loss: 3.61 kl_loss: 0.38 
+errD0: 1.63 errD1: 1.70 errD2: 2.26 
+g_loss0: 7.25 g_loss1: 8.41 g_loss2: 19.65 w_loss: 5.13 s_loss: 9.87 perceptual_loss: 3.68 kl_loss: 0.41 
+errD0: 1.69 errD1: 1.99 errD2: 1.53 
+g_loss0: 10.40 g_loss1: 6.28 g_loss2: 13.66 w_loss: 9.86 s_loss: 14.65 perceptual_loss: 3.79 kl_loss: 0.43 
+errD0: 1.75 errD1: 1.69 errD2: 2.75 
+g_loss0: 8.52 g_loss1: 9.55 g_loss2: 15.05 w_loss: 11.29 s_loss: 12.18 perceptual_loss: 4.09 kl_loss: 0.57 
+errD0: 1.62 errD1: 1.64 errD2: 1.49 
+g_loss0: 7.17 g_loss1: 9.20 g_loss2: 10.89 w_loss: 10.38 s_loss: 13.66 perceptual_loss: 3.81 kl_loss: 0.58 
+[67/200][1106]
+                  Loss_D: 5.06 Loss_G: 62.89 Time: 724.38s
+errD0: 1.58 errD1: 1.90 errD2: 1.54 
+g_loss0: 12.53 g_loss1: 8.00 g_loss2: 14.22 w_loss: 5.66 s_loss: 9.26 perceptual_loss: 3.52 kl_loss: 0.42 
+errD0: 1.64 errD1: 1.69 errD2: 1.53 
+g_loss0: 7.16 g_loss1: 3.55 g_loss2: 16.61 w_loss: 6.17 s_loss: 10.87 perceptual_loss: 4.01 kl_loss: 0.52 
+errD0: 1.66 errD1: 1.54 errD2: 1.53 
+g_loss0: 8.54 g_loss1: 10.37 g_loss2: 11.50 w_loss: 8.43 s_loss: 12.43 perceptual_loss: 3.38 kl_loss: 0.61 
+errD0: 1.54 errD1: 1.50 errD2: 1.46 
+g_loss0: 13.70 g_loss1: 10.09 g_loss2: 15.22 w_loss: 5.29 s_loss: 10.59 perceptual_loss: 3.96 kl_loss: 0.50 
+errD0: 1.57 errD1: 2.97 errD2: 1.60 
+g_loss0: 11.34 g_loss1: 12.84 g_loss2: 11.10 w_loss: 5.71 s_loss: 8.50 perceptual_loss: 3.58 kl_loss: 0.46 
+errD0: 1.52 errD1: 1.51 errD2: 1.56 
+g_loss0: 15.01 g_loss1: 13.19 g_loss2: 11.99 w_loss: 5.71 s_loss: 12.45 perceptual_loss: 4.09 kl_loss: 0.40 
+errD0: 1.72 errD1: 1.54 errD2: 2.01 
+g_loss0: 10.43 g_loss1: 10.66 g_loss2: 12.85 w_loss: 8.65 s_loss: 11.27 perceptual_loss: 3.99 kl_loss: 0.55 
+errD0: 1.63 errD1: 4.03 errD2: 1.51 
+g_loss0: 7.03 g_loss1: 10.04 g_loss2: 10.97 w_loss: 4.79 s_loss: 7.99 perceptual_loss: 3.74 kl_loss: 0.62 
+errD0: 1.54 errD1: 1.61 errD2: 1.56 
+g_loss0: 13.91 g_loss1: 7.17 g_loss2: 9.15 w_loss: 4.59 s_loss: 9.73 perceptual_loss: 3.73 kl_loss: 0.46 
+errD0: 1.57 errD1: 1.67 errD2: 3.04 
+g_loss0: 9.49 g_loss1: 12.15 g_loss2: 1.47 w_loss: 7.53 s_loss: 13.69 perceptual_loss: 3.62 kl_loss: 0.38 
+errD0: 1.90 errD1: 2.25 errD2: 1.56 
+g_loss0: 8.84 g_loss1: 7.56 g_loss2: 14.34 w_loss: 9.91 s_loss: 10.44 perceptual_loss: 3.64 kl_loss: 0.56 
+[68/200][1106]
+                  Loss_D: 4.47 Loss_G: 61.38 Time: 725.01s
+errD0: 1.57 errD1: 1.54 errD2: 1.54 
+g_loss0: 11.03 g_loss1: 14.98 g_loss2: 11.15 w_loss: 1.63 s_loss: 6.85 perceptual_loss: 3.46 kl_loss: 0.44 
+errD0: 2.00 errD1: 1.55 errD2: 1.94 
+g_loss0: 7.69 g_loss1: 21.23 g_loss2: 14.43 w_loss: 8.65 s_loss: 11.32 perceptual_loss: 3.57 kl_loss: 0.47 
+errD0: 1.92 errD1: 1.66 errD2: 1.57 
+g_loss0: 13.62 g_loss1: 13.96 g_loss2: 8.83 w_loss: 7.75 s_loss: 8.23 perceptual_loss: 3.84 kl_loss: 0.44 
+errD0: 1.60 errD1: 1.65 errD2: 1.74 
+g_loss0: 7.22 g_loss1: 9.43 g_loss2: 8.00 w_loss: 6.80 s_loss: 10.63 perceptual_loss: 3.88 kl_loss: 0.43 
+errD0: 1.63 errD1: 2.92 errD2: 1.68 
+g_loss0: 10.81 g_loss1: 13.40 g_loss2: 9.72 w_loss: 7.45 s_loss: 9.44 perceptual_loss: 3.87 kl_loss: 0.48 
+errD0: 1.64 errD1: 2.32 errD2: 2.24 
+g_loss0: 7.93 g_loss1: 2.84 g_loss2: 6.88 w_loss: 9.37 s_loss: 10.54 perceptual_loss: 3.84 kl_loss: 0.49 
+errD0: 2.75 errD1: 1.50 errD2: 3.16 
+g_loss0: 1.36 g_loss1: 15.59 g_loss2: 4.66 w_loss: 7.02 s_loss: 10.02 perceptual_loss: 3.47 kl_loss: 0.53 
+errD0: 2.07 errD1: 1.54 errD2: 1.54 
+g_loss0: 9.04 g_loss1: 10.75 g_loss2: 10.78 w_loss: 4.93 s_loss: 8.64 perceptual_loss: 3.42 kl_loss: 0.36 
+errD0: 1.68 errD1: 1.48 errD2: 1.52 
+g_loss0: 9.57 g_loss1: 12.39 g_loss2: 9.75 w_loss: 3.99 s_loss: 9.95 perceptual_loss: 3.52 kl_loss: 0.46 
+errD0: 1.53 errD1: 1.52 errD2: 1.58 
+g_loss0: 9.48 g_loss1: 12.62 g_loss2: 9.30 w_loss: 4.42 s_loss: 9.69 perceptual_loss: 3.38 kl_loss: 0.52 
+errD0: 1.52 errD1: 2.69 errD2: 1.62 
+g_loss0: 12.39 g_loss1: 13.71 g_loss2: 6.93 w_loss: 10.63 s_loss: 11.49 perceptual_loss: 4.05 kl_loss: 0.52 
+[69/200][1106]
+                  Loss_D: 5.09 Loss_G: 54.54 Time: 725.42s
+errD0: 1.84 errD1: 1.73 errD2: 2.60 
+g_loss0: 6.84 g_loss1: 10.53 g_loss2: 18.80 w_loss: 6.48 s_loss: 8.06 perceptual_loss: 3.74 kl_loss: 0.51 
+errD0: 1.57 errD1: 1.53 errD2: 1.50 
+g_loss0: 7.52 g_loss1: 15.40 g_loss2: 16.47 w_loss: 4.52 s_loss: 8.59 perceptual_loss: 3.99 kl_loss: 0.51 
+errD0: 2.42 errD1: 1.60 errD2: 2.10 
+g_loss0: 13.67 g_loss1: 7.33 g_loss2: 16.18 w_loss: 9.40 s_loss: 9.05 perceptual_loss: 3.69 kl_loss: 0.33 
+errD0: 1.79 errD1: 1.55 errD2: 1.55 
+g_loss0: 10.80 g_loss1: 13.29 g_loss2: 19.29 w_loss: 5.42 s_loss: 8.65 perceptual_loss: 3.63 kl_loss: 0.37 
+errD0: 1.88 errD1: 1.57 errD2: 1.91 
+g_loss0: 17.91 g_loss1: 9.69 g_loss2: 12.62 w_loss: 4.16 s_loss: 7.45 perceptual_loss: 3.39 kl_loss: 0.46 
+errD0: 1.81 errD1: 1.53 errD2: 1.98 
+g_loss0: 12.22 g_loss1: 10.89 g_loss2: 14.01 w_loss: 8.98 s_loss: 12.66 perceptual_loss: 3.57 kl_loss: 0.39 
+errD0: 1.77 errD1: 1.64 errD2: 2.27 
+g_loss0: 14.50 g_loss1: 8.02 g_loss2: 8.00 w_loss: 7.22 s_loss: 10.00 perceptual_loss: 3.53 kl_loss: 0.37 
+errD0: 1.96 errD1: 1.58 errD2: 1.48 
+g_loss0: 12.11 g_loss1: 7.68 g_loss2: 11.41 w_loss: 9.22 s_loss: 12.84 perceptual_loss: 3.49 kl_loss: 0.56 
+errD0: 2.03 errD1: 1.63 errD2: 1.54 
+g_loss0: 9.38 g_loss1: 11.70 g_loss2: 9.03 w_loss: 5.51 s_loss: 9.50 perceptual_loss: 3.40 kl_loss: 0.41 
+errD0: 1.56 errD1: 2.83 errD2: 1.70 
+g_loss0: 10.49 g_loss1: 9.93 g_loss2: 10.88 w_loss: 2.43 s_loss: 7.13 perceptual_loss: 3.48 kl_loss: 0.36 
+errD0: 2.58 errD1: 2.02 errD2: 2.10 
+g_loss0: 2.27 g_loss1: 23.67 g_loss2: 23.51 w_loss: 7.39 s_loss: 11.77 perceptual_loss: 3.87 kl_loss: 0.60 
+[70/200][1106]
+                  Loss_D: 5.65 Loss_G: 52.18 Time: 723.82s
+errD0: 1.55 errD1: 1.64 errD2: 1.74 
+g_loss0: 16.82 g_loss1: 12.36 g_loss2: 6.91 w_loss: 10.21 s_loss: 11.95 perceptual_loss: 3.30 kl_loss: 0.55 
+errD0: 2.77 errD1: 1.82 errD2: 2.66 
+g_loss0: 13.10 g_loss1: 12.81 g_loss2: 17.40 w_loss: 6.54 s_loss: 9.29 perceptual_loss: 3.29 kl_loss: 0.44 
+errD0: 1.61 errD1: 2.25 errD2: 1.58 
+g_loss0: 7.80 g_loss1: 6.32 g_loss2: 10.07 w_loss: 9.21 s_loss: 10.80 perceptual_loss: 3.78 kl_loss: 0.35 
+errD0: 1.53 errD1: 3.22 errD2: 1.50 
+g_loss0: 6.44 g_loss1: 12.80 g_loss2: 10.06 w_loss: 6.12 s_loss: 13.08 perceptual_loss: 3.61 kl_loss: 0.33 
+errD0: 1.56 errD1: 1.59 errD2: 1.56 
+g_loss0: 16.62 g_loss1: 16.97 g_loss2: 11.72 w_loss: 8.76 s_loss: 11.36 perceptual_loss: 3.11 kl_loss: 0.57 
+errD0: 1.67 errD1: 1.50 errD2: 1.49 
+g_loss0: 8.89 g_loss1: 8.58 g_loss2: 9.73 w_loss: 3.54 s_loss: 6.85 perceptual_loss: 3.51 kl_loss: 0.50 
+errD0: 1.63 errD1: 1.52 errD2: 1.52 
+g_loss0: 14.14 g_loss1: 7.10 g_loss2: 10.65 w_loss: 7.40 s_loss: 12.69 perceptual_loss: 3.70 kl_loss: 0.56 
+errD0: 1.74 errD1: 1.54 errD2: 1.51 
+g_loss0: 11.05 g_loss1: 8.90 g_loss2: 17.89 w_loss: 5.88 s_loss: 11.55 perceptual_loss: 3.31 kl_loss: 0.38 
+errD0: 1.52 errD1: 2.01 errD2: 1.56 
+g_loss0: 16.29 g_loss1: 10.50 g_loss2: 15.13 w_loss: 7.47 s_loss: 10.60 perceptual_loss: 3.87 kl_loss: 0.43 
+errD0: 1.66 errD1: 1.56 errD2: 1.46 
+g_loss0: 9.31 g_loss1: 10.14 g_loss2: 11.53 w_loss: 6.54 s_loss: 11.26 perceptual_loss: 4.58 kl_loss: 0.48 
+errD0: 2.79 errD1: 3.59 errD2: 1.53 
+g_loss0: 14.27 g_loss1: 18.06 g_loss2: 11.31 w_loss: 7.50 s_loss: 12.40 perceptual_loss: 3.51 kl_loss: 0.66 
+[71/200][1106]
+                  Loss_D: 8.47 Loss_G: 39.87 Time: 723.92s
+errD0: 1.54 errD1: 1.87 errD2: 2.86 
+g_loss0: 14.36 g_loss1: 10.41 g_loss2: 8.21 w_loss: 5.56 s_loss: 10.00 perceptual_loss: 3.68 kl_loss: 0.45 
+errD0: 1.74 errD1: 1.56 errD2: 1.54 
+g_loss0: 8.31 g_loss1: 20.19 g_loss2: 13.69 w_loss: 8.85 s_loss: 10.26 perceptual_loss: 3.72 kl_loss: 0.40 
+errD0: 1.46 errD1: 1.71 errD2: 1.51 
+g_loss0: 12.07 g_loss1: 8.78 g_loss2: 9.80 w_loss: 8.54 s_loss: 11.10 perceptual_loss: 4.28 kl_loss: 0.48 
+errD0: 1.52 errD1: 1.60 errD2: 1.74 
+g_loss0: 11.31 g_loss1: 17.00 g_loss2: 10.10 w_loss: 4.15 s_loss: 11.79 perceptual_loss: 3.65 kl_loss: 0.42 
+errD0: 1.54 errD1: 1.57 errD2: 1.67 
+g_loss0: 10.80 g_loss1: 9.17 g_loss2: 8.75 w_loss: 3.93 s_loss: 11.69 perceptual_loss: 3.37 kl_loss: 0.42 
+errD0: 1.52 errD1: 2.51 errD2: 2.25 
+g_loss0: 12.40 g_loss1: 6.66 g_loss2: 16.92 w_loss: 10.62 s_loss: 13.65 perceptual_loss: 3.58 kl_loss: 0.44 
+errD0: 1.70 errD1: 2.15 errD2: 1.40 
+g_loss0: 10.16 g_loss1: 4.36 g_loss2: 10.18 w_loss: 9.91 s_loss: 16.06 perceptual_loss: 3.65 kl_loss: 0.43 
+errD0: 5.18 errD1: 3.46 errD2: 1.65 
+g_loss0: 5.57 g_loss1: 6.09 g_loss2: 11.64 w_loss: 7.91 s_loss: 11.04 perceptual_loss: 3.51 kl_loss: 0.44 
+errD0: 1.49 errD1: 3.16 errD2: 1.48 
+g_loss0: 14.59 g_loss1: 17.41 g_loss2: 10.46 w_loss: 8.92 s_loss: 15.34 perceptual_loss: 3.31 kl_loss: 0.58 
+errD0: 1.56 errD1: 1.59 errD2: 1.58 
+g_loss0: 10.86 g_loss1: 7.28 g_loss2: 7.18 w_loss: 5.55 s_loss: 7.91 perceptual_loss: 4.03 kl_loss: 0.43 
+errD0: 1.58 errD1: 1.51 errD2: 2.84 
+g_loss0: 7.92 g_loss1: 14.28 g_loss2: 9.76 w_loss: 3.18 s_loss: 8.21 perceptual_loss: 3.81 kl_loss: 0.47 
+[72/200][1106]
+                  Loss_D: 6.32 Loss_G: 42.82 Time: 722.56s
+errD0: 1.49 errD1: 1.47 errD2: 1.45 
+g_loss0: 9.42 g_loss1: 9.09 g_loss2: 11.24 w_loss: 5.87 s_loss: 8.80 perceptual_loss: 3.65 kl_loss: 0.54 
+errD0: 1.63 errD1: 1.56 errD2: 1.52 
+g_loss0: 14.29 g_loss1: 9.19 g_loss2: 6.97 w_loss: 7.50 s_loss: 12.76 perceptual_loss: 3.67 kl_loss: 0.41 
+errD0: 1.53 errD1: 1.51 errD2: 1.52 
+g_loss0: 9.81 g_loss1: 16.60 g_loss2: 16.53 w_loss: 4.78 s_loss: 10.02 perceptual_loss: 3.97 kl_loss: 0.46 
+errD0: 1.52 errD1: 1.62 errD2: 1.43 
+g_loss0: 11.70 g_loss1: 12.20 g_loss2: 13.34 w_loss: 6.73 s_loss: 8.76 perceptual_loss: 3.80 kl_loss: 0.56 
+errD0: 1.65 errD1: 1.86 errD2: 1.53 
+g_loss0: 16.14 g_loss1: 11.80 g_loss2: 18.54 w_loss: 5.80 s_loss: 9.69 perceptual_loss: 4.14 kl_loss: 0.42 
+errD0: 1.59 errD1: 1.87 errD2: 1.60 
+g_loss0: 9.43 g_loss1: 9.14 g_loss2: 16.80 w_loss: 4.10 s_loss: 9.49 perceptual_loss: 3.51 kl_loss: 0.38 
+errD0: 2.55 errD1: 2.66 errD2: 1.73 
+g_loss0: 8.14 g_loss1: 18.16 g_loss2: 9.16 w_loss: 9.54 s_loss: 9.15 perceptual_loss: 3.97 kl_loss: 0.50 
+errD0: 1.55 errD1: 1.51 errD2: 1.85 
+g_loss0: 9.53 g_loss1: 12.53 g_loss2: 8.86 w_loss: 7.35 s_loss: 10.49 perceptual_loss: 3.39 kl_loss: 0.45 
+errD0: 1.69 errD1: 1.56 errD2: 1.54 
+g_loss0: 8.24 g_loss1: 9.87 g_loss2: 13.15 w_loss: 6.35 s_loss: 12.99 perceptual_loss: 3.55 kl_loss: 0.56 
+errD0: 1.54 errD1: 1.49 errD2: 1.56 
+g_loss0: 8.56 g_loss1: 9.74 g_loss2: 10.32 w_loss: 4.66 s_loss: 10.81 perceptual_loss: 3.77 kl_loss: 0.53 
+errD0: 1.51 errD1: 1.57 errD2: 1.49 
+g_loss0: 8.49 g_loss1: 8.95 g_loss2: 11.79 w_loss: 5.27 s_loss: 10.01 perceptual_loss: 3.51 kl_loss: 0.50 
+[73/200][1106]
+                  Loss_D: 5.64 Loss_G: 66.51 Time: 724.54s
+errD0: 2.60 errD1: 1.58 errD2: 1.69 
+g_loss0: 13.85 g_loss1: 3.38 g_loss2: 9.00 w_loss: 4.16 s_loss: 10.25 perceptual_loss: 3.91 kl_loss: 0.37 
+errD0: 1.47 errD1: 1.53 errD2: 1.50 
+g_loss0: 8.92 g_loss1: 12.88 g_loss2: 9.16 w_loss: 5.56 s_loss: 9.14 perceptual_loss: 3.54 kl_loss: 0.58 
+errD0: 1.85 errD1: 2.00 errD2: 1.71 
+g_loss0: 8.03 g_loss1: 8.26 g_loss2: 10.48 w_loss: 5.12 s_loss: 10.02 perceptual_loss: 3.70 kl_loss: 0.50 
+errD0: 1.55 errD1: 1.56 errD2: 1.50 
+g_loss0: 9.86 g_loss1: 11.08 g_loss2: 13.06 w_loss: 5.71 s_loss: 9.66 perceptual_loss: 3.45 kl_loss: 0.43 
+errD0: 1.81 errD1: 1.93 errD2: 1.94 
+g_loss0: 10.83 g_loss1: 12.11 g_loss2: 13.96 w_loss: 8.54 s_loss: 11.38 perceptual_loss: 3.95 kl_loss: 0.41 
+errD0: 2.00 errD1: 1.77 errD2: 1.57 
+g_loss0: 16.03 g_loss1: 9.44 g_loss2: 9.55 w_loss: 4.27 s_loss: 9.18 perceptual_loss: 4.19 kl_loss: 0.39 
+errD0: 1.81 errD1: 1.83 errD2: 1.59 
+g_loss0: 5.61 g_loss1: 4.43 g_loss2: 8.88 w_loss: 7.64 s_loss: 12.84 perceptual_loss: 4.04 kl_loss: 0.32 
+errD0: 1.84 errD1: 1.52 errD2: 1.55 
+g_loss0: 22.22 g_loss1: 12.58 g_loss2: 11.77 w_loss: 9.64 s_loss: 8.84 perceptual_loss: 3.68 kl_loss: 0.44 
+errD0: 1.66 errD1: 1.53 errD2: 1.71 
+g_loss0: 5.49 g_loss1: 12.27 g_loss2: 12.54 w_loss: 7.95 s_loss: 13.30 perceptual_loss: 4.24 kl_loss: 0.44 
+errD0: 1.46 errD1: 1.55 errD2: 3.26 
+g_loss0: 10.22 g_loss1: 7.75 g_loss2: 20.81 w_loss: 8.28 s_loss: 12.58 perceptual_loss: 3.50 kl_loss: 0.54 
+errD0: 2.36 errD1: 1.54 errD2: 1.45 
+g_loss0: 2.69 g_loss1: 13.36 g_loss2: 13.57 w_loss: 6.02 s_loss: 11.43 perceptual_loss: 3.77 kl_loss: 0.67 
+[74/200][1106]
+                  Loss_D: 4.90 Loss_G: 75.84 Time: 725.52s
+errD0: 1.58 errD1: 1.54 errD2: 1.73 
+g_loss0: 8.30 g_loss1: 15.03 g_loss2: 9.65 w_loss: 8.12 s_loss: 9.41 perceptual_loss: 3.19 kl_loss: 0.57 
+errD0: 2.30 errD1: 1.62 errD2: 1.61 
+g_loss0: 10.88 g_loss1: 21.61 g_loss2: 15.18 w_loss: 12.69 s_loss: 13.07 perceptual_loss: 3.92 kl_loss: 0.47 
+errD0: 1.62 errD1: 1.48 errD2: 1.55 
+g_loss0: 10.05 g_loss1: 9.74 g_loss2: 8.08 w_loss: 7.97 s_loss: 10.09 perceptual_loss: 3.97 kl_loss: 0.39 
+errD0: 2.50 errD1: 1.56 errD2: 1.63 
+g_loss0: 3.26 g_loss1: 10.87 g_loss2: 8.80 w_loss: 6.16 s_loss: 10.11 perceptual_loss: 3.35 kl_loss: 0.44 
+errD0: 1.76 errD1: 1.46 errD2: 1.46 
+g_loss0: 8.67 g_loss1: 10.79 g_loss2: 14.83 w_loss: 7.53 s_loss: 8.54 perceptual_loss: 3.62 kl_loss: 0.61 
+errD0: 1.92 errD1: 1.58 errD2: 1.51 
+g_loss0: 7.77 g_loss1: 6.36 g_loss2: 13.97 w_loss: 4.92 s_loss: 6.76 perceptual_loss: 3.80 kl_loss: 0.38 
+errD0: 1.56 errD1: 1.83 errD2: 1.50 
+g_loss0: 12.83 g_loss1: 12.94 g_loss2: 14.90 w_loss: 14.05 s_loss: 10.10 perceptual_loss: 3.51 kl_loss: 0.72 
+errD0: 1.46 errD1: 1.44 errD2: 1.55 
+g_loss0: 10.36 g_loss1: 19.10 g_loss2: 8.27 w_loss: 7.20 s_loss: 9.31 perceptual_loss: 3.88 kl_loss: 0.44 
+errD0: 1.52 errD1: 1.58 errD2: 1.45 
+g_loss0: 15.56 g_loss1: 7.82 g_loss2: 10.01 w_loss: 7.29 s_loss: 12.07 perceptual_loss: 3.89 kl_loss: 0.48 
+errD0: 2.04 errD1: 2.36 errD2: 1.82 
+g_loss0: 12.34 g_loss1: 14.49 g_loss2: 12.60 w_loss: 3.64 s_loss: 7.16 perceptual_loss: 3.83 kl_loss: 0.55 
+errD0: 1.74 errD1: 1.55 errD2: 2.81 
+g_loss0: 7.65 g_loss1: 9.39 g_loss2: 19.22 w_loss: 10.33 s_loss: 13.02 perceptual_loss: 3.73 kl_loss: 0.37 
+[75/200][1106]
+                  Loss_D: 6.36 Loss_G: 46.78 Time: 753.21s
+errD0: 1.65 errD1: 2.10 errD2: 1.51 
+g_loss0: 11.27 g_loss1: 12.76 g_loss2: 13.29 w_loss: 5.02 s_loss: 10.25 perceptual_loss: 3.60 kl_loss: 0.56 
+errD0: 1.50 errD1: 1.92 errD2: 1.78 
+g_loss0: 17.14 g_loss1: 13.84 g_loss2: 18.14 w_loss: 7.27 s_loss: 9.30 perceptual_loss: 3.74 kl_loss: 0.43 
+errD0: 1.61 errD1: 1.52 errD2: 1.94 
+g_loss0: 9.85 g_loss1: 16.49 g_loss2: 9.60 w_loss: 7.71 s_loss: 9.59 perceptual_loss: 3.97 kl_loss: 0.45 
+errD0: 1.55 errD1: 1.51 errD2: 1.50 
+g_loss0: 11.66 g_loss1: 18.36 g_loss2: 13.28 w_loss: 9.05 s_loss: 13.19 perceptual_loss: 4.01 kl_loss: 0.51 
+errD0: 1.90 errD1: 1.54 errD2: 1.51 
+g_loss0: 3.82 g_loss1: 11.07 g_loss2: 8.88 w_loss: 10.33 s_loss: 10.86 perceptual_loss: 3.68 kl_loss: 0.63 
+errD0: 1.59 errD1: 1.51 errD2: 1.66 
+g_loss0: 10.78 g_loss1: 13.33 g_loss2: 10.16 w_loss: 9.03 s_loss: 9.73 perceptual_loss: 3.82 kl_loss: 0.58 
+errD0: 1.55 errD1: 1.56 errD2: 1.63 
+g_loss0: 11.30 g_loss1: 13.14 g_loss2: 11.39 w_loss: 6.63 s_loss: 8.51 perceptual_loss: 4.17 kl_loss: 0.54 
+errD0: 1.55 errD1: 2.28 errD2: 2.00 
+g_loss0: 13.39 g_loss1: 7.86 g_loss2: 22.71 w_loss: 4.01 s_loss: 7.91 perceptual_loss: 3.59 kl_loss: 0.63 
+errD0: 1.84 errD1: 1.56 errD2: 1.49 
+g_loss0: 9.28 g_loss1: 7.71 g_loss2: 9.25 w_loss: 5.03 s_loss: 10.45 perceptual_loss: 3.80 kl_loss: 0.69 
+errD0: 1.86 errD1: 1.52 errD2: 1.51 
+g_loss0: 7.13 g_loss1: 9.50 g_loss2: 5.80 w_loss: 8.28 s_loss: 12.08 perceptual_loss: 3.78 kl_loss: 0.51 
+errD0: 1.75 errD1: 1.51 errD2: 1.53 
+g_loss0: 7.11 g_loss1: 13.66 g_loss2: 10.25 w_loss: 3.48 s_loss: 9.31 perceptual_loss: 3.26 kl_loss: 0.51 
+[76/200][1106]
+                  Loss_D: 6.44 Loss_G: 53.72 Time: 723.34s
+errD0: 1.53 errD1: 1.56 errD2: 1.81 
+g_loss0: 13.66 g_loss1: 21.00 g_loss2: 7.84 w_loss: 4.20 s_loss: 10.93 perceptual_loss: 3.93 kl_loss: 0.53 
+errD0: 1.53 errD1: 1.60 errD2: 1.46 
+g_loss0: 13.34 g_loss1: 6.47 g_loss2: 19.03 w_loss: 4.92 s_loss: 9.12 perceptual_loss: 3.57 kl_loss: 0.53 
+errD0: 1.48 errD1: 1.69 errD2: 1.55 
+g_loss0: 9.19 g_loss1: 13.98 g_loss2: 12.82 w_loss: 8.48 s_loss: 8.89 perceptual_loss: 3.53 kl_loss: 0.61 
+errD0: 4.70 errD1: 1.59 errD2: 1.57 
+g_loss0: 2.11 g_loss1: 13.15 g_loss2: 13.11 w_loss: 4.20 s_loss: 9.42 perceptual_loss: 4.05 kl_loss: 0.47 
+errD0: 1.54 errD1: 1.79 errD2: 1.54 
+g_loss0: 9.66 g_loss1: 6.95 g_loss2: 9.17 w_loss: 8.56 s_loss: 12.91 perceptual_loss: 3.22 kl_loss: 0.57 
+errD0: 1.63 errD1: 2.65 errD2: 1.56 
+g_loss0: 8.65 g_loss1: 11.51 g_loss2: 11.49 w_loss: 12.76 s_loss: 16.22 perceptual_loss: 3.97 kl_loss: 0.66 
+errD0: 2.87 errD1: 1.51 errD2: 1.58 
+g_loss0: 8.41 g_loss1: 10.09 g_loss2: 7.12 w_loss: 4.19 s_loss: 6.42 perceptual_loss: 3.95 kl_loss: 0.49 
+errD0: 1.62 errD1: 1.68 errD2: 1.53 
+g_loss0: 9.54 g_loss1: 11.28 g_loss2: 5.46 w_loss: 6.17 s_loss: 11.05 perceptual_loss: 3.51 kl_loss: 0.51 
+errD0: 1.54 errD1: 1.52 errD2: 1.55 
+g_loss0: 25.27 g_loss1: 10.55 g_loss2: 10.24 w_loss: 5.63 s_loss: 13.16 perceptual_loss: 3.59 kl_loss: 0.52 
+errD0: 2.20 errD1: 1.68 errD2: 1.67 
+g_loss0: 5.79 g_loss1: 13.05 g_loss2: 11.52 w_loss: 5.56 s_loss: 9.02 perceptual_loss: 3.84 kl_loss: 0.59 
+errD0: 1.60 errD1: 1.94 errD2: 3.73 
+g_loss0: 10.69 g_loss1: 4.88 g_loss2: 19.87 w_loss: 9.03 s_loss: 12.18 perceptual_loss: 3.72 kl_loss: 0.55 
+[77/200][1106]
+                  Loss_D: 4.81 Loss_G: 49.94 Time: 726.54s
+errD0: 1.53 errD1: 1.63 errD2: 1.53 
+g_loss0: 13.97 g_loss1: 7.74 g_loss2: 15.13 w_loss: 7.12 s_loss: 7.65 perceptual_loss: 3.52 kl_loss: 0.54 
+errD0: 1.61 errD1: 1.81 errD2: 2.09 
+g_loss0: 7.95 g_loss1: 10.33 g_loss2: 11.31 w_loss: 6.53 s_loss: 10.53 perceptual_loss: 3.42 kl_loss: 0.54 
+errD0: 1.91 errD1: 2.04 errD2: 1.55 
+g_loss0: 6.91 g_loss1: 8.05 g_loss2: 10.20 w_loss: 6.89 s_loss: 11.51 perceptual_loss: 3.87 kl_loss: 0.49 
+errD0: 1.51 errD1: 1.52 errD2: 1.49 
+g_loss0: 13.81 g_loss1: 5.69 g_loss2: 12.25 w_loss: 8.39 s_loss: 11.95 perceptual_loss: 3.87 kl_loss: 0.63 
+errD0: 1.62 errD1: 1.85 errD2: 1.56 
+g_loss0: 10.30 g_loss1: 9.66 g_loss2: 12.35 w_loss: 9.95 s_loss: 11.58 perceptual_loss: 3.47 kl_loss: 0.50 
+errD0: 1.72 errD1: 3.06 errD2: 1.50 
+g_loss0: 7.83 g_loss1: 2.83 g_loss2: 10.49 w_loss: 10.93 s_loss: 12.29 perceptual_loss: 3.52 kl_loss: 0.39 
+errD0: 1.53 errD1: 1.54 errD2: 1.52 
+g_loss0: 14.07 g_loss1: 9.46 g_loss2: 13.06 w_loss: 9.68 s_loss: 10.30 perceptual_loss: 3.72 kl_loss: 0.54 
+errD0: 1.79 errD1: 2.14 errD2: 1.49 
+g_loss0: 7.94 g_loss1: 11.87 g_loss2: 12.02 w_loss: 1.93 s_loss: 6.24 perceptual_loss: 3.71 kl_loss: 0.41 
+errD0: 1.52 errD1: 1.52 errD2: 1.83 
+g_loss0: 9.13 g_loss1: 8.65 g_loss2: 3.17 w_loss: 5.58 s_loss: 12.45 perceptual_loss: 4.31 kl_loss: 0.52 
+errD0: 1.63 errD1: 1.80 errD2: 1.53 
+g_loss0: 8.32 g_loss1: 13.53 g_loss2: 17.21 w_loss: 12.04 s_loss: 13.12 perceptual_loss: 3.69 kl_loss: 0.53 
+errD0: 1.50 errD1: 1.52 errD2: 1.47 
+g_loss0: 8.59 g_loss1: 8.18 g_loss2: 17.24 w_loss: 8.81 s_loss: 13.52 perceptual_loss: 3.21 kl_loss: 0.49 
+[78/200][1106]
+                  Loss_D: 6.02 Loss_G: 60.34 Time: 725.11s
+errD0: 1.63 errD1: 1.58 errD2: 1.49 
+g_loss0: 8.64 g_loss1: 8.57 g_loss2: 8.51 w_loss: 8.97 s_loss: 9.44 perceptual_loss: 3.90 kl_loss: 0.68 
+errD0: 1.49 errD1: 1.90 errD2: 1.45 
+g_loss0: 10.44 g_loss1: 13.26 g_loss2: 16.71 w_loss: 6.22 s_loss: 10.64 perceptual_loss: 3.62 kl_loss: 0.45 
+errD0: 1.92 errD1: 1.48 errD2: 1.52 
+g_loss0: 10.53 g_loss1: 11.44 g_loss2: 7.61 w_loss: 5.36 s_loss: 8.07 perceptual_loss: 3.58 kl_loss: 0.49 
+errD0: 1.71 errD1: 1.63 errD2: 2.25 
+g_loss0: 9.58 g_loss1: 9.00 g_loss2: 14.19 w_loss: 6.14 s_loss: 12.37 perceptual_loss: 4.11 kl_loss: 0.56 
+errD0: 1.44 errD1: 1.49 errD2: 1.46 
+g_loss0: 18.60 g_loss1: 11.33 g_loss2: 9.39 w_loss: 7.83 s_loss: 9.29 perceptual_loss: 3.41 kl_loss: 0.51 
+errD0: 1.61 errD1: 1.99 errD2: 1.54 
+g_loss0: 6.79 g_loss1: 6.63 g_loss2: 17.51 w_loss: 6.91 s_loss: 10.17 perceptual_loss: 3.72 kl_loss: 0.56 
+errD0: 2.28 errD1: 1.70 errD2: 1.65 
+g_loss0: 4.68 g_loss1: 13.40 g_loss2: 9.28 w_loss: 5.93 s_loss: 12.83 perceptual_loss: 3.69 kl_loss: 0.53 
+errD0: 1.55 errD1: 1.52 errD2: 1.64 
+g_loss0: 9.64 g_loss1: 12.64 g_loss2: 9.35 w_loss: 8.67 s_loss: 14.40 perceptual_loss: 4.07 kl_loss: 0.69 
+errD0: 1.66 errD1: 1.52 errD2: 1.73 
+g_loss0: 8.01 g_loss1: 9.87 g_loss2: 13.94 w_loss: 5.72 s_loss: 10.27 perceptual_loss: 3.56 kl_loss: 0.54 
+errD0: 2.43 errD1: 1.51 errD2: 1.58 
+g_loss0: 5.74 g_loss1: 8.97 g_loss2: 8.98 w_loss: 8.98 s_loss: 9.23 perceptual_loss: 3.69 kl_loss: 0.38 
+errD0: 1.58 errD1: 1.53 errD2: 1.54 
+g_loss0: 9.09 g_loss1: 12.32 g_loss2: 4.15 w_loss: 10.21 s_loss: 9.42 perceptual_loss: 3.44 kl_loss: 0.55 
+[79/200][1106]
+                  Loss_D: 5.80 Loss_G: 42.86 Time: 726.00s
+errD0: 1.53 errD1: 1.59 errD2: 1.52 
+g_loss0: 8.13 g_loss1: 8.83 g_loss2: 11.35 w_loss: 10.07 s_loss: 10.50 perceptual_loss: 3.43 kl_loss: 0.55 
+errD0: 1.53 errD1: 1.57 errD2: 2.15 
+g_loss0: 17.26 g_loss1: 22.47 g_loss2: 12.01 w_loss: 4.09 s_loss: 8.89 perceptual_loss: 3.36 kl_loss: 0.39 
+errD0: 2.43 errD1: 1.50 errD2: 1.53 
+g_loss0: 11.55 g_loss1: 8.03 g_loss2: 14.88 w_loss: 4.85 s_loss: 13.70 perceptual_loss: 3.45 kl_loss: 0.68 
+errD0: 1.59 errD1: 1.49 errD2: 1.60 
+g_loss0: 10.03 g_loss1: 11.82 g_loss2: 9.61 w_loss: 2.38 s_loss: 7.93 perceptual_loss: 3.57 kl_loss: 0.54 
+errD0: 1.61 errD1: 1.78 errD2: 1.62 
+g_loss0: 15.48 g_loss1: 15.47 g_loss2: 8.53 w_loss: 6.88 s_loss: 8.33 perceptual_loss: 3.54 kl_loss: 0.57 
+errD0: 1.58 errD1: 1.78 errD2: 1.91 
+g_loss0: 9.15 g_loss1: 6.55 g_loss2: 10.42 w_loss: 5.35 s_loss: 6.88 perceptual_loss: 3.42 kl_loss: 0.51 
+errD0: 1.55 errD1: 1.51 errD2: 2.28 
+g_loss0: 8.75 g_loss1: 19.18 g_loss2: 20.66 w_loss: 5.99 s_loss: 10.88 perceptual_loss: 3.88 kl_loss: 0.58 
+errD0: 1.84 errD1: 1.54 errD2: 2.11 
+g_loss0: 5.82 g_loss1: 5.93 g_loss2: 17.36 w_loss: 6.94 s_loss: 9.61 perceptual_loss: 4.16 kl_loss: 0.62 
+errD0: 2.44 errD1: 1.46 errD2: 1.54 
+g_loss0: 17.72 g_loss1: 17.81 g_loss2: 12.94 w_loss: 12.00 s_loss: 12.18 perceptual_loss: 3.67 kl_loss: 0.57 
+errD0: 1.74 errD1: 1.68 errD2: 2.99 
+g_loss0: 10.26 g_loss1: 12.14 g_loss2: 0.66 w_loss: 8.78 s_loss: 11.69 perceptual_loss: 3.98 kl_loss: 0.68 
+errD0: 1.55 errD1: 3.20 errD2: 2.23 
+g_loss0: 8.27 g_loss1: 7.85 g_loss2: 19.59 w_loss: 6.85 s_loss: 10.38 perceptual_loss: 3.45 kl_loss: 0.55 
+[80/200][1106]
+                  Loss_D: 4.61 Loss_G: 64.98 Time: 725.06s
+errD0: 1.53 errD1: 1.67 errD2: 1.52 
+g_loss0: 10.78 g_loss1: 7.50 g_loss2: 12.57 w_loss: 2.77 s_loss: 6.82 perceptual_loss: 3.41 kl_loss: 0.48 
+errD0: 1.66 errD1: 1.78 errD2: 1.64 
+g_loss0: 10.23 g_loss1: 8.78 g_loss2: 10.78 w_loss: 10.85 s_loss: 11.34 perceptual_loss: 3.58 kl_loss: 0.62 
+errD0: 1.85 errD1: 1.58 errD2: 1.49 
+g_loss0: 13.26 g_loss1: 3.30 g_loss2: 12.72 w_loss: 5.80 s_loss: 11.89 perceptual_loss: 3.64 kl_loss: 0.52 
+errD0: 1.65 errD1: 1.90 errD2: 2.70 
+g_loss0: 8.50 g_loss1: 3.94 g_loss2: 20.39 w_loss: 7.10 s_loss: 9.26 perceptual_loss: 3.54 kl_loss: 0.57 
+errD0: 1.80 errD1: 1.56 errD2: 1.61 
+g_loss0: 5.43 g_loss1: 9.81 g_loss2: 18.19 w_loss: 6.62 s_loss: 11.60 perceptual_loss: 3.58 kl_loss: 0.62 
+errD0: 1.54 errD1: 1.56 errD2: 1.50 
+g_loss0: 15.14 g_loss1: 10.15 g_loss2: 15.96 w_loss: 5.96 s_loss: 7.13 perceptual_loss: 3.76 kl_loss: 0.37 
+errD0: 1.63 errD1: 1.71 errD2: 1.68 
+g_loss0: 10.87 g_loss1: 6.19 g_loss2: 7.94 w_loss: 5.66 s_loss: 9.38 perceptual_loss: 3.54 kl_loss: 0.55 
+errD0: 2.01 errD1: 2.59 errD2: 1.90 
+g_loss0: 10.63 g_loss1: 5.55 g_loss2: 6.52 w_loss: 8.65 s_loss: 12.32 perceptual_loss: 3.54 kl_loss: 0.52 
+errD0: 1.55 errD1: 2.58 errD2: 1.52 
+g_loss0: 10.54 g_loss1: 17.59 g_loss2: 16.15 w_loss: 7.01 s_loss: 8.68 perceptual_loss: 3.76 kl_loss: 0.42 
+errD0: 1.83 errD1: 1.77 errD2: 1.47 
+g_loss0: 7.06 g_loss1: 6.30 g_loss2: 9.29 w_loss: 12.67 s_loss: 10.65 perceptual_loss: 3.78 kl_loss: 0.75 
+errD0: 1.67 errD1: 1.62 errD2: 1.73 
+g_loss0: 9.23 g_loss1: 7.52 g_loss2: 10.65 w_loss: 5.87 s_loss: 9.79 perceptual_loss: 3.81 kl_loss: 0.60 
+[81/200][1106]
+                  Loss_D: 5.02 Loss_G: 36.89 Time: 725.47s
+errD0: 2.48 errD1: 1.92 errD2: 1.66 
+g_loss0: 10.11 g_loss1: 9.96 g_loss2: 13.38 w_loss: 9.36 s_loss: 8.32 perceptual_loss: 3.75 kl_loss: 0.62 
+errD0: 1.54 errD1: 1.61 errD2: 1.49 
+g_loss0: 8.80 g_loss1: 9.37 g_loss2: 9.41 w_loss: 10.35 s_loss: 12.42 perceptual_loss: 3.76 kl_loss: 0.58 
+errD0: 1.50 errD1: 1.49 errD2: 2.65 
+g_loss0: 18.20 g_loss1: 10.11 g_loss2: 5.79 w_loss: 5.09 s_loss: 8.78 perceptual_loss: 3.38 kl_loss: 0.46 
+errD0: 2.31 errD1: 1.52 errD2: 1.52 
+g_loss0: 10.57 g_loss1: 9.85 g_loss2: 15.61 w_loss: 7.64 s_loss: 10.06 perceptual_loss: 3.93 kl_loss: 0.52 
+errD0: 2.53 errD1: 3.58 errD2: 1.67 
+g_loss0: 18.16 g_loss1: 0.54 g_loss2: 5.79 w_loss: 1.98 s_loss: 8.33 perceptual_loss: 3.86 kl_loss: 0.43 
+errD0: 1.53 errD1: 1.99 errD2: 1.56 
+g_loss0: 10.11 g_loss1: 7.63 g_loss2: 8.21 w_loss: 9.97 s_loss: 7.74 perceptual_loss: 3.51 kl_loss: 0.50 
+errD0: 1.54 errD1: 1.52 errD2: 1.49 
+g_loss0: 5.03 g_loss1: 12.31 g_loss2: 14.96 w_loss: 11.77 s_loss: 11.23 perceptual_loss: 3.41 kl_loss: 0.49 
+errD0: 2.96 errD1: 1.50 errD2: 1.52 
+g_loss0: 2.40 g_loss1: 15.08 g_loss2: 8.40 w_loss: 3.51 s_loss: 10.46 perceptual_loss: 4.00 kl_loss: 0.44 
+errD0: 1.54 errD1: 1.54 errD2: 1.53 
+g_loss0: 10.87 g_loss1: 8.87 g_loss2: 11.63 w_loss: 7.16 s_loss: 11.36 perceptual_loss: 3.66 kl_loss: 0.58 
+errD0: 1.48 errD1: 1.87 errD2: 1.60 
+g_loss0: 23.81 g_loss1: 9.76 g_loss2: 10.94 w_loss: 9.80 s_loss: 8.04 perceptual_loss: 3.29 kl_loss: 0.42 
+errD0: 2.32 errD1: 2.19 errD2: 1.49 
+g_loss0: 4.52 g_loss1: 12.31 g_loss2: 6.98 w_loss: 4.29 s_loss: 9.78 perceptual_loss: 3.84 kl_loss: 0.49 
+[82/200][1106]
+                  Loss_D: 4.49 Loss_G: 59.79 Time: 722.74s
+errD0: 2.03 errD1: 1.55 errD2: 1.55 
+g_loss0: 11.91 g_loss1: 4.04 g_loss2: 9.61 w_loss: 2.58 s_loss: 9.09 perceptual_loss: 3.60 kl_loss: 0.33 
+errD0: 1.57 errD1: 1.59 errD2: 1.57 
+g_loss0: 13.77 g_loss1: 7.67 g_loss2: 12.34 w_loss: 7.18 s_loss: 8.59 perceptual_loss: 3.52 kl_loss: 0.48 
+errD0: 2.15 errD1: 2.00 errD2: 1.52 
+g_loss0: 9.27 g_loss1: 8.95 g_loss2: 10.11 w_loss: 6.31 s_loss: 12.11 perceptual_loss: 3.77 kl_loss: 0.56 
+errD0: 1.53 errD1: 1.76 errD2: 1.53 
+g_loss0: 11.87 g_loss1: 24.60 g_loss2: 16.50 w_loss: 6.95 s_loss: 15.06 perceptual_loss: 3.76 kl_loss: 0.50 
+errD0: 1.65 errD1: 1.60 errD2: 1.93 
+g_loss0: 9.53 g_loss1: 9.31 g_loss2: 7.57 w_loss: 4.02 s_loss: 10.59 perceptual_loss: 3.42 kl_loss: 0.55 
+errD0: 1.53 errD1: 1.68 errD2: 1.48 
+g_loss0: 9.52 g_loss1: 12.35 g_loss2: 18.42 w_loss: 11.55 s_loss: 10.07 perceptual_loss: 3.47 kl_loss: 0.42 
+errD0: 1.62 errD1: 1.87 errD2: 1.60 
+g_loss0: 10.64 g_loss1: 9.36 g_loss2: 6.84 w_loss: 8.53 s_loss: 9.98 perceptual_loss: 3.54 kl_loss: 0.71 
+errD0: 1.48 errD1: 1.74 errD2: 1.54 
+g_loss0: 12.41 g_loss1: 4.91 g_loss2: 10.85 w_loss: 7.79 s_loss: 11.03 perceptual_loss: 3.48 kl_loss: 0.43 
+errD0: 1.51 errD1: 1.95 errD2: 1.99 
+g_loss0: 20.27 g_loss1: 12.64 g_loss2: 15.91 w_loss: 9.57 s_loss: 12.08 perceptual_loss: 3.66 kl_loss: 0.53 
+errD0: 2.08 errD1: 1.83 errD2: 1.50 
+g_loss0: 13.97 g_loss1: 10.69 g_loss2: 21.86 w_loss: 5.99 s_loss: 8.65 perceptual_loss: 3.75 kl_loss: 0.58 
+errD0: 1.69 errD1: 1.51 errD2: 1.61 
+g_loss0: 7.08 g_loss1: 8.81 g_loss2: 12.52 w_loss: 14.14 s_loss: 13.15 perceptual_loss: 3.54 kl_loss: 0.49 
+errD0: 1.73 errD1: 2.05 errD2: 1.56 
+g_loss0: 11.36 g_loss1: 13.17 g_loss2: 7.98 w_loss: 11.74 s_loss: 14.33 perceptual_loss: 3.71 kl_loss: 0.54 
+[83/200][1106]
+                  Loss_D: 5.23 Loss_G: 62.81 Time: 724.86s
+errD0: 1.74 errD1: 1.58 errD2: 1.53 
+g_loss0: 8.06 g_loss1: 14.53 g_loss2: 12.38 w_loss: 6.94 s_loss: 8.26 perceptual_loss: 3.97 kl_loss: 0.53 
+errD0: 2.89 errD1: 1.78 errD2: 3.50 
+g_loss0: 19.26 g_loss1: 19.72 g_loss2: 4.32 w_loss: 5.12 s_loss: 8.80 perceptual_loss: 3.95 kl_loss: 0.40 
+errD0: 3.46 errD1: 1.97 errD2: 1.52 
+g_loss0: 13.94 g_loss1: 7.62 g_loss2: 11.79 w_loss: 10.78 s_loss: 8.38 perceptual_loss: 3.68 kl_loss: 0.55 
+errD0: 1.98 errD1: 1.60 errD2: 1.53 
+g_loss0: 8.60 g_loss1: 7.45 g_loss2: 11.62 w_loss: 7.84 s_loss: 10.10 perceptual_loss: 3.26 kl_loss: 0.53 
+errD0: 1.70 errD1: 2.83 errD2: 1.56 
+g_loss0: 11.55 g_loss1: 5.31 g_loss2: 14.76 w_loss: 4.70 s_loss: 9.80 perceptual_loss: 3.62 kl_loss: 0.53 
+errD0: 2.18 errD1: 2.21 errD2: 3.34 
+g_loss0: 4.48 g_loss1: 10.15 g_loss2: 28.39 w_loss: 3.70 s_loss: 10.02 perceptual_loss: 3.80 kl_loss: 0.37 
+errD0: 1.53 errD1: 1.64 errD2: 1.81 
+g_loss0: 10.88 g_loss1: 7.98 g_loss2: 13.90 w_loss: 12.93 s_loss: 13.94 perceptual_loss: 4.07 kl_loss: 0.60 
+errD0: 2.01 errD1: 1.59 errD2: 2.25 
+g_loss0: 8.48 g_loss1: 7.53 g_loss2: 12.23 w_loss: 9.55 s_loss: 11.69 perceptual_loss: 3.67 kl_loss: 0.55 
+errD0: 1.59 errD1: 1.62 errD2: 1.53 
+g_loss0: 8.83 g_loss1: 15.58 g_loss2: 12.67 w_loss: 6.17 s_loss: 7.92 perceptual_loss: 3.65 kl_loss: 0.51 
+errD0: 1.54 errD1: 1.61 errD2: 1.48 
+g_loss0: 10.79 g_loss1: 10.97 g_loss2: 22.87 w_loss: 7.16 s_loss: 9.35 perceptual_loss: 3.43 kl_loss: 0.50 
+errD0: 1.88 errD1: 2.62 errD2: 1.55 
+g_loss0: 10.00 g_loss1: 8.12 g_loss2: 10.14 w_loss: 11.09 s_loss: 13.86 perceptual_loss: 4.02 kl_loss: 0.67 
+[84/200][1106]
+                  Loss_D: 4.93 Loss_G: 48.47 Time: 757.59s
+errD0: 1.49 errD1: 1.57 errD2: 1.59 
+g_loss0: 10.74 g_loss1: 8.76 g_loss2: 14.34 w_loss: 7.42 s_loss: 7.79 perceptual_loss: 4.13 kl_loss: 0.54 
+errD0: 1.64 errD1: 2.04 errD2: 1.61 
+g_loss0: 15.12 g_loss1: 11.30 g_loss2: 15.48 w_loss: 5.37 s_loss: 8.86 perceptual_loss: 4.41 kl_loss: 0.57 
+errD0: 1.56 errD1: 1.88 errD2: 1.81 
+g_loss0: 10.49 g_loss1: 10.15 g_loss2: 5.31 w_loss: 3.93 s_loss: 9.06 perceptual_loss: 3.82 kl_loss: 0.66 
+errD0: 1.52 errD1: 1.54 errD2: 1.67 
+g_loss0: 10.98 g_loss1: 12.31 g_loss2: 12.93 w_loss: 9.94 s_loss: 12.04 perceptual_loss: 3.56 kl_loss: 0.47 
+errD0: 1.74 errD1: 2.68 errD2: 2.41 
+g_loss0: 6.22 g_loss1: 3.06 g_loss2: 2.42 w_loss: 6.95 s_loss: 12.04 perceptual_loss: 3.75 kl_loss: 0.53 
+errD0: 1.50 errD1: 1.49 errD2: 1.52 
+g_loss0: 8.70 g_loss1: 10.17 g_loss2: 9.98 w_loss: 5.56 s_loss: 10.74 perceptual_loss: 3.68 kl_loss: 0.47 
+errD0: 1.58 errD1: 1.62 errD2: 1.58 
+g_loss0: 16.24 g_loss1: 10.64 g_loss2: 11.58 w_loss: 8.65 s_loss: 11.94 perceptual_loss: 3.90 kl_loss: 0.53 
+errD0: 1.65 errD1: 1.68 errD2: 1.55 
+g_loss0: 6.80 g_loss1: 7.15 g_loss2: 15.17 w_loss: 1.80 s_loss: 6.10 perceptual_loss: 3.53 kl_loss: 0.59 
+errD0: 1.62 errD1: 1.63 errD2: 1.55 
+g_loss0: 10.24 g_loss1: 8.92 g_loss2: 11.84 w_loss: 4.66 s_loss: 8.79 perceptual_loss: 3.55 kl_loss: 0.75 
+errD0: 2.09 errD1: 1.63 errD2: 1.47 
+g_loss0: 3.97 g_loss1: 3.41 g_loss2: 11.18 w_loss: 4.11 s_loss: 11.75 perceptual_loss: 3.45 kl_loss: 0.62 
+errD0: 1.65 errD1: 1.46 errD2: 1.44 
+g_loss0: 11.22 g_loss1: 8.61 g_loss2: 11.71 w_loss: 4.79 s_loss: 9.94 perceptual_loss: 4.02 kl_loss: 0.56 
+[85/200][1106]
+                  Loss_D: 5.22 Loss_G: 48.08 Time: 722.01s
+errD0: 1.93 errD1: 1.67 errD2: 1.99 
+g_loss0: 5.44 g_loss1: 12.47 g_loss2: 8.71 w_loss: 6.76 s_loss: 10.55 perceptual_loss: 3.49 kl_loss: 0.61 
+errD0: 1.86 errD1: 1.53 errD2: 1.52 
+g_loss0: 10.42 g_loss1: 15.31 g_loss2: 10.13 w_loss: 3.67 s_loss: 12.83 perceptual_loss: 4.16 kl_loss: 0.47 
+errD0: 1.48 errD1: 1.57 errD2: 2.21 
+g_loss0: 14.22 g_loss1: 12.73 g_loss2: 1.75 w_loss: 10.93 s_loss: 15.26 perceptual_loss: 3.86 kl_loss: 0.53 
+errD0: 1.44 errD1: 1.49 errD2: 1.50 
+g_loss0: 11.72 g_loss1: 18.33 g_loss2: 13.30 w_loss: 3.40 s_loss: 8.10 perceptual_loss: 3.90 kl_loss: 0.46 
+errD0: 3.02 errD1: 1.51 errD2: 1.75 
+g_loss0: 7.56 g_loss1: 10.91 g_loss2: 9.93 w_loss: 10.88 s_loss: 13.87 perceptual_loss: 3.77 kl_loss: 0.59 
+errD0: 1.53 errD1: 1.53 errD2: 2.02 
+g_loss0: 9.76 g_loss1: 15.90 g_loss2: 16.13 w_loss: 5.97 s_loss: 9.80 perceptual_loss: 3.74 kl_loss: 0.56 
+errD0: 1.55 errD1: 1.53 errD2: 1.73 
+g_loss0: 12.27 g_loss1: 12.81 g_loss2: 12.77 w_loss: 2.05 s_loss: 6.91 perceptual_loss: 3.27 kl_loss: 0.44 
+errD0: 1.68 errD1: 1.57 errD2: 1.54 
+g_loss0: 8.05 g_loss1: 17.10 g_loss2: 12.40 w_loss: 6.54 s_loss: 9.94 perceptual_loss: 3.51 kl_loss: 0.53 
+errD0: 1.53 errD1: 1.54 errD2: 1.58 
+g_loss0: 8.63 g_loss1: 9.05 g_loss2: 25.54 w_loss: 8.87 s_loss: 11.62 perceptual_loss: 3.57 kl_loss: 0.50 
+errD0: 1.63 errD1: 1.63 errD2: 2.03 
+g_loss0: 11.56 g_loss1: 7.43 g_loss2: 18.88 w_loss: 6.48 s_loss: 11.56 perceptual_loss: 3.72 kl_loss: 0.57 
+errD0: 1.54 errD1: 1.55 errD2: 1.52 
+g_loss0: 14.61 g_loss1: 13.78 g_loss2: 11.05 w_loss: 8.32 s_loss: 9.45 perceptual_loss: 3.67 kl_loss: 0.51 
+[86/200][1106]
+                  Loss_D: 5.15 Loss_G: 44.48 Time: 724.28s
+errD0: 1.69 errD1: 2.40 errD2: 1.54 
+g_loss0: 9.87 g_loss1: 15.21 g_loss2: 10.85 w_loss: 7.12 s_loss: 7.72 perceptual_loss: 3.66 kl_loss: 0.52 
+errD0: 1.53 errD1: 1.55 errD2: 2.10 
+g_loss0: 12.32 g_loss1: 18.24 g_loss2: 17.29 w_loss: 9.63 s_loss: 11.44 perceptual_loss: 3.67 kl_loss: 0.59 
+errD0: 1.73 errD1: 1.55 errD2: 1.53 
+g_loss0: 11.38 g_loss1: 5.45 g_loss2: 16.76 w_loss: 6.89 s_loss: 8.38 perceptual_loss: 3.64 kl_loss: 0.60 
+errD0: 2.22 errD1: 1.64 errD2: 1.57 
+g_loss0: 9.61 g_loss1: 7.88 g_loss2: 14.58 w_loss: 6.01 s_loss: 10.95 perceptual_loss: 3.77 kl_loss: 0.47 
+errD0: 3.03 errD1: 1.83 errD2: 1.60 
+g_loss0: 15.64 g_loss1: 10.89 g_loss2: 9.67 w_loss: 5.41 s_loss: 12.79 perceptual_loss: 3.76 kl_loss: 0.61 
+errD0: 1.50 errD1: 1.60 errD2: 1.60 
+g_loss0: 13.18 g_loss1: 10.59 g_loss2: 7.16 w_loss: 6.63 s_loss: 11.25 perceptual_loss: 3.49 kl_loss: 0.60 
+errD0: 1.53 errD1: 1.57 errD2: 1.86 
+g_loss0: 17.85 g_loss1: 8.07 g_loss2: 19.84 w_loss: 8.68 s_loss: 10.04 perceptual_loss: 3.76 kl_loss: 0.63 
+errD0: 2.43 errD1: 2.92 errD2: 1.47 
+g_loss0: 9.96 g_loss1: 16.79 g_loss2: 21.75 w_loss: 6.04 s_loss: 10.47 perceptual_loss: 3.79 kl_loss: 0.40 
+errD0: 1.47 errD1: 1.50 errD2: 1.58 
+g_loss0: 14.95 g_loss1: 12.68 g_loss2: 10.15 w_loss: 6.26 s_loss: 7.95 perceptual_loss: 3.43 kl_loss: 0.44 
+errD0: 1.59 errD1: 1.55 errD2: 1.70 
+g_loss0: 12.47 g_loss1: 11.36 g_loss2: 9.75 w_loss: 8.99 s_loss: 9.05 perceptual_loss: 3.98 kl_loss: 0.57 
+errD0: 1.62 errD1: 1.65 errD2: 1.49 
+g_loss0: 8.36 g_loss1: 9.58 g_loss2: 8.70 w_loss: 5.42 s_loss: 8.31 perceptual_loss: 3.88 kl_loss: 0.46 
+[87/200][1106]
+                  Loss_D: 5.76 Loss_G: 49.26 Time: 724.62s
+errD0: 1.60 errD1: 1.59 errD2: 1.57 
+g_loss0: 18.86 g_loss1: 13.35 g_loss2: 16.36 w_loss: 7.43 s_loss: 13.59 perceptual_loss: 3.46 kl_loss: 0.53 
+errD0: 1.79 errD1: 1.53 errD2: 1.52 
+g_loss0: 10.67 g_loss1: 7.60 g_loss2: 15.52 w_loss: 7.16 s_loss: 10.96 perceptual_loss: 3.44 kl_loss: 0.58 
+errD0: 1.55 errD1: 1.51 errD2: 1.53 
+g_loss0: 11.85 g_loss1: 8.37 g_loss2: 9.68 w_loss: 8.49 s_loss: 10.48 perceptual_loss: 4.19 kl_loss: 0.56 
+errD0: 2.31 errD1: 1.69 errD2: 2.08 
+g_loss0: 2.35 g_loss1: 9.13 g_loss2: 3.92 w_loss: 9.40 s_loss: 9.73 perceptual_loss: 3.56 kl_loss: 0.61 
+errD0: 1.78 errD1: 1.52 errD2: 1.67 
+g_loss0: 7.66 g_loss1: 12.15 g_loss2: 11.56 w_loss: 6.65 s_loss: 14.02 perceptual_loss: 3.64 kl_loss: 0.60 
+errD0: 1.55 errD1: 1.51 errD2: 1.49 
+g_loss0: 12.95 g_loss1: 13.24 g_loss2: 17.80 w_loss: 8.71 s_loss: 12.98 perceptual_loss: 3.26 kl_loss: 0.54 
+errD0: 1.53 errD1: 1.52 errD2: 1.51 
+g_loss0: 14.28 g_loss1: 8.43 g_loss2: 26.91 w_loss: 7.24 s_loss: 15.71 perceptual_loss: 3.52 kl_loss: 0.50 
+errD0: 1.54 errD1: 1.82 errD2: 1.55 
+g_loss0: 13.01 g_loss1: 3.31 g_loss2: 17.11 w_loss: 8.70 s_loss: 11.73 perceptual_loss: 3.63 kl_loss: 0.68 
+errD0: 1.58 errD1: 1.62 errD2: 1.57 
+g_loss0: 8.67 g_loss1: 8.41 g_loss2: 14.07 w_loss: 4.66 s_loss: 10.06 perceptual_loss: 3.83 kl_loss: 0.44 
+errD0: 2.00 errD1: 1.78 errD2: 1.54 
+g_loss0: 5.17 g_loss1: 10.01 g_loss2: 14.19 w_loss: 5.74 s_loss: 9.34 perceptual_loss: 3.64 kl_loss: 0.78 
+errD0: 1.94 errD1: 1.50 errD2: 1.48 
+g_loss0: 11.19 g_loss1: 14.13 g_loss2: 11.05 w_loss: 5.41 s_loss: 9.67 perceptual_loss: 3.79 kl_loss: 0.43 
+[88/200][1106]
+                  Loss_D: 4.70 Loss_G: 53.22 Time: 720.85s
+errD0: 1.50 errD1: 2.15 errD2: 1.43 
+g_loss0: 15.46 g_loss1: 10.40 g_loss2: 12.40 w_loss: 6.78 s_loss: 8.14 perceptual_loss: 3.83 kl_loss: 0.47 
+errD0: 2.09 errD1: 2.95 errD2: 1.46 
+g_loss0: 12.80 g_loss1: 7.72 g_loss2: 16.12 w_loss: 6.95 s_loss: 12.75 perceptual_loss: 3.96 kl_loss: 0.60 
+errD0: 2.53 errD1: 3.19 errD2: 2.45 
+g_loss0: 8.65 g_loss1: 6.03 g_loss2: 9.18 w_loss: 10.26 s_loss: 15.11 perceptual_loss: 3.54 kl_loss: 0.59 
+errD0: 2.07 errD1: 2.02 errD2: 1.57 
+g_loss0: 6.24 g_loss1: 14.15 g_loss2: 17.31 w_loss: 8.99 s_loss: 10.76 perceptual_loss: 3.85 kl_loss: 0.47 
+errD0: 1.96 errD1: 2.53 errD2: 1.83 
+g_loss0: 11.93 g_loss1: 13.65 g_loss2: 9.70 w_loss: 3.93 s_loss: 7.13 perceptual_loss: 4.18 kl_loss: 0.72 
+errD0: 1.54 errD1: 1.62 errD2: 2.06 
+g_loss0: 13.73 g_loss1: 7.84 g_loss2: 14.77 w_loss: 4.65 s_loss: 10.48 perceptual_loss: 3.66 kl_loss: 0.43 
+errD0: 1.62 errD1: 1.57 errD2: 1.53 
+g_loss0: 8.64 g_loss1: 12.95 g_loss2: 10.32 w_loss: 8.57 s_loss: 9.40 perceptual_loss: 3.87 kl_loss: 0.50 
+errD0: 1.71 errD1: 1.76 errD2: 1.63 
+g_loss0: 10.70 g_loss1: 8.42 g_loss2: 8.02 w_loss: 9.01 s_loss: 11.22 perceptual_loss: 4.04 kl_loss: 0.48 
+errD0: 1.49 errD1: 1.68 errD2: 1.51 
+g_loss0: 8.13 g_loss1: 8.47 g_loss2: 12.57 w_loss: 6.34 s_loss: 9.08 perceptual_loss: 3.75 kl_loss: 0.45 
+errD0: 2.35 errD1: 1.56 errD2: 1.76 
+g_loss0: 14.28 g_loss1: 23.29 g_loss2: 9.81 w_loss: 5.37 s_loss: 9.78 perceptual_loss: 3.49 kl_loss: 0.51 
+errD0: 1.90 errD1: 2.88 errD2: 1.53 
+g_loss0: 13.32 g_loss1: 16.63 g_loss2: 10.99 w_loss: 8.24 s_loss: 13.93 perceptual_loss: 3.20 kl_loss: 0.70 
+[89/200][1106]
+                  Loss_D: 5.09 Loss_G: 47.34 Time: 723.94s
+errD0: 2.15 errD1: 1.85 errD2: 1.50 
+g_loss0: 8.31 g_loss1: 6.24 g_loss2: 9.78 w_loss: 5.44 s_loss: 9.41 perceptual_loss: 3.82 kl_loss: 0.54 
+errD0: 1.53 errD1: 1.62 errD2: 1.87 
+g_loss0: 8.95 g_loss1: 6.71 g_loss2: 10.98 w_loss: 4.46 s_loss: 9.28 perceptual_loss: 3.76 kl_loss: 0.57 
+errD0: 1.70 errD1: 1.72 errD2: 1.67 
+g_loss0: 8.18 g_loss1: 11.91 g_loss2: 9.35 w_loss: 9.47 s_loss: 13.58 perceptual_loss: 3.60 kl_loss: 0.58 
+errD0: 1.49 errD1: 1.59 errD2: 1.55 
+g_loss0: 12.45 g_loss1: 14.23 g_loss2: 6.64 w_loss: 4.99 s_loss: 10.17 perceptual_loss: 3.51 kl_loss: 0.75 
+errD0: 1.54 errD1: 1.57 errD2: 1.58 
+g_loss0: 19.89 g_loss1: 12.14 g_loss2: 18.44 w_loss: 7.84 s_loss: 11.70 perceptual_loss: 3.93 kl_loss: 0.66 
+errD0: 1.59 errD1: 1.69 errD2: 1.71 
+g_loss0: 7.84 g_loss1: 11.04 g_loss2: 14.25 w_loss: 9.34 s_loss: 11.93 perceptual_loss: 4.17 kl_loss: 0.56 
+errD0: 1.54 errD1: 2.47 errD2: 1.50 
+g_loss0: 10.90 g_loss1: 16.52 g_loss2: 12.46 w_loss: 7.61 s_loss: 14.34 perceptual_loss: 3.50 kl_loss: 0.44 
+errD0: 2.91 errD1: 1.52 errD2: 1.52 
+g_loss0: 20.40 g_loss1: 12.68 g_loss2: 13.05 w_loss: 9.60 s_loss: 9.10 perceptual_loss: 3.32 kl_loss: 0.82 
+errD0: 1.96 errD1: 1.59 errD2: 1.66 
+g_loss0: 9.07 g_loss1: 13.59 g_loss2: 15.96 w_loss: 5.86 s_loss: 5.98 perceptual_loss: 4.20 kl_loss: 0.45 
+errD0: 2.19 errD1: 1.67 errD2: 1.44 
+g_loss0: 7.57 g_loss1: 18.08 g_loss2: 16.04 w_loss: 4.93 s_loss: 6.76 perceptual_loss: 3.77 kl_loss: 0.51 
+errD0: 1.64 errD1: 1.52 errD2: 1.49 
+g_loss0: 9.52 g_loss1: 7.68 g_loss2: 16.34 w_loss: 5.98 s_loss: 12.75 perceptual_loss: 4.26 kl_loss: 0.56 
+[90/200][1106]
+                  Loss_D: 5.41 Loss_G: 54.27 Time: 721.39s
+errD0: 2.70 errD1: 1.54 errD2: 1.87 
+g_loss0: 7.62 g_loss1: 21.99 g_loss2: 18.11 w_loss: 10.06 s_loss: 11.68 perceptual_loss: 3.81 kl_loss: 0.64 
+errD0: 1.53 errD1: 1.53 errD2: 1.47 
+g_loss0: 7.99 g_loss1: 20.27 g_loss2: 22.03 w_loss: 3.19 s_loss: 10.48 perceptual_loss: 3.29 kl_loss: 0.53 
+errD0: 1.65 errD1: 1.50 errD2: 1.46 
+g_loss0: 8.81 g_loss1: 20.34 g_loss2: 11.95 w_loss: 6.27 s_loss: 7.77 perceptual_loss: 3.74 kl_loss: 0.59 
+errD0: 1.77 errD1: 1.57 errD2: 1.59 
+g_loss0: 10.42 g_loss1: 11.74 g_loss2: 19.05 w_loss: 6.51 s_loss: 8.32 perceptual_loss: 3.44 kl_loss: 0.48 
+errD0: 1.96 errD1: 1.58 errD2: 1.57 
+g_loss0: 5.62 g_loss1: 9.72 g_loss2: 7.62 w_loss: 7.38 s_loss: 10.23 perceptual_loss: 3.90 kl_loss: 0.53 
+errD0: 2.67 errD1: 2.58 errD2: 3.16 
+g_loss0: 2.50 g_loss1: 4.66 g_loss2: 5.73 w_loss: 7.19 s_loss: 9.28 perceptual_loss: 3.54 kl_loss: 0.67 
+errD0: 1.60 errD1: 1.49 errD2: 1.75 
+g_loss0: 8.18 g_loss1: 11.70 g_loss2: 13.32 w_loss: 8.30 s_loss: 12.29 perceptual_loss: 3.35 kl_loss: 0.56 
+errD0: 1.55 errD1: 1.53 errD2: 1.58 
+g_loss0: 10.07 g_loss1: 10.15 g_loss2: 10.27 w_loss: 4.68 s_loss: 8.14 perceptual_loss: 3.76 kl_loss: 0.62 
+errD0: 1.49 errD1: 1.55 errD2: 1.65 
+g_loss0: 11.68 g_loss1: 8.61 g_loss2: 10.30 w_loss: 10.18 s_loss: 15.18 perceptual_loss: 3.63 kl_loss: 0.60 
+errD0: 1.54 errD1: 1.64 errD2: 1.48 
+g_loss0: 10.72 g_loss1: 8.46 g_loss2: 13.87 w_loss: 3.38 s_loss: 8.09 perceptual_loss: 3.92 kl_loss: 0.63 
+errD0: 1.53 errD1: 1.75 errD2: 3.14 
+g_loss0: 13.09 g_loss1: 10.10 g_loss2: 14.30 w_loss: 7.90 s_loss: 8.93 perceptual_loss: 3.32 kl_loss: 0.50 
+[91/200][1106]
+                  Loss_D: 5.15 Loss_G: 48.27 Time: 724.05s
+errD0: 1.71 errD1: 1.55 errD2: 1.69 
+g_loss0: 8.91 g_loss1: 9.51 g_loss2: 9.68 w_loss: 5.47 s_loss: 9.33 perceptual_loss: 3.65 kl_loss: 0.61 
+errD0: 1.51 errD1: 1.59 errD2: 1.54 
+g_loss0: 12.58 g_loss1: 8.18 g_loss2: 17.51 w_loss: 11.97 s_loss: 13.74 perceptual_loss: 3.97 kl_loss: 0.64 
+errD0: 1.66 errD1: 1.66 errD2: 1.44 
+g_loss0: 11.22 g_loss1: 8.45 g_loss2: 9.42 w_loss: 4.92 s_loss: 12.86 perceptual_loss: 3.49 kl_loss: 0.53 
+errD0: 2.01 errD1: 1.57 errD2: 2.11 
+g_loss0: 11.89 g_loss1: 12.20 g_loss2: 15.76 w_loss: 11.55 s_loss: 11.46 perceptual_loss: 3.68 kl_loss: 0.67 
+errD0: 1.54 errD1: 1.51 errD2: 1.52 
+g_loss0: 12.90 g_loss1: 9.89 g_loss2: 15.97 w_loss: 3.25 s_loss: 10.18 perceptual_loss: 3.38 kl_loss: 0.49 
+errD0: 1.60 errD1: 1.66 errD2: 1.57 
+g_loss0: 8.61 g_loss1: 18.04 g_loss2: 10.48 w_loss: 5.20 s_loss: 8.88 perceptual_loss: 3.65 kl_loss: 0.59 
+errD0: 1.62 errD1: 1.58 errD2: 1.62 
+g_loss0: 4.30 g_loss1: 17.08 g_loss2: 10.09 w_loss: 7.89 s_loss: 10.70 perceptual_loss: 3.69 kl_loss: 0.55 
+errD0: 1.68 errD1: 1.60 errD2: 1.68 
+g_loss0: 7.01 g_loss1: 17.72 g_loss2: 7.38 w_loss: 3.41 s_loss: 7.30 perceptual_loss: 3.43 kl_loss: 0.53 
+errD0: 1.58 errD1: 1.59 errD2: 1.74 
+g_loss0: 8.99 g_loss1: 8.70 g_loss2: 11.95 w_loss: 9.97 s_loss: 10.20 perceptual_loss: 3.71 kl_loss: 0.65 
+errD0: 1.62 errD1: 1.55 errD2: 1.67 
+g_loss0: 10.31 g_loss1: 15.00 g_loss2: 13.30 w_loss: 3.79 s_loss: 11.16 perceptual_loss: 3.65 kl_loss: 0.47 
+errD0: 2.34 errD1: 1.62 errD2: 1.64 
+g_loss0: 3.34 g_loss1: 9.69 g_loss2: 8.96 w_loss: 4.18 s_loss: 8.45 perceptual_loss: 3.63 kl_loss: 0.70 
+[92/200][1106]
+                  Loss_D: 4.52 Loss_G: 73.85 Time: 725.53s
+errD0: 1.59 errD1: 1.50 errD2: 1.53 
+g_loss0: 7.54 g_loss1: 16.23 g_loss2: 10.96 w_loss: 1.43 s_loss: 6.36 perceptual_loss: 3.44 kl_loss: 0.44 
+errD0: 1.52 errD1: 1.53 errD2: 4.98 
+g_loss0: 10.36 g_loss1: 6.46 g_loss2: 23.24 w_loss: 7.22 s_loss: 12.67 perceptual_loss: 4.13 kl_loss: 0.64 
+errD0: 1.62 errD1: 1.68 errD2: 2.78 
+g_loss0: 10.07 g_loss1: 8.04 g_loss2: 7.26 w_loss: 8.75 s_loss: 13.03 perceptual_loss: 3.49 kl_loss: 0.53 
+errD0: 2.54 errD1: 1.59 errD2: 1.54 
+g_loss0: 3.51 g_loss1: 9.57 g_loss2: 8.94 w_loss: 6.13 s_loss: 7.98 perceptual_loss: 3.76 kl_loss: 0.56 
+errD0: 2.17 errD1: 3.71 errD2: 1.58 
+g_loss0: 3.88 g_loss1: 3.97 g_loss2: 19.57 w_loss: 3.66 s_loss: 8.69 perceptual_loss: 3.76 kl_loss: 0.45 
+errD0: 1.48 errD1: 1.51 errD2: 1.47 
+g_loss0: 4.65 g_loss1: 12.30 g_loss2: 20.39 w_loss: 6.16 s_loss: 11.07 perceptual_loss: 3.87 kl_loss: 0.71 
+errD0: 1.59 errD1: 1.53 errD2: 1.57 
+g_loss0: 8.32 g_loss1: 20.05 g_loss2: 11.29 w_loss: 13.38 s_loss: 11.18 perceptual_loss: 3.56 kl_loss: 0.44 
+errD0: 1.63 errD1: 1.57 errD2: 1.53 
+g_loss0: 9.98 g_loss1: 2.01 g_loss2: 13.80 w_loss: 2.76 s_loss: 11.51 perceptual_loss: 3.78 kl_loss: 0.37 
+errD0: 1.52 errD1: 1.59 errD2: 1.74 
+g_loss0: 13.72 g_loss1: 8.22 g_loss2: 18.07 w_loss: 5.65 s_loss: 10.39 perceptual_loss: 3.58 kl_loss: 0.82 
+errD0: 1.64 errD1: 1.59 errD2: 1.65 
+g_loss0: 8.06 g_loss1: 11.86 g_loss2: 21.34 w_loss: 11.34 s_loss: 11.43 perceptual_loss: 3.48 kl_loss: 0.62 
+errD0: 1.55 errD1: 1.84 errD2: 1.71 
+g_loss0: 11.35 g_loss1: 5.38 g_loss2: 7.29 w_loss: 5.54 s_loss: 8.68 perceptual_loss: 3.73 kl_loss: 0.55 
+[93/200][1106]
+                  Loss_D: 4.58 Loss_G: 49.73 Time: 725.62s
+errD0: 1.84 errD1: 1.51 errD2: 1.49 
+g_loss0: 13.16 g_loss1: 8.56 g_loss2: 12.31 w_loss: 4.41 s_loss: 7.50 perceptual_loss: 3.90 kl_loss: 0.83 
+errD0: 1.51 errD1: 1.64 errD2: 1.69 
+g_loss0: 11.34 g_loss1: 10.21 g_loss2: 9.80 w_loss: 8.18 s_loss: 12.06 perceptual_loss: 4.01 kl_loss: 0.57
