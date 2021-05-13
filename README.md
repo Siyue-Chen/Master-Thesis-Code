@@ -12,6 +12,10 @@ For ControlGAN, file run_ControlGAN.ipynb is the file that run ControlGAN.
 
 
 ## Inception Score
-Folder Inception Score is used to calculate inception score. File is the file inception_score.ipynb that run inception score.
+Folder Inception Score is used to calculate inception score. File inception_score.ipynb is the file that run inception score.
 
-## Image
+## loss function handling
+This folder contains the code that plot the loss function. File loss.ipynb is the file that plot loss function.
+
+## image
+File image.ipynb is used to summary the self-defined index in thesis.
